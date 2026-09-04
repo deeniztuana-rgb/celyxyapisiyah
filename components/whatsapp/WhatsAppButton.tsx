@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
+import { useTranslations } from 'next-intl';
 import { AnimatePresence, motion } from 'framer-motion';
 import { whatsappLink } from '@/config/site';
 
@@ -13,6 +14,7 @@ function WhatsAppIcon({ className }: { className?: string }) {
 }
 
 export function WhatsAppButton() {
+  const t = useTranslations('cta');
   const [visible, setVisible] = useState(false);
 
   useEffect(() => {
@@ -29,7 +31,7 @@ export function WhatsAppButton() {
           href={whatsappLink()}
           target="_blank"
           rel="noopener noreferrer"
-          aria-label="WhatsApp'tan teklif al"
+          aria-label={t('whatsapp')}
           initial={{ opacity: 0, scale: 0.8, y: 10 }}
           animate={{ opacity: 1, scale: 1, y: 0 }}
           exit={{ opacity: 0, scale: 0.8, y: 10 }}
@@ -37,8 +39,8 @@ export function WhatsAppButton() {
           className="group fixed bottom-5 right-5 z-40 flex items-center gap-0 overflow-hidden rounded-full bg-[#25D366] py-3.5 pl-3.5 pr-3.5 text-white shadow-lg shadow-black/20 transition-all duration-300 hover:pr-6 md:bottom-8 md:right-8"
         >
           <WhatsAppIcon className="h-6 w-6 shrink-0" />
-          <span className="max-w-0 overflow-hidden whitespace-nowrap text-sm font-medium opacity-0 transition-all duration-300 group-hover:ml-2 group-hover:max-w-[180px] group-hover:opacity-100">
-            WhatsApp’tan Teklif Al
+          <span className="max-w-0 overflow-hidden whitespace-nowrap text-sm font-medium opacity-0 transition-all duration-300 group-hover:ml-2 group-hover:max-w-[220px] group-hover:opacity-100">
+            {t('whatsapp')}
           </span>
         </motion.a>
       )}

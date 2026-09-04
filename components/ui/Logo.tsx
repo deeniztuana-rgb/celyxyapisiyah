@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import { Link } from '@/i18n/routing';
 import { cn } from '@/lib/utils';
 import { siteConfig } from '@/config/site';
 
@@ -12,7 +12,7 @@ export function Logo({
   return (
     <Link
       href="/"
-      aria-label={`${siteConfig.name} ana sayfa`}
+      aria-label={`${siteConfig.name} home`}
       className={cn('group inline-flex items-center gap-2.5', className)}
     >
       <span
@@ -40,7 +40,7 @@ export function Logo({
             light ? 'text-white/50' : 'text-text-muted'
           )}
         >
-          Yapı Sistemleri
+          Building Systems
         </span>
       </span>
     </Link>

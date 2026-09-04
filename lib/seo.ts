@@ -7,18 +7,19 @@ type SeoParams = {
   path?: string;
   keywords?: string[];
   image?: string;
+  locale?: string;
 };
 
 const defaultKeywords = [
-  'PVC pencere',
-  'alüminyum doğrama',
-  'kış bahçesi',
-  'bioklimatik pergola',
-  'giyotin cam',
-  'cam balkon',
-  'otomatik kapı',
-  'yapı sistemleri',
-  'İstanbul',
+  'PVC window',
+  'aluminium joinery',
+  'winter garden',
+  'bioclimatic pergola',
+  'guillotine glass',
+  'glass balcony',
+  'automatic door',
+  'building systems',
+  'Istanbul',
 ];
 
 export function buildMetadata({
@@ -27,12 +28,16 @@ export function buildMetadata({
   path = '/',
   keywords = [],
   image,
+  locale = 'en',
 }: SeoParams = {}): Metadata {
   const fullTitle = title
     ? `${title} | ${siteConfig.legalName}`
     : `${siteConfig.legalName} — ${siteConfig.tagline}`;
   const desc = description ?? siteConfig.description;
-  const url = `${siteConfig.url}${path === '/' ? '' : path}`;
+
+  const prefix = locale && locale !== 'en' ? `/${locale}` : '';
+  const cleanPath = path === '/' ? '' : path;
+  const url = `${siteConfig.url}${prefix}${cleanPath}`;
 
   return {
     title: fullTitle,
@@ -44,7 +49,6 @@ export function buildMetadata({
       description: desc,
       url,
       siteName: siteConfig.legalName,
-      locale: siteConfig.locale,
       type: 'website',
       images: image ? [{ url: image, width: 1200, height: 630 }] : undefined,
     },

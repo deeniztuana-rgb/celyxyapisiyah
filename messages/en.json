@@ -1,0 +1,1033 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "products": "Products",
+    "contact": "Contact",
+    "blog": "Blog",
+    "getQuote": "Get a Quote"
+  },
+  "common": {
+    "viewAll": "View All",
+    "learnMore": "Learn More",
+    "readMore": "Read More",
+    "review": "Explore",
+    "allServices": "All Services",
+    "tableOfContents": "Contents",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu",
+    "whatsapp": "WhatsApp",
+    "sinceLabel": "Since"
+  },
+  "hero": {
+    "eyebrow": "PVC · Aluminium · Glass · Shading",
+    "title1": "Premium System Solutions",
+    "title2": "for Modern Structures",
+    "description": "We bring together aesthetics, durability and engineering in PVC, aluminium, glass and shading systems.",
+    "ctaPrimary": "Tell Us Your Project",
+    "ctaSecondary": "Explore Services",
+    "scroll": "Explore",
+    "badges": [
+      { "value": "Since 2020", "label": "In Service" },
+      { "value": "Custom Size", "label": "Manufacturing" },
+      { "value": "Professional", "label": "Application & Installation" }
+    ]
+  },
+  "home": {
+    "servicesEyebrow": "Our Services",
+    "servicesTitle": "Solution Areas",
+    "servicesDesc": "We combine all the systems modern structures need with aesthetics, durability and engineering.",
+    "servicesCta": "{count}+ Systems — See All Services"
+  },
+  "companyIntro": {
+    "eyebrow": "About Us",
+    "title": "Adding value to modern structures since 2020",
+    "paragraphs": [
+      "As Celyx Prime Global, since 2020 we have been producing professional solutions for residential and commercial projects in PVC, aluminium, glass and shading systems. We approach our work with engineering discipline and a modern architectural mindset.",
+      "We are with you at every stage — from survey to production, from installation to after-sales support. Our goal is not simply to sell products, but to build long-lasting, aesthetic and comfortable living spaces."
+    ],
+    "points": [
+      { "title": "Custom-Size Manufacturing", "text": "Bespoke design and production for every project." },
+      { "title": "Professional Installation", "text": "Clean, fast and meticulous application." },
+      { "title": "After-Sales Support", "text": "Technical assurance after installation." }
+    ],
+    "cta": "Get to Know Us"
+  },
+  "whyUs": {
+    "eyebrow": "Why Us?",
+    "title": "Why should you choose us?",
+    "description": "We make a difference at every stage — from materials to installation, from project design to after-sales support.",
+    "items": [
+      { "title": "Expertise", "description": "Years of industry experience and a professional application team." },
+      { "title": "Quality Materials", "description": "Long-lasting, high-performance certified systems." },
+      { "title": "Custom Project Design", "description": "Custom size, design and engineering for every project." },
+      { "title": "After-Sales Support", "description": "Technical support, maintenance and service assurance after installation." }
+    ]
+  },
+  "process": {
+    "eyebrow": "Our Process",
+    "title": "A flawless journey, from survey to delivery",
+    "description": "We deliver every project on time and in full, with a transparent and planned process.",
+    "steps": [
+      { "title": "Survey", "description": "We determine your needs and measurements with a free on-site survey." },
+      { "title": "Project Design", "description": "We prepare a bespoke design, technical drawings and a transparent quote." },
+      { "title": "Production", "description": "We manufacture the approved project with precise measurements in our own facility." },
+      { "title": "Installation", "description": "We carry out clean, fast and meticulous installation with our expert team." },
+      { "title": "Delivery", "description": "We complete the checks and hand over with warranty and service assurance." }
+    ]
+  },
+  "featured": {
+    "eyebrow": "Featured System",
+    "title": "Winter Garden Systems",
+    "description": "Modern glass and aluminium solutions that make your living spaces usable in all four seasons. We combine aesthetics with performance through thermally insulated profiles and special glass packages.",
+    "badgeValue": "4 Seasons",
+    "badgeLabel": "Uninterrupted Comfort",
+    "highlights": ["Thermal insulation", "Modern architecture", "Four-season use", "Custom-size manufacturing"],
+    "cta": "View Details"
+  },
+  "projectsTeaser": {
+    "eyebrow": "Our Projects",
+    "title": "Selected projects we have brought to life",
+    "description": "A selection of our applications bearing our signature in villa, residential and commercial projects.",
+    "cta": "All Projects"
+  },
+  "blogTeaser": {
+    "eyebrow": "Knowledge Center",
+    "title": "What you should know about the systems",
+    "description": "Guides and expert content to help you choose the right system.",
+    "cta": "All Articles"
+  },
+  "servicesPage": {
+    "eyebrow": "Our Solution Areas",
+    "title": "Services & Systems",
+    "description": "We combine all the systems modern structures need with aesthetics, durability and engineering."
+  },
+  "serviceDetail": {
+    "toc": "Contents",
+    "overviewEyebrow": "Overview",
+    "overviewTitle": "What is {title}?",
+    "advantages": "Advantages",
+    "technical": "Technical Specifications",
+    "useCases": "Use Areas",
+    "gallery": "Gallery",
+    "faq": "Frequently Asked Questions",
+    "quoteBoxTitle": "Get a quote for {title}",
+    "quoteBoxText": "Free survey and price quote.",
+    "ctaTitle": "Planning a similar project for {title}?",
+    "otherServices": "Other Systems",
+    "categoryLabel": "Category"
+  },
+  "serviceCategories": {
+    "cam-aluminyum": "Glass & Aluminium",
+    "cam": "Glass Systems",
+    "aluminyum": "Aluminium",
+    "pvc": "PVC",
+    "golgelendirme": "Shading",
+    "guvenlik": "Security",
+    "otomatik-kapi": "Automatic Doors",
+    "aksesuar": "Accessories"
+  },
+  "svc": {
+    "kis-bahcesi": {
+      "title": "Winter Garden Systems",
+      "short": "Modern glass and aluminium solutions that make your living spaces usable in all four seasons.",
+      "intro": "Winter garden systems transform your garden, terrace and balcony areas into living spaces you can enjoy in comfort throughout the year. With highly thermally insulated aluminium profiles and special glass packages, we bring together aesthetics and performance.",
+      "advantages": [
+        { "title": "Thermal Insulation", "description": "Energy savings with thermal-break profiles and insulated glass." },
+        { "title": "Four-Season Use", "description": "Cool in summer, warm in winter; uninterrupted comfort." },
+        { "title": "Modern Architecture", "description": "Slim profile lines and wide glass surfaces." },
+        { "title": "Custom-Size Manufacturing", "description": "Bespoke project design and production for every space." }
+      ],
+      "specs": [
+        { "label": "Profile", "value": "Thermally insulated aluminium" },
+        { "label": "Glass", "value": "Double / triple insulated glass, Low-E" },
+        { "label": "Roof", "value": "Sloped / flat, motorised option" },
+        { "label": "Colour", "value": "RAL colour chart" }
+      ],
+      "useCases": ["Villa terraces", "Restaurant & café areas", "Rooftop living spaces", "Hotel and resort projects"],
+      "faq": [
+        { "q": "Can a winter garden be heated?", "a": "Yes, with underfloor heating and air-conditioning integration, comfortable four-season use is possible." },
+        { "q": "How long does installation take?", "a": "Depending on size, an average project is completed within 3–7 working days." }
+      ]
+    },
+    "bioklimatik-pergola": {
+      "title": "Bioclimatic Pergola",
+      "short": "Smart shading systems that control sun and rain with adjustable louvres.",
+      "intro": "Bioclimatic pergola systems let you control sunlight, ventilation and rain thanks to their motorised, adjustable aluminium louvres. They turn your outdoor areas into smart, comfortable living spaces.",
+      "advantages": [
+        { "title": "Adjustable Louvres", "description": "Louvres that rotate 0–135° according to the sun angle." },
+        { "title": "Rain Protection", "description": "Full watertightness with drainage when closed." },
+        { "title": "Motorised Control", "description": "Remote control and smart-home integration." },
+        { "title": "Durable Structure", "description": "Wind-resistant aluminium construction." }
+      ],
+      "specs": [
+        { "label": "Material", "value": "Extruded aluminium" },
+        { "label": "Louvre", "value": "Motorised, adjustable" },
+        { "label": "Control", "value": "Remote / sensor / smart home" },
+        { "label": "Add-ons", "value": "Side glass, zip screen, LED" }
+      ],
+      "useCases": ["Villa gardens", "Restaurant terraces", "Poolside", "Hotel outdoor areas"],
+      "faq": [
+        { "q": "Does it let water through in the rain?", "a": "No, when closed the water is drained via the integrated gutter system." },
+        { "q": "Can it be used in winter?", "a": "With side glass and heater integration it can be used in all four seasons." }
+      ]
+    },
+    "ofis-bolme": {
+      "title": "Office Partition Systems",
+      "short": "Slim-profile, sound-insulated glass partition solutions for modern workspaces.",
+      "intro": "Office partition systems turn open offices into functional, airy and modern spaces. With slim aluminium profiles and single/double glazing options, they separate spaces without blocking light and provide sound insulation.",
+      "advantages": [
+        { "title": "Airy Look", "description": "Divided yet bright spaces thanks to glass surfaces." },
+        { "title": "Sound Insulation", "description": "Acoustic comfort in meeting rooms with double glazing." },
+        { "title": "Modular Structure", "description": "Easy installation, disassembly and repositioning." },
+        { "title": "Elegant Design", "description": "Slim profiles and film options applicable to glass." }
+      ],
+      "specs": [
+        { "label": "Profile", "value": "Slim aluminium partition profile" },
+        { "label": "Glass", "value": "Single / double, tempered" },
+        { "label": "Door", "value": "Hinged / sliding glass door" },
+        { "label": "Options", "value": "Blinds, film, acoustic glass" }
+      ],
+      "useCases": ["Offices and business centres", "Meeting rooms", "Showroom & store", "Clinics and practices"],
+      "faq": [
+        { "q": "Can privacy be provided on the glass?", "a": "Privacy can be provided with frosted film, blinds or smart glass." },
+        { "q": "Can they be relocated?", "a": "Thanks to the modular structure, partitions can be disassembled and repositioned." }
+      ]
+    },
+    "aluminyum-dograma": {
+      "title": "Aluminium Joinery",
+      "short": "High-strength, slim-profile modern façade and window joinery systems.",
+      "intro": "Aluminium joinery systems are indispensable to modern architecture with their durability, slim-profile aesthetics and wide range of colours. With thermally insulated series, energy efficiency is at the forefront.",
+      "advantages": [
+        { "title": "Long Life", "description": "Corrosion-resistant, maintenance-free structure." },
+        { "title": "Slim Profile", "description": "Wide glass area and maximum light." },
+        { "title": "Thermal Insulation", "description": "Thermal series with polyamide barriers." },
+        { "title": "Design Freedom", "description": "Wide range of colours and wood-look options." }
+      ],
+      "specs": [
+        { "label": "Series", "value": "Insulated / non-insulated" },
+        { "label": "Opening", "value": "Sliding, casement, folding" },
+        { "label": "Glass", "value": "Double / triple insulated glass" },
+        { "label": "Coating", "value": "Electrostatic powder coating" }
+      ],
+      "useCases": ["Residential projects", "Offices and business centres", "Façade applications", "Villa windows"],
+      "faq": [
+        { "q": "Can it have a wood look?", "a": "Yes, wood-patterned coating options are available." },
+        { "q": "Why aluminium instead of PVC?", "a": "It is ideal for slimmer profiles, higher strength and large openings." }
+      ]
+    },
+    "zip-perde": {
+      "title": "Zip Screen Systems",
+      "short": "Wind-resistant modern outdoor sun-shading solutions with a channelled structure.",
+      "intro": "Zip screen systems remain stable even in wind thanks to the fabric being fixed into side channels. They are a modern solution providing sun, insect and wind control outdoors.",
+      "advantages": [
+        { "title": "Wind Resistance", "description": "Stable fabric thanks to the side-channel (zip) system." },
+        { "title": "Sun Control", "description": "Technical fabrics that reduce heat and UV." },
+        { "title": "Insect Protection", "description": "Insect barrier with the sealed structure." },
+        { "title": "Motorised Use", "description": "Remote and sun-sensor integration." }
+      ],
+      "specs": [
+        { "label": "Fabric", "value": "Technical screen / blackout" },
+        { "label": "Control", "value": "Motorised / remote" },
+        { "label": "Housing", "value": "Closed aluminium cassette" },
+        { "label": "Width", "value": "Up to 4 metres in one piece" }
+      ],
+      "useCases": ["Pergola side closure", "Façade sun shade", "Terrace & balcony", "Café outdoor areas"],
+      "faq": [
+        { "q": "Does the fabric fade in the sun?", "a": "UV-resistant technical fabrics retain their colour for many years." },
+        { "q": "Is there transparent fabric?", "a": "Semi-transparent screen fabric options that preserve the view are available." }
+      ]
+    },
+    "giyotin-cam": {
+      "title": "Guillotine Glass Systems",
+      "short": "Vertically opening, frameless-look, space-saving modern glass enclosure solutions.",
+      "intro": "Guillotine glass systems let you effortlessly open and close a space by moving the glass vertically up and down. With their minimal profile structure they offer an uninterrupted view and a modern appearance.",
+      "advantages": [
+        { "title": "Space Saving", "description": "Requires no extra space thanks to vertical movement." },
+        { "title": "Uninterrupted View", "description": "Maximum glass surface with a slim profile." },
+        { "title": "Easy Use", "description": "Quiet operation, manual or motorised." },
+        { "title": "Thermal & Sound Insulation", "description": "Comfortable interior with insulated glass." }
+      ],
+      "specs": [
+        { "label": "Profile", "value": "Aluminium, slim section" },
+        { "label": "Glass", "value": "8–10 mm tempered / insulated glass" },
+        { "label": "Movement", "value": "Manual / motorised" },
+        { "label": "Lock", "value": "Multi-point security" }
+      ],
+      "useCases": ["Balcony enclosure", "Café & restaurant façades", "Winter garden", "Terrace enclosure"],
+      "faq": [
+        { "q": "Is it safe in wind?", "a": "It provides high wind resistance with multi-point locking and a sturdy rail system." },
+        { "q": "If the glass breaks, is it replaced?", "a": "Thanks to the modular structure, a single panel can be easily replaced." }
+      ]
+    },
+    "isi-camli-surme": {
+      "title": "Insulated Glass Sliding Systems",
+      "short": "Wide-opening sliding glass systems with high thermal insulation that slide to the side.",
+      "intro": "Insulated glass sliding systems seamlessly connect indoor and outdoor spaces by sliding wide glass surfaces to the side. With their double-glazed structure providing high thermal insulation, they offer four-season comfort.",
+      "advantages": [
+        { "title": "Wide Opening", "description": "Airy transitions with large glass panels." },
+        { "title": "Thermal Insulation", "description": "Energy savings with double insulated glass." },
+        { "title": "Easy Use", "description": "Quiet and smooth sliding mechanism." },
+        { "title": "Modern Look", "description": "Uninterrupted view with a slim profile." }
+      ],
+      "specs": [
+        { "label": "System", "value": "Sliding / lift-and-slide" },
+        { "label": "Glass", "value": "Double insulated glass, Low-E" },
+        { "label": "Profile", "value": "Aluminium, insulated" },
+        { "label": "Lock", "value": "Multi-point hardware" }
+      ],
+      "useCases": ["Living room & terrace transitions", "Villa façades", "Café & restaurant", "Winter garden"],
+      "faq": [
+        { "q": "Can an insect screen be fitted?", "a": "Yes, pleated or sliding insect-screen integration is possible." },
+        { "q": "Is the rail recessed into the floor?", "a": "A floor-recessed rail can be applied for a threshold-free transition." }
+      ]
+    },
+    "pvc-pencere": {
+      "title": "PVC Window Systems",
+      "short": "Durable, maintenance-free PVC window solutions with high thermal and sound insulation.",
+      "intro": "PVC window systems offer superior thermal and sound insulation thanks to their multi-chamber profile structure. With their maintenance-free surface, long life and wide range of colours, they create comfortable living spaces.",
+      "advantages": [
+        { "title": "Thermal Insulation", "description": "Superior energy performance with a multi-chamber profile." },
+        { "title": "Sound Insulation", "description": "Quiet interior against city noise." },
+        { "title": "Security", "description": "Multi-point locking and security hardware." },
+        { "title": "Easy Maintenance", "description": "A paint-free, easy-to-clean surface." }
+      ],
+      "specs": [
+        { "label": "Profile", "value": "70–82 mm, multi-chamber" },
+        { "label": "Glass", "value": "Double / triple insulated glass" },
+        { "label": "Gaskets", "value": "Double / centre gasket" },
+        { "label": "Colour", "value": "White & film coating" }
+      ],
+      "useCases": ["Homes", "Villa projects", "Mass housing", "Renovation projects"],
+      "faq": [
+        { "q": "How long does a PVC window last?", "a": "With quality profiles and hardware it provides 30+ years of trouble-free use." },
+        { "q": "Are there colour options?", "a": "A wide range of film coating colours, including wood, is available." }
+      ]
+    },
+    "pvc-surme": {
+      "title": "Sliding PVC Systems",
+      "short": "Insulated PVC sliding systems that slide to the side, with wide openings and space savings.",
+      "intro": "Sliding PVC systems save space by sliding wide glass surfaces to the side and make the indoor-outdoor transition easier. With their highly insulated profile structure they are ideal for balcony, terrace and living-room transitions.",
+      "advantages": [
+        { "title": "Space Saving", "description": "Requires no extra space thanks to the side-sliding structure." },
+        { "title": "High Insulation", "description": "Energy savings with a multi-chamber profile." },
+        { "title": "Easy Use", "description": "Quiet and smooth sliding mechanism." },
+        { "title": "Wide Opening", "description": "Airy transitions with large glass surfaces." }
+      ],
+      "specs": [
+        { "label": "Profile", "value": "Multi-chamber PVC, sliding" },
+        { "label": "Glass", "value": "Double insulated glass" },
+        { "label": "System", "value": "Sliding / lift-and-slide" },
+        { "label": "Colour", "value": "White & film coating" }
+      ],
+      "useCases": ["Balcony transitions", "Terrace doors", "Living room - garden transitions", "Homes"],
+      "faq": [
+        { "q": "Can an insect screen be fitted?", "a": "Yes, sliding or pleated insect-screen integration is possible." },
+        { "q": "Does it provide thermal insulation?", "a": "It provides high insulation with a multi-chamber profile and insulated glass." }
+      ]
+    },
+    "panjur": {
+      "title": "Roller Shutter Systems",
+      "short": "Motorised and manual roller shutter solutions providing heat, light and security control.",
+      "intro": "Roller shutter systems are versatile solutions providing thermal insulation, light control and security. With monoblock and surface-mounted options, they are suitable for both new and existing buildings.",
+      "advantages": [
+        { "title": "Thermal Insulation", "description": "Insulation with polyurethane-filled slats." },
+        { "title": "Light Control", "description": "Full blackout and graduated light adjustment." },
+        { "title": "Security", "description": "Creates an extra security barrier." },
+        { "title": "Motorised Comfort", "description": "Remote and smart-home integration." }
+      ],
+      "specs": [
+        { "label": "Slat", "value": "Aluminium, PU-filled" },
+        { "label": "Type", "value": "Monoblock / surface-mounted" },
+        { "label": "Control", "value": "Manual / motorised" },
+        { "label": "Colour", "value": "Wide RAL range" }
+      ],
+      "useCases": ["Home windows", "Villa façades", "Hotel rooms", "Commercial buildings"],
+      "faq": [
+        { "q": "Does it work during a power cut?", "a": "Uninterrupted use is ensured with a battery option or manual override." },
+        { "q": "Can it come with an insect screen?", "a": "Yes, integrated insect-screen shutter cassettes are available." }
+      ]
+    },
+    "kepenk": {
+      "title": "Rolling Shutter (Kepenk) Systems",
+      "short": "High-security automatic rolling shutter solutions for businesses and warehouses.",
+      "intro": "Rolling shutter systems provide top-level security and durability for businesses and commercial areas. With automatic and manual options they offer fast and secure opening and closing.",
+      "advantages": [
+        { "title": "High Security", "description": "Sturdy steel/aluminium slat structure." },
+        { "title": "Automatic Use", "description": "Fast, motorised and remote-controlled opening." },
+        { "title": "Durability", "description": "A mechanism suited to heavy use." },
+        { "title": "Emergency Control", "description": "Manual opening during a power cut." }
+      ],
+      "specs": [
+        { "label": "Slat", "value": "Steel / aluminium / polyurethane" },
+        { "label": "Control", "value": "Motorised / manual" },
+        { "label": "Size", "value": "Custom to project" },
+        { "label": "Options", "value": "Perforated slat, emergency exit" }
+      ],
+      "useCases": ["Shops", "Warehouses", "Car parks", "Industrial facilities"],
+      "faq": [
+        { "q": "Is there a perforated slat?", "a": "Perforated/transparent slat options are available for showcase visibility." },
+        { "q": "How durable is it?", "a": "Industrial motors are suitable for a high open-close cycle." }
+      ]
+    },
+    "aluminyum-cit": {
+      "title": "Aluminium Fence Systems",
+      "short": "Modern, durable and maintenance-free fence systems for garden and site perimeters.",
+      "intro": "Aluminium fence systems create an aesthetic and secure boundary for garden and land perimeters with their corrosion-resistant structure, modern louvre designs and wide range of colours.",
+      "advantages": [
+        { "title": "Maintenance-Free", "description": "Rust-proof aluminium structure requiring no painting." },
+        { "title": "Modern Design", "description": "Horizontal/vertical louvre and solid-void options." },
+        { "title": "Long Life", "description": "High resistance to outdoor conditions." },
+        { "title": "Custom Size", "description": "Height and width tailored to the land." }
+      ],
+      "specs": [
+        { "label": "Material", "value": "Extruded aluminium" },
+        { "label": "Louvre", "value": "Horizontal / vertical" },
+        { "label": "Coating", "value": "Electrostatic powder coating" },
+        { "label": "Options", "value": "Garden gate integration" }
+      ],
+      "useCases": ["Villa gardens", "Site perimeters", "Pool areas", "Commercial land"],
+      "faq": [
+        { "q": "Does it provide privacy?", "a": "Privacy is provided with solid louvres or a narrow-gap design." },
+        { "q": "Are gates made too?", "a": "Matching pedestrian and garden gates can be produced together." }
+      ]
+    },
+    "aluminyum-panel-kapi": {
+      "title": "Aluminium Panel Doors",
+      "short": "Thermally insulated, secure and prestigious aluminium panel doors for villa entrances.",
+      "intro": "Aluminium panel doors add prestige to villa and residential entrances with their elegant designs, thermally insulated infill panels and high-security hardware. They offer a wide range of models and colours.",
+      "advantages": [
+        { "title": "Prestigious Entrance", "description": "An elegant look with modern panel designs." },
+        { "title": "Thermal Insulation", "description": "Energy savings with an infill panel." },
+        { "title": "Security", "description": "Multi-point locking hardware." },
+        { "title": "Durability", "description": "Resistant to corrosion and deformation." }
+      ],
+      "specs": [
+        { "label": "Panel", "value": "Thermally insulated infill" },
+        { "label": "Lock", "value": "Multi-point security" },
+        { "label": "Surface", "value": "Flat / patterned, wood look" },
+        { "label": "Options", "value": "Glass detail, fingerprint reader" }
+      ],
+      "useCases": ["Villa entrances", "Detached homes", "Building entrances", "Office entrances"],
+      "faq": [
+        { "q": "Can a smart lock be fitted?", "a": "Fingerprint and PIN smart-lock options can be integrated." },
+        { "q": "Is it custom size?", "a": "Yes, all doors are produced to bespoke measurements for the space." }
+      ]
+    },
+    "aluminyum-katlanir-kapi": {
+      "title": "Folding Aluminium Doors",
+      "short": "Accordion-type glass door systems that fold to the side and open fully, with wide openings.",
+      "intro": "Folding (accordion) aluminium doors fully open the aperture by folding the panels to the side. They are a flexible and modern solution that seamlessly connects indoor and outdoor spaces.",
+      "advantages": [
+        { "title": "Full Opening", "description": "The panels fold and the aperture opens completely." },
+        { "title": "Wide Use", "description": "Ideal flexibility for large openings." },
+        { "title": "Thermal Insulation", "description": "Insulated profile and insulated glass option." },
+        { "title": "Modern Aesthetics", "description": "Slim profiles and wide glass surfaces." }
+      ],
+      "specs": [
+        { "label": "System", "value": "Folding (bi-fold)" },
+        { "label": "Glass", "value": "Double insulated glass / tempered" },
+        { "label": "Profile", "value": "Aluminium, insulated" },
+        { "label": "Panel", "value": "Panel count as needed" }
+      ],
+      "useCases": ["Living room - terrace transitions", "Restaurant & café", "Villa façades", "Winter garden"],
+      "faq": [
+        { "q": "How many panels can there be?", "a": "The panel count and folding direction are designed according to the aperture." },
+        { "q": "Can it be threshold-free?", "a": "A threshold-free transition can be achieved with a floor-recessed rail." }
+      ]
+    },
+    "pergola-tente": {
+      "title": "Pergola & Awning",
+      "short": "Aesthetic shading with articulated, cassette and fixed awning systems.",
+      "intro": "Pergola and awning systems provide aesthetic and functional shading against the sun in your outdoor areas. With articulated, cassette and box-type options, we offer solutions suitable for every space.",
+      "advantages": [
+        { "title": "Aesthetic Look", "description": "Elegant designs in harmony with the architecture." },
+        { "title": "Wide Span", "description": "Uninterrupted shade over large areas." },
+        { "title": "Durable Fabric", "description": "Water-repellent, UV-protected acrylic fabric." },
+        { "title": "Easy Use", "description": "Manual or motorised opening." }
+      ],
+      "specs": [
+        { "label": "Type", "value": "Articulated / cassette / box" },
+        { "label": "Fabric", "value": "Acrylic, water-repellent" },
+        { "label": "Control", "value": "Manual / motorised" },
+        { "label": "Width", "value": "Custom to project" }
+      ],
+      "useCases": ["Home balconies", "Café & restaurant", "Store façades", "Villa gardens"],
+      "faq": [
+        { "q": "Can it stay open in the rain?", "a": "Water-repellent fabrics withstand light rain; closing is recommended in heavy rain." },
+        { "q": "Is there a wind sensor?", "a": "Motorised models offer automatic closing with a wind sensor." }
+      ]
+    },
+    "kaldir-sur": {
+      "title": "Lift-and-Slide Systems",
+      "short": "Highly insulated sliding systems with large, heavy glass panels using lift-and-slide technology.",
+      "intro": "Lift-and-slide systems allow even large and heavy glass panels to be slid effortlessly. When the panel is lifted, the gaskets engage to provide superior thermal, sound and water insulation.",
+      "advantages": [
+        { "title": "Large Panels", "description": "Easy movement of heavy and large glass." },
+        { "title": "Superior Insulation", "description": "Full insulation with gaskets compressed when closed." },
+        { "title": "Comfortable Use", "description": "Smooth movement with the lift-and-slide mechanism." },
+        { "title": "Uninterrupted View", "description": "Airy transitions with a wide glass surface." }
+      ],
+      "specs": [
+        { "label": "System", "value": "Lift-and-slide mechanism" },
+        { "label": "Glass", "value": "Double / triple insulated glass" },
+        { "label": "Profile", "value": "Aluminium / PVC, insulated" },
+        { "label": "Threshold", "value": "Low / recessed rail option" }
+      ],
+      "useCases": ["Villa façades", "Living room - terrace transitions", "Sea-view homes", "Luxury projects"],
+      "faq": [
+        { "q": "How large can it be?", "a": "The system can be designed to carry wide and heavy panels." },
+        { "q": "Does it let cold in during winter?", "a": "When closed, the gaskets compress to provide high thermal insulation." }
+      ]
+    },
+    "otomatik-kapi": {
+      "title": "Automatic Photocell Doors",
+      "short": "Modern and comfortable passage with photocell, revolving and sliding automatic doors.",
+      "intro": "Automatic door systems provide comfort, hygiene and energy efficiency in high-footfall areas with their photocell sliding, revolving and industrial models.",
+      "advantages": [
+        { "title": "Comfortable Passage", "description": "Touch-free, hygienic automatic opening." },
+        { "title": "Energy Efficiency", "description": "Reduces heat loss with fast closing." },
+        { "title": "Safety Sensors", "description": "Anti-jamming safety systems." },
+        { "title": "Quiet Operation", "description": "Quality motors with low noise." }
+      ],
+      "specs": [
+        { "label": "Type", "value": "Sliding / revolving / industrial" },
+        { "label": "Sensor", "value": "Photocell / radar / button" },
+        { "label": "Glass", "value": "Tempered safety glass" },
+        { "label": "Options", "value": "UPS, access control" }
+      ],
+      "useCases": ["Mall & store entrances", "Hospitals & clinics", "Hotels", "Office buildings"],
+      "faq": [
+        { "q": "Does it open during a power cut?", "a": "Safe passage is ensured with a UPS option or manual opening." },
+        { "q": "Can access control be added?", "a": "It can be integrated with card-access and automation systems." }
+      ]
+    },
+    "pvc-isi-yalitimli": {
+      "title": "Thermally Insulated PVC Systems",
+      "short": "High-performance insulated PVC door and window systems that prioritise energy savings.",
+      "intro": "Thermally insulated PVC systems significantly reduce energy costs with their multi-chamber profile structure, double/triple gaskets and Low-E insulated glass options. They are the ideal solution for comfortable and economical living spaces.",
+      "advantages": [
+        { "title": "Energy Savings", "description": "Lower heating-cooling costs with superior insulation." },
+        { "title": "Comfort", "description": "Stable indoor temperature and condensation control." },
+        { "title": "Sound Insulation", "description": "Quiet spaces with double/triple gaskets." },
+        { "title": "Long Life", "description": "UV-resistant, non-fading surface." }
+      ],
+      "specs": [
+        { "label": "Profile", "value": "76–82 mm, 6–7 chambers" },
+        { "label": "Glass", "value": "Triple insulated glass, Low-E" },
+        { "label": "Gaskets", "value": "Triple gasket / centre gasket" },
+        { "label": "Colour", "value": "White & film coating" }
+      ],
+      "useCases": ["Energy-efficient homes", "Villa projects", "Mass housing", "Renovation projects"],
+      "faq": [
+        { "q": "Is triple glazing necessary?", "a": "Double or triple glazing is recommended according to the region's climate and noise level." },
+        { "q": "How much does it save?", "a": "It provides significant savings on heating-cooling costs depending on the profile and glass package." }
+      ]
+    },
+    "kasetli-tente": {
+      "title": "Cassette Awning",
+      "short": "Elegant and durable awning systems with a closed cassette that fully protects the fabric.",
+      "intro": "Cassette awning systems provide long life and an elegant look with a cassette structure that fully encloses the fabric and mechanism when closed. They offer aesthetic shading on balconies and façades.",
+      "advantages": [
+        { "title": "Fabric Protection", "description": "The closed cassette protects the fabric from external factors." },
+        { "title": "Elegant Look", "description": "An elegant design hidden when closed." },
+        { "title": "Long Life", "description": "Durable because the mechanism is protected." },
+        { "title": "Motorised Option", "description": "Remote and sun-sensor integration." }
+      ],
+      "specs": [
+        { "label": "Type", "value": "Full cassette / semi-cassette" },
+        { "label": "Fabric", "value": "Acrylic, water-repellent" },
+        { "label": "Control", "value": "Manual / motorised" },
+        { "label": "Width", "value": "Custom to project" }
+      ],
+      "useCases": ["Home balconies", "Café façades", "Store windows", "Terraces"],
+      "faq": [
+        { "q": "Does the fabric get dirty?", "a": "Thanks to the closed cassette, the fabric is protected from dust and rain and stays clean." },
+        { "q": "Is there a wind sensor?", "a": "A wind/sun sensor can be added to motorised models." }
+      ]
+    },
+    "cam-balkon": {
+      "title": "Glass Balcony Systems",
+      "short": "Turn your balcony into a four-season living space with folding and sliding glass panels.",
+      "intro": "Folding glass balcony systems protect your balcony from wind, dust and noise with their frameless or slim-profile structure while offering an uninterrupted view. A flexible structure that can be fully opened whenever you wish.",
+      "advantages": [
+        { "title": "Foldable Panels", "description": "All panels fold to the side for full opening." },
+        { "title": "Wind & Dust Protection", "description": "Protects your balcony from external factors." },
+        { "title": "Elegant Look", "description": "Modern aesthetics with frameless glass." },
+        { "title": "Easy Cleaning", "description": "Practical cleaning as the panels turn inward." }
+      ],
+      "specs": [
+        { "label": "System", "value": "Folding / sliding" },
+        { "label": "Glass", "value": "8 mm tempered" },
+        { "label": "Rail", "value": "Top/bottom double rail" },
+        { "label": "Colour", "value": "RAL colour options" }
+      ],
+      "useCases": ["Apartment balconies", "Villa terraces", "Café areas", "Office lounges"],
+      "faq": [
+        { "q": "Does it provide thermal insulation?", "a": "Temperature control can be achieved with the insulated-glass option." },
+        { "q": "Can an insect screen be fitted?", "a": "Yes, pleated insect-screen integration is possible." }
+      ]
+    },
+    "seksiyonel-garaj": {
+      "title": "Sectional Garage Doors",
+      "short": "Thermally insulated, modern and secure garage door systems that open parallel to the ceiling.",
+      "intro": "Sectional garage doors provide maximum space savings by opening parallel to the ceiling. With their thermally insulated panels and quiet motors, they are an indispensable solution for modern homes.",
+      "advantages": [
+        { "title": "Space Saving", "description": "Opens parallel to the ceiling, takes no space at the front." },
+        { "title": "Thermal Insulation", "description": "PU-filled sandwich panels." },
+        { "title": "Quiet Motor", "description": "Comfortable and low-noise operation." },
+        { "title": "Security", "description": "Anti-jamming sensor and finger-protected panels." }
+      ],
+      "specs": [
+        { "label": "Panel", "value": "40 mm PU-filled" },
+        { "label": "Opening", "value": "Parallel to ceiling" },
+        { "label": "Motor", "value": "Quiet, remote-controlled" },
+        { "label": "Surface", "value": "Flat / cassette / wood pattern" }
+      ],
+      "useCases": ["Villa garages", "Site car parks", "Commercial garages", "Apartment entrances"],
+      "faq": [
+        { "q": "Can a side door be added?", "a": "An integrated pedestrian door option is available for passage." },
+        { "q": "Are there colour options?", "a": "A wide range of RAL and wood-pattern options is offered." }
+      ]
+    },
+    "plisseri-sineklik": {
+      "title": "Pleated Insect Screens",
+      "short": "Aesthetic and practical modern insect-screen systems with a foldable pleated structure.",
+      "intro": "Pleated insect-screen systems offer elegant insect protection for your windows and doors with their accordion-folding structure. They take up little space, are easy to use and long-lasting.",
+      "advantages": [
+        { "title": "Elegant Structure", "description": "An elegant look with foldable pleats." },
+        { "title": "Easy Use", "description": "Soft and quiet opening and closing." },
+        { "title": "Takes Little Space", "description": "Minimal space with a slim cassette." },
+        { "title": "Wide Compatibility", "description": "Applicable to windows and doors." }
+      ],
+      "specs": [
+        { "label": "Type", "value": "Pleated (accordion)" },
+        { "label": "Application", "value": "Window / door / sliding" },
+        { "label": "Mesh", "value": "Fibreglass / special weave" },
+        { "label": "Colour", "value": "Frame colour options" }
+      ],
+      "useCases": ["Home windows", "Balcony doors", "Sliding systems", "Café & restaurant"],
+      "faq": [
+        { "q": "Can it be threshold-free?", "a": "Comfortable passage is provided with low-profile base options." },
+        { "q": "Can it be double-sided?", "a": "A double-leaf pleated option is available for wide openings." }
+      ]
+    },
+    "sundurma": {
+      "title": "Canopy Systems",
+      "short": "Durable glass and polycarbonate canopy solutions for entrances, terraces and car park areas.",
+      "intro": "Canopy systems are permanent shading solutions that protect entrances, terraces and vehicle areas from rain and sun. They offer glass or polycarbonate covering options with an aluminium carrier.",
+      "advantages": [
+        { "title": "Permanent Protection", "description": "A fixed cover against rain and sun." },
+        { "title": "Durable Structure", "description": "Aluminium carrier construction." },
+        { "title": "Aesthetics", "description": "Modern design in harmony with the architecture." },
+        { "title": "Custom Size", "description": "Bespoke project design and production for the area." }
+      ],
+      "specs": [
+        { "label": "Carrier", "value": "Aluminium construction" },
+        { "label": "Cover", "value": "Glass / polycarbonate" },
+        { "label": "Mounting", "value": "Wall-mounted / free-standing" },
+        { "label": "Options", "value": "LED, gutter, side closure" }
+      ],
+      "useCases": ["Building entrances", "Villa terraces", "Car park areas", "Business entrances"],
+      "faq": [
+        { "q": "Glass or polycarbonate?", "a": "Glass is recommended for aesthetics; polycarbonate for economy and impact resistance." },
+        { "q": "Can it bear snow load?", "a": "The construction is designed for snow and wind load according to the region." }
+      ]
+    },
+    "havuz-kapama": {
+      "title": "Pool Enclosure Systems",
+      "short": "Sliding and telescopic glass enclosure systems that make your pool usable in all four seasons.",
+      "intro": "Pool enclosure systems, with their telescopic and sliding structure, cover your pool to provide four-season use, safety and cleanliness. They reduce heat loss and lower maintenance costs.",
+      "advantages": [
+        { "title": "Four-Season Use", "description": "Year-round enjoyment by covering the pool." },
+        { "title": "Safety", "description": "Protection for children and pets." },
+        { "title": "Cleanliness", "description": "Easy maintenance by protecting from leaves and dirt." },
+        { "title": "Heat Protection", "description": "Energy savings by preserving water temperature." }
+      ],
+      "specs": [
+        { "label": "System", "value": "Telescopic / sliding" },
+        { "label": "Cover", "value": "Polycarbonate / glass" },
+        { "label": "Carrier", "value": "Aluminium rail" },
+        { "label": "Height", "value": "Low / high model" }
+      ],
+      "useCases": ["Villa pools", "Hotel & resort", "Site pools", "Spa & wellness"],
+      "faq": [
+        { "q": "Can you swim inside it?", "a": "In high models, swimming and use inside the enclosure is possible." },
+        { "q": "Is it safe in wind?", "a": "It is wind-resistant with sturdy rails and locking systems." }
+      ]
+    }
+  },
+  "about": {
+    "eyebrow": "About Us",
+    "title": "Adding value to structures since 2020",
+    "description": "Celyx Prime Global is a trust-focused building systems company that brings together engineering discipline with modern architectural aesthetics.",
+    "storyEyebrow": "Our Story",
+    "storyTitle": "A name for experience and trust",
+    "storyLead": "Celyx Prime Global is a premium building solutions company that offers all the systems modern structures need under one roof.",
+    "storyParagraphs": [
+      "Since 2020 we have been producing solutions for residential and commercial projects in PVC, aluminium, glass and shading systems. We place engineering discipline, quality materials and a modern architectural understanding at the centre of our work.",
+      "With our Istanbul Maltepe–based team, we have brought to life projects of different scales — from villas to mass housing, from offices to restaurants. Thanks to our bespoke approach to every project, we offer designs tailored to the space rather than standard solutions.",
+      "We are with you throughout the entire process — from survey to project design, from production to installation and after-sales support. Our aim is not merely to sell products, but to build long-lasting, aesthetic and comfortable living spaces."
+    ],
+    "storyCta": "Get in Touch",
+    "foundedLabel": "Founded",
+    "expertiseEyebrow": "What We Do",
+    "expertiseTitle": "Our Areas of Expertise",
+    "expertiseDesc": "We provide all the systems modern structures need with our expert team.",
+    "expertise": [
+      { "title": "PVC Systems", "text": "Durable and energy-efficient window and sliding solutions with highly insulated, multi-chamber profiles." },
+      { "title": "Aluminium Joinery & Façade", "text": "Slim-profile, durable joinery; curtain-wall façades and folding aluminium systems." },
+      { "title": "Glass Systems", "text": "Guillotine glass, glass balcony, winter garden and insulated glass sliding systems." },
+      { "title": "Shading", "text": "Bioclimatic pergola, zip screen, cassette awning and canopy systems." },
+      { "title": "Automatic Doors & Garage", "text": "Photocell automatic doors and thermally insulated sectional garage doors." },
+      { "title": "Security Systems", "text": "Roller shutter, rolling shutter and aluminium panel door security solutions." }
+    ],
+    "expertiseCta": "See All Services",
+    "missionTitle": "Mission",
+    "mission": "To provide the systems modern structures need at the highest quality standards with custom-size and engineering solutions, giving our customers long-lasting and aesthetic living spaces.",
+    "visionTitle": "Vision",
+    "vision": "To become a reliable premium building-systems brand preferred both domestically and in export, by continuously improving our innovative systems and customer-focused service approach.",
+    "principlesEyebrow": "How We Work",
+    "principlesTitle": "Our working principles",
+    "principlesDesc": "An end-to-end service approach that proceeds with the same care and transparency on every project.",
+    "principles": [
+      { "title": "Survey & Consultancy", "text": "We clarify your needs and measurements with a free on-site survey." },
+      { "title": "Custom Project Design", "text": "We prepare custom size, design and engineering solutions for every space." },
+      { "title": "Meticulous Production & Installation", "text": "We produce approved projects with precise measurements and apply them with our expert team." },
+      { "title": "After-Sales Support", "text": "We provide maintenance, service and warranty assurance after installation." }
+    ],
+    "valuesEyebrow": "Our Values",
+    "valuesTitle": "The principles that make us who we are",
+    "values": [
+      { "title": "Quality", "description": "Uncompromising quality at every stage, from material selection to installation." },
+      { "title": "Trust", "description": "A transparent process, on-time delivery and after-sales assurance." },
+      { "title": "Innovation", "description": "We follow the industry's most up-to-date systems and technologies." },
+      { "title": "Aesthetics", "description": "We bring engineering together with modern architectural aesthetics." }
+    ],
+    "productionEyebrow": "Production & Quality",
+    "productionTitle": "The care we put into details determines the quality of the work",
+    "productionDesc": "With quality material selection, precise production and meticulous installation, we achieve lasting results on every project."
+  },
+  "projectsPage": {
+    "eyebrow": "Portfolio",
+    "title": "Our Projects",
+    "description": "A selection of the standout projects we have brought to life. Each one designed with custom size and engineering.",
+    "categories": {
+      "all": "All",
+      "winter-garden": "Winter Garden",
+      "pergola": "Pergola",
+      "glass": "Glass Systems",
+      "aluminium": "Aluminium",
+      "pvc": "PVC",
+      "automatic-door": "Automatic Doors"
+    },
+    "detail": {
+      "location": "Location",
+      "year": "Year",
+      "system": "System",
+      "aboutEyebrow": "About the Project",
+      "technical": "Technical Specifications",
+      "ctaTitle": "Get a quote for a similar project",
+      "cta": "Get a Free Quote",
+      "other": "Other Projects"
+    }
+  },
+  "prj": {
+    "bahcesehir-villa-kis-bahcesi": {
+      "title": "Bahçeşehir Villa Winter Garden",
+      "system": "Insulated Winter Garden + Guillotine Glass",
+      "description": "Designed for a luxury villa in Bahçeşehir, this winter garden project was realised with thermally insulated aluminium profiles and guillotine glass systems to create a four-season living space.",
+      "specs": [
+        { "label": "System", "value": "Insulated winter garden" },
+        { "label": "Glass", "value": "Triple insulated glass, Low-E" },
+        { "label": "Area", "value": "48 m²" },
+        { "label": "Duration", "value": "12 working days" }
+      ]
+    },
+    "zekeriyakoy-bioklimatik-pergola": {
+      "title": "Zekeriyaköy Bioclimatic Pergola",
+      "system": "Bioclimatic Pergola + Zip Screen",
+      "description": "Designed for a poolside living area, this bioclimatic pergola provided a comfortable outdoor space with sun and wind control via a motorised louvre system and integrated zip screens.",
+      "specs": [
+        { "label": "System", "value": "Bioclimatic pergola" },
+        { "label": "Control", "value": "Motorised, smart home" },
+        { "label": "Area", "value": "36 m²" },
+        { "label": "Options", "value": "Zip screen + LED" }
+      ]
+    },
+    "kadikoy-cam-balkon": {
+      "title": "Kadıköy Residence Glass Balcony",
+      "system": "Folding Glass Balcony",
+      "description": "Applied to sea-view residence balconies, this folding glass balcony system made the balconies usable in all four seasons while preserving the uninterrupted view.",
+      "specs": [
+        { "label": "System", "value": "Folding glass balcony" },
+        { "label": "Glass", "value": "8 mm tempered" },
+        { "label": "Units", "value": "24 apartments" },
+        { "label": "Duration", "value": "20 working days" }
+      ]
+    },
+    "levent-ofis-aluminyum-cephe": {
+      "title": "Levent Office Aluminium Façade",
+      "system": "Aluminium Curtain Wall",
+      "description": "Designed for the office building in Levent, this curtain-wall project created a modern and energy-efficient façade with slim-profile aluminium systems and high-performance insulated glass.",
+      "specs": [
+        { "label": "System", "value": "Curtain wall" },
+        { "label": "Glass", "value": "Solar-control glass" },
+        { "label": "Height", "value": "8 floors" },
+        { "label": "Area", "value": "1,200 m²" }
+      ]
+    },
+    "atasehir-pvc-pencere": {
+      "title": "Ataşehir Residential PVC Windows",
+      "system": "PVC Window & Door",
+      "description": "Applied in a mass-housing project, these PVC window and door systems offered residents comfortable living with high thermal-sound insulation and durability.",
+      "specs": [
+        { "label": "System", "value": "82 mm PVC profile" },
+        { "label": "Glass", "value": "Double insulated glass" },
+        { "label": "Units", "value": "60 apartments" },
+        { "label": "Duration", "value": "45 working days" }
+      ]
+    },
+    "nisantasi-magaza-otomatik-kapi": {
+      "title": "Nişantaşı Store Automatic Door",
+      "system": "Photocell Sliding Door",
+      "description": "Applied for a retail store with high footfall, this photocell automatic sliding door provided comfortable passage and energy efficiency.",
+      "specs": [
+        { "label": "System", "value": "Photocell sliding door" },
+        { "label": "Glass", "value": "Tempered safety glass" },
+        { "label": "Sensor", "value": "Radar + photocell" },
+        { "label": "Options", "value": "UPS supported" }
+      ]
+    },
+    "buyukcekmece-pergola-tente": {
+      "title": "Büyükçekmece Restaurant Pergola",
+      "system": "Cassette Awning + Pergola",
+      "description": "Designed for a seaside restaurant, this shading project offered guests a comfortable outdoor experience with a wide-span pergola and cassette awning combination.",
+      "specs": [
+        { "label": "System", "value": "Pergola + cassette awning" },
+        { "label": "Fabric", "value": "Acrylic, water-repellent" },
+        { "label": "Area", "value": "120 m²" },
+        { "label": "Duration", "value": "15 working days" }
+      ]
+    },
+    "sariyer-villa-giyotin-cam": {
+      "title": "Sarıyer Villa Guillotine Glass",
+      "system": "Guillotine Glass System",
+      "description": "Applied to a Bosphorus-view villa terrace, this motorised guillotine glass system provided an uninterrupted view and modern aesthetics with its one-touch open-and-close structure.",
+      "specs": [
+        { "label": "System", "value": "Motorised guillotine glass" },
+        { "label": "Glass", "value": "10 mm tempered" },
+        { "label": "Area", "value": "30 m²" },
+        { "label": "Control", "value": "Remote-controlled" }
+      ]
+    },
+    "cekmekoy-villa-garaj-kapisi": {
+      "title": "Çekmeköy Villa Garage Door",
+      "system": "Sectional Garage Door",
+      "description": "Applied for a modern villa, this wood-patterned sectional garage door created an elegant, architecture-matching entrance with its thermally insulated panels and quiet motor.",
+      "specs": [
+        { "label": "System", "value": "Sectional garage door" },
+        { "label": "Panel", "value": "40 mm PU-filled" },
+        { "label": "Surface", "value": "Wood pattern" },
+        { "label": "Motor", "value": "Quiet, remote-controlled" }
+      ]
+    }
+  },
+  "blogPage": {
+    "eyebrow": "Knowledge Center",
+    "title": "Blog & Guides",
+    "description": "Expert content and industry guides to help you choose the right system.",
+    "detail": {
+      "back": "All Articles",
+      "reading": "read",
+      "ctaTitle": "Let's determine the right system for your project together.",
+      "ctaText": "Contact us for a free survey and quote.",
+      "cta": "Get a Quote",
+      "related": "Related Articles"
+    }
+  },
+  "post": {
+    "pvc-aluminyum-karsilastirmasi": {
+      "title": "PVC vs Aluminium: Which Is Right for You?",
+      "category": "Guide",
+      "excerpt": "We compare PVC and aluminium joinery systems in terms of thermal insulation, durability, aesthetics and cost.",
+      "readingTime": "6 min",
+      "content": [
+        "One of the most common questions when choosing window and door systems is the difference between PVC and aluminium. Both materials have their own advantages, and the right choice depends on the needs of the project.",
+        "PVC systems offer superior thermal and sound insulation. Thanks to their multi-chamber profile structure they provide energy savings and are generally more economical. With their maintenance-free surface they are frequently preferred in residential projects.",
+        "Aluminium systems, on the other hand, stand out with their high strength and slim-profile aesthetics. They are ideal for modern architectural projects requiring large glass surfaces and wide openings. With thermally insulated (thermal-break) series, energy performance is also strong.",
+        "In short: if maximum insulation and economy are the priority, PVC stands out; if slim profiles and large openings are the priority, aluminium comes to the fore. In mixed projects, solutions using both systems together are also possible."
+      ]
+    },
+    "kis-bahcesi-secerken-dikkat": {
+      "title": "What to Consider When Choosing a Winter Garden",
+      "category": "Guide",
+      "excerpt": "Thermal insulation, glass selection and ventilation details for a four-season winter garden.",
+      "readingTime": "5 min",
+      "content": [
+        "A winter garden is a space that connects your living area with nature and that you can enjoy in all four seasons. However, if the right system is not chosen, the expectation of comfort may not be met.",
+        "The first point to consider is thermal insulation. Thermal-break aluminium profiles and Low-E coated insulated glass provide an environment that is cool in summer and warm in winter.",
+        "Ventilation is also critical. Motorised roof windows and side openings create ideal air circulation indoors and prevent condensation.",
+        "Finally, the roof slope and water drainage must be designed correctly, and the glass to be used must be chosen in accordance with safety (tempered/laminated) standards."
+      ]
+    },
+    "pergola-sistemleri-rehberi": {
+      "title": "Pergola Systems Guide: Bioclimatic, Cassette and Fixed",
+      "category": "Guide",
+      "excerpt": "In this guide we cover the different pergola types, their use areas and selection criteria.",
+      "readingTime": "7 min",
+      "content": [
+        "Pergola systems are one of the most effective solutions that turn outdoor areas into livable spaces. Choosing the right pergola type depends on the intended use.",
+        "Bioclimatic pergolas control sun, air and rain thanks to their adjustable louvres. With smart-home integration they are the most comfortable option.",
+        "Cassette and articulated awning systems, on the other hand, provide more economical shading and are suitable for narrow areas. Fixed pergolas offer decorative and permanent solutions.",
+        "When choosing, the size of the area, frequency of use, climate conditions and budget should be taken into account."
+      ]
+    },
+    "giyotin-cam-sistemleri": {
+      "title": "Guillotine Glass Systems: The New Standard of Modern Enclosure",
+      "category": "Systems",
+      "excerpt": "The advantages of guillotine glass systems, their use areas and points to consider.",
+      "readingTime": "5 min",
+      "content": [
+        "Guillotine glass systems are modern enclosure solutions in which the glass moves vertically up and down. They stand out with their space savings and uninterrupted view.",
+        "Thanks to their slim aluminium profiles, maximum glass surface is achieved and the space looks more spacious. Manual or motorised options are available.",
+        "They are frequently preferred for balcony enclosures, café façades and winter gardens. Multi-point locking systems provide security and wind resistance.",
+        "The correct glass thickness and a quality rail mechanism are critical for the system to work reliably and last a long time."
+      ]
+    },
+    "aluminyum-dograma-rehberi": {
+      "title": "Aluminium Joinery Guide: Series, Glass and Colour Selection",
+      "category": "Guide",
+      "excerpt": "How should you decide on profile series, glass package and colour when choosing aluminium joinery?",
+      "readingTime": "6 min",
+      "content": [
+        "Aluminium joinery is one of the most preferred systems in modern architecture. A few basic criteria should be considered to make the right choice.",
+        "The profile series is determined according to the insulation need. Thermal-break series are ideal for spaces requiring thermal insulation.",
+        "The glass package is chosen according to climate and noise conditions. Double or triple insulated glass provides energy efficiency.",
+        "Colour and surface options are wide; harmony with the architecture is achieved with electrostatic powder coating and wood-patterned coatings."
+      ]
+    }
+  },
+  "productsPage": {
+    "eyebrow": "Product Catalogue",
+    "title": "Products",
+    "description": "With our wide product range organised into categories, we offer system solutions suitable for every project.",
+    "groups": [
+      {
+        "title": "PVC Systems",
+        "description": "High-insulation, durable and economical PVC window and door solutions.",
+        "items": ["PVC Window Systems", "Sliding PVC Systems", "Thermally Insulated PVC Systems", "Coloured / Wood-Patterned PVC"]
+      },
+      {
+        "title": "Aluminium Systems",
+        "description": "Modern façade and joinery with slim-profile aesthetics and high strength.",
+        "items": ["Aluminium Joinery", "Aluminium Door", "Aluminium Window", "Aluminium Curtain Wall", "Folding Aluminium Systems"]
+      },
+      {
+        "title": "Glass Systems",
+        "description": "Modern glass solutions providing an uninterrupted view and space savings.",
+        "items": ["Guillotine Glass", "Glass Balcony", "Insulated Glass Sliding", "Automatic Photocell Door"]
+      },
+      {
+        "title": "Shading",
+        "description": "Aesthetic outdoor systems providing sun and rain control.",
+        "items": ["Pergola", "Bioclimatic Pergola", "Zip Screen", "Awning", "Cassette Awning"]
+      },
+      {
+        "title": "Security & Garage",
+        "description": "Security and garage door systems for residential and commercial areas.",
+        "items": ["Roller Shutter", "Rolling Shutter", "Sectional Garage Door", "Aluminium Panel Door"]
+      }
+    ]
+  },
+  "quote": {
+    "sectionEyebrow": "Get a Quote",
+    "sectionTitle": "Let's bring your project to life together.",
+    "sectionDesc": "Leave a few details about your project and we will prepare the most suitable solution and a free survey appointment.",
+    "phone": "Phone",
+    "whatsappLabel": "WhatsApp",
+    "whatsappValue": "Write to get a quote",
+    "email": "Email",
+    "workingHours": "Working Hours",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Your full name",
+      "phone": "Phone",
+      "phonePlaceholder": "Your phone number",
+      "email": "Email",
+      "emailPlaceholder": "example@email.com",
+      "city": "City",
+      "cityPlaceholder": "City / District",
+      "system": "System of Interest",
+      "projectType": "Project Type",
+      "select": "Select",
+      "size": "Approximate Size",
+      "sizePlaceholder": "e.g. 4m x 3m or 12 m²",
+      "message": "Message",
+      "messagePlaceholder": "Briefly tell us about your project...",
+      "upload": "Upload project image / plan",
+      "removeFile": "Remove file",
+      "whatsappConsent": "I would like to be contacted via WhatsApp.",
+      "submit": "Get a Free Quote",
+      "submitting": "Sending...",
+      "error": "An error occurred. Please try again or call us.",
+      "privacy": "Your information is used only for quote preparation and is not shared with third parties.",
+      "successTitle": "Your request has been received",
+      "successText": "Your quote request has been sent successfully. Our team will contact you shortly. Thank you for your interest.",
+      "newRequest": "Create a New Request"
+    },
+    "systemOptions": ["Winter Garden", "Bioclimatic Pergola", "Guillotine Glass", "Glass Balcony", "Aluminium Joinery", "PVC Window & Door", "Zip Screen", "Pergola & Awning", "Roller Shutter", "Rolling Shutter", "Automatic Door", "Sectional Garage Door", "Other"],
+    "projectTypes": ["Residential", "Villa", "Commercial", "Office", "Hotel & Restaurant", "Other"]
+  },
+  "footer": {
+    "corporate": "Corporate",
+    "servicesTitle": "Services",
+    "contactTitle": "Contact",
+    "ctaTitle": "We are ready for your next project.",
+    "ctaButton": "Get a Free Quote",
+    "whatsappCta": "Write on WhatsApp →",
+    "rights": "All rights reserved.",
+    "tagline": "Premium building systems · Istanbul, Türkiye",
+    "servicesLinks": {
+      "winter-garden": "Winter Garden",
+      "pergola": "Pergola",
+      "glass": "Glass Systems",
+      "pvc": "PVC",
+      "aluminium": "Aluminium",
+      "automatic-door": "Automatic Doors"
+    }
+  },
+  "contact": {
+    "eyebrow": "Get in Touch",
+    "title": "Contact",
+    "description": "Request a free survey and quote for your project. We will get back to you as soon as possible.",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "whatsappValue": "Write now",
+    "email": "Email",
+    "address": "Address",
+    "workingHours": "Working Hours",
+    "formEyebrow": "Request a Free Survey",
+    "formTitle": "Tell us your project, we'll prepare the solution.",
+    "formDesc": "Fill in the form and our expert team will plan the most suitable system and a free survey appointment for your project.",
+    "mapPlaceholder": "Google Maps embed area"
+  },
+  "cta": {
+    "title": "Get a free quote for your project",
+    "description": "Let our expert team prepare the most suitable system and solution for you. Take the first step today.",
+    "primary": "Get a Free Quote",
+    "whatsapp": "Write on WhatsApp"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you are looking for may have been moved or removed. You can continue by returning to the home page.",
+    "cta": "Back to Home"
+  },
+  "workingHours": [
+    { "days": "Monday – Friday", "hours": "09:00 – 18:30" },
+    { "days": "Saturday", "hours": "09:00 – 15:00" },
+    { "days": "Sunday", "hours": "Closed" }
+  ]
+}

@@ -1,20 +1,15 @@
-import Link from 'next/link';
 import Image from 'next/image';
+import { useTranslations } from 'next-intl';
 import { ArrowRight, MessageCircle } from 'lucide-react';
+import { Link } from '@/i18n/routing';
 import { Container } from './Container';
 import { Reveal } from './Reveal';
 import { images } from '@/data/images';
 import { whatsappLink } from '@/config/site';
 
-export function ContactCTA({
-  title = 'Projeniz için ücretsiz teklif alın',
-  description = 'Uzman ekibimiz size en uygun sistemi ve çözümü hazırlasın. İlk adımı bugün atın.',
-  primaryLabel = 'Ücretsiz Teklif Al',
-}: {
-  title?: string;
-  description?: string;
-  primaryLabel?: string;
-}) {
+export function ContactCTA() {
+  const t = useTranslations('cta');
+
   return (
     <section className="relative overflow-hidden bg-ink text-white">
       <Image
@@ -29,16 +24,16 @@ export function ContactCTA({
         <div className="max-w-2xl">
           <Reveal>
             <h2 className="text-display-md text-balance font-display font-semibold">
-              {title}
+              {t('title')}
             </h2>
           </Reveal>
           <Reveal delay={0.05}>
-            <p className="mt-5 text-lg leading-relaxed text-white/70">{description}</p>
+            <p className="mt-5 text-lg leading-relaxed text-white/70">{t('description')}</p>
           </Reveal>
           <Reveal delay={0.1}>
             <div className="mt-9 flex flex-col gap-3 sm:flex-row">
-              <Link href="/iletisim" className="btn-white group px-8 py-4">
-                {primaryLabel}
+              <Link href="/contact" className="btn-white group px-8 py-4">
+                {t('primary')}
                 <ArrowRight className="h-4 w-4 transition-transform duration-300 group-hover:translate-x-1" />
               </Link>
               <a
@@ -48,7 +43,7 @@ export function ContactCTA({
                 className="btn-ghost-light px-8 py-4"
               >
                 <MessageCircle className="h-4 w-4" />
-                WhatsApp’tan Yaz
+                {t('whatsapp')}
               </a>
             </div>
           </Reveal>

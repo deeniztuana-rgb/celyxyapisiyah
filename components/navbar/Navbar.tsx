@@ -1,16 +1,22 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import Link from 'next/link';
-import { usePathname } from 'next/navigation';
+import { useTranslations } from 'next-intl';
 import { AnimatePresence, motion } from 'framer-motion';
 import { Menu, X, ArrowUpRight, ChevronDown, ArrowRight } from 'lucide-react';
 import { cn } from '@/lib/utils';
+import { Link, usePathname } from '@/i18n/routing';
 import { mainNav, siteConfig } from '@/config/site';
 import { serviceGroups } from '@/data/services';
 import { Logo } from '@/components/ui/Logo';
+import { LocaleSwitcher } from '@/components/ui/LocaleSwitcher';
 
 export function Navbar() {
+  const t = useTranslations('nav');
+  const tCat = useTranslations('serviceCategories');
+  const tSvc = useTranslations('svc');
+  const tCommon = useTranslations('common');
+
   const [scrolled, setScrolled] = useState(false);
   const [open, setOpen] = useState(false);
   const [megaOpen, setMegaOpen] = useState(false);
@@ -62,12 +68,9 @@ export function Navbar() {
                   ? pathname === '/'
                   : pathname.startsWith(item.href);
 
-              if (item.title === 'Hizmetler') {
+              if (item.key === 'services') {
                 return (
-                  <li
-                    key={item.href}
-                    onMouseEnter={() => setMegaOpen(true)}
-                  >
+                  <li key={item.href} onMouseEnter={() => setMegaOpen(true)}>
                     <Link
                       href={item.href}
                       className={cn(
@@ -81,7 +84,7 @@ export function Navbar() {
                           : 'text-white/70 hover:text-white'
                       )}
                     >
-                      {item.title}
+                      {t('services')}
                       <ChevronDown
                         className={cn(
                           'h-3.5 w-3.5 transition-transform duration-300',
@@ -108,7 +111,7 @@ export function Navbar() {
                         : 'text-white/70 hover:text-white'
                     )}
                   >
-                    {item.title}
+                    {t(item.key)}
                   </Link>
                 </li>
               );
@@ -116,8 +119,11 @@ export function Navbar() {
           </ul>
 
           <div className="flex items-center gap-3">
+            <div className="hidden lg:block">
+              <LocaleSwitcher light={!dark} />
+            </div>
             <Link
-              href="/iletisim"
+              href="/contact"
               className={cn(
                 'group hidden items-center gap-2 px-6 py-3 text-sm font-medium transition-all duration-300 sm:inline-flex',
                 dark
@@ -125,14 +131,14 @@ export function Navbar() {
                   : 'bg-white text-ink hover:bg-white/90'
               )}
             >
-              Teklif Al
+              {t('getQuote')}
               <ArrowUpRight className="h-4 w-4 transition-transform duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
             </Link>
 
             <button
               type="button"
               onClick={() => setOpen(true)}
-              aria-label="Menüyü aç"
+              aria-label={tCommon('menuOpen')}
               className={cn(
                 'inline-flex h-11 w-11 items-center justify-center transition-colors lg:hidden',
                 dark ? 'text-ink' : 'text-white'
@@ -158,17 +164,17 @@ export function Navbar() {
                   {serviceGroups.map((group) => (
                     <div key={group.category}>
                       <h3 className="mb-4 text-xs font-semibold uppercase tracking-[0.16em] text-text-muted">
-                        {group.category}
+                        {tCat(group.category)}
                       </h3>
                       <ul className="flex flex-col gap-2.5">
                         {group.items.map((s) => (
                           <li key={s.slug}>
                             <Link
-                              href={`/hizmetler/${s.slug}`}
+                              href={`/services/${s.slug}`}
                               className="group/link flex items-center gap-1.5 text-sm text-ink/80 transition-colors hover:text-ink"
                             >
                               <span className="h-1 w-1 rounded-full bg-accent transition-colors group-hover/link:bg-ink" />
-                              {s.title}
+                              {tSvc(`${s.slug}.title`)}
                             </Link>
                           </li>
                         ))}
@@ -178,10 +184,10 @@ export function Navbar() {
                 </div>
                 <div className="mt-8 border-t border-line pt-6">
                   <Link
-                    href="/hizmetler"
+                    href="/services"
                     className="group inline-flex items-center gap-2 text-sm font-medium text-ink"
                   >
-                    Tüm Hizmetleri Gör
+                    {tCommon('allServices')}
                     <ArrowRight className="h-4 w-4 transition-transform duration-300 group-hover:translate-x-1" />
                   </Link>
                 </div>
@@ -206,7 +212,7 @@ export function Navbar() {
               <button
                 type="button"
                 onClick={() => setOpen(false)}
-                aria-label="Menüyü kapat"
+                aria-label={tCommon('menuClose')}
                 className="inline-flex h-11 w-11 items-center justify-center text-white"
               >
                 <X className="h-6 w-6" />
@@ -216,7 +222,7 @@ export function Navbar() {
             <div className="container-x flex flex-1 flex-col overflow-y-auto pb-10 pt-4">
               <ul className="flex flex-col">
                 {mainNav.map((item, i) => {
-                  if (item.title === 'Hizmetler') {
+                  if (item.key === 'services') {
                     return (
                       <motion.li
                         key={item.href}
@@ -230,7 +236,7 @@ export function Navbar() {
                           onClick={() => setMobileServices((v) => !v)}
                           className="flex w-full items-center justify-between py-5 font-display text-2xl font-medium tracking-tight"
                         >
-                          {item.title}
+                          {t('services')}
                           <ChevronDown
                             className={cn(
                               'h-5 w-5 text-white/40 transition-transform duration-300',
@@ -248,22 +254,24 @@ export function Navbar() {
                               className="overflow-hidden"
                             >
                               <ul className="flex flex-col gap-1 pb-5 pl-1">
-                                {serviceGroups.flatMap((g) => g.items).map((s) => (
-                                  <li key={s.slug}>
-                                    <Link
-                                      href={`/hizmetler/${s.slug}`}
-                                      className="block py-2 text-base text-white/60 transition-colors hover:text-white"
-                                    >
-                                      {s.title}
-                                    </Link>
-                                  </li>
-                                ))}
+                                {serviceGroups
+                                  .flatMap((g) => g.items)
+                                  .map((s) => (
+                                    <li key={s.slug}>
+                                      <Link
+                                        href={`/services/${s.slug}`}
+                                        className="block py-2 text-base text-white/60 transition-colors hover:text-white"
+                                      >
+                                        {tSvc(`${s.slug}.title`)}
+                                      </Link>
+                                    </li>
+                                  ))}
                                 <li>
                                   <Link
-                                    href="/hizmetler"
+                                    href="/services"
                                     className="mt-2 inline-flex items-center gap-2 py-2 text-base font-medium text-white"
                                   >
-                                    Tüm Hizmetler
+                                    {tCommon('allServices')}
                                     <ArrowRight className="h-4 w-4" />
                                   </Link>
                                 </li>
@@ -287,7 +295,7 @@ export function Navbar() {
                         href={item.href}
                         className="flex items-center justify-between py-5 font-display text-2xl font-medium tracking-tight"
                       >
-                        {item.title}
+                        {t(item.key)}
                         <ArrowUpRight className="h-5 w-5 text-white/40" />
                       </Link>
                     </motion.li>
@@ -296,16 +304,19 @@ export function Navbar() {
               </ul>
 
               <div className="mt-8 flex flex-col gap-4">
-                <Link href="/iletisim" className="btn-white w-full py-4">
-                  Teklif Al
+                <Link href="/contact" className="btn-white w-full py-4">
+                  {t('getQuote')}
                 </Link>
-                <div className="flex flex-col gap-1 text-sm text-white/60">
-                  <a href={siteConfig.phoneHref} className="hover:text-white">
-                    {siteConfig.phone}
-                  </a>
-                  <a href={`mailto:${siteConfig.email}`} className="hover:text-white">
-                    {siteConfig.email}
-                  </a>
+                <div className="flex items-center justify-between">
+                  <LocaleSwitcher light />
+                  <div className="flex flex-col gap-1 text-right text-sm text-white/60">
+                    <a href={siteConfig.phoneHref} className="hover:text-white">
+                      {siteConfig.phone}
+                    </a>
+                    <a href={`mailto:${siteConfig.email}`} className="hover:text-white">
+                      {siteConfig.email}
+                    </a>
+                  </div>
                 </div>
               </div>
             </div>

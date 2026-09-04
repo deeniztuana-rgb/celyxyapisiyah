@@ -1,23 +1,23 @@
 'use client';
 
 import { useState } from 'react';
+import { useTranslations } from 'next-intl';
 import { AnimatePresence, motion } from 'framer-motion';
 import { ProjectCard } from './ProjectCard';
-import { projects, projectCategories } from '@/data/projects';
+import { projects, projectCategoryKeys } from '@/data/projects';
 import { cn } from '@/lib/utils';
 
 export function ProjectsGrid() {
-  const [active, setActive] = useState<string>('Tümü');
+  const tCat = useTranslations('projectsPage.categories');
+  const [active, setActive] = useState<string>('all');
 
   const filtered =
-    active === 'Tümü'
-      ? projects
-      : projects.filter((p) => p.category === active);
+    active === 'all' ? projects : projects.filter((p) => p.category === active);
 
   return (
     <div>
       <div className="flex flex-wrap gap-2">
-        {projectCategories.map((cat) => (
+        {projectCategoryKeys.map((cat) => (
           <button
             key={cat}
             type="button"
@@ -29,7 +29,7 @@ export function ProjectsGrid() {
                 : 'border-line bg-white text-text-muted hover:border-ink/40 hover:text-ink'
             )}
           >
-            {cat}
+            {tCat(cat)}
           </button>
         ))}
       </div>

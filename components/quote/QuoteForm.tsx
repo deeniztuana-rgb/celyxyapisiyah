@@ -1,10 +1,10 @@
 'use client';
 
 import { useRef, useState } from 'react';
+import { useTranslations } from 'next-intl';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Check, Loader2, Upload, X, ArrowRight } from 'lucide-react';
 import { cn } from '@/lib/utils';
-import { systemOptions, projectTypes } from '@/data/content';
 
 type Status = 'idle' | 'loading' | 'success' | 'error';
 
@@ -13,6 +13,10 @@ const inputClass =
 const labelClass = 'mb-2 block text-xs font-medium uppercase tracking-[0.12em] text-text-muted';
 
 export function QuoteForm({ compact = false }: { compact?: boolean }) {
+  const t = useTranslations('quote.form');
+  const systemOptions = useTranslations('quote').raw('systemOptions') as string[];
+  const projectTypes = useTranslations('quote').raw('projectTypes') as string[];
+
   const [status, setStatus] = useState<Status>('idle');
   const [fileName, setFileName] = useState<string | null>(null);
   const fileRef = useRef<HTMLInputElement>(null);
@@ -20,10 +24,8 @@ export function QuoteForm({ compact = false }: { compact?: boolean }) {
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
     setStatus('loading');
-
     const form = e.currentTarget;
     const data = Object.fromEntries(new FormData(form).entries());
-
     try {
       const res = await fetch('/api/quote', {
         method: 'POST',
@@ -50,82 +52,61 @@ export function QuoteForm({ compact = false }: { compact?: boolean }) {
           <Check className="h-8 w-8" />
         </span>
         <h3 className="mt-6 font-display text-2xl font-semibold text-ink">
-          Talebiniz alındı
+          {t('successTitle')}
         </h3>
-        <p className="mt-3 max-w-md text-text-muted">
-          Teklif talebiniz başarıyla iletildi. Ekibimiz en kısa sürede sizinle
-          iletişime geçecek. İlginiz için teşekkür ederiz.
-        </p>
-        <button
-          type="button"
-          onClick={() => setStatus('idle')}
-          className="btn-light mt-8"
-        >
-          Yeni Talep Oluştur
+        <p className="mt-3 max-w-md text-text-muted">{t('successText')}</p>
+        <button type="button" onClick={() => setStatus('idle')} className="btn-light mt-8">
+          {t('newRequest')}
         </button>
       </motion.div>
     );
   }
 
   return (
-    <form
-      onSubmit={handleSubmit}
-      className="border border-line bg-white p-6 md:p-10"
-    >
+    <form onSubmit={handleSubmit} className="border border-line bg-white p-6 md:p-10">
       <div className="grid grid-cols-1 gap-5 sm:grid-cols-2">
         <div>
-          <label className={labelClass} htmlFor="name">Ad Soyad *</label>
-          <input id="name" name="name" required className={inputClass} placeholder="Adınız ve soyadınız" />
+          <label className={labelClass} htmlFor="name">{t('name')} *</label>
+          <input id="name" name="name" required className={inputClass} placeholder={t('namePlaceholder')} />
         </div>
         <div>
-          <label className={labelClass} htmlFor="phone">Telefon *</label>
-          <input id="phone" name="phone" type="tel" required className={inputClass} placeholder="05__ ___ __ __" />
+          <label className={labelClass} htmlFor="phone">{t('phone')} *</label>
+          <input id="phone" name="phone" type="tel" required className={inputClass} placeholder={t('phonePlaceholder')} />
         </div>
         <div>
-          <label className={labelClass} htmlFor="email">E-posta</label>
-          <input id="email" name="email" type="email" className={inputClass} placeholder="ornek@eposta.com" />
+          <label className={labelClass} htmlFor="email">{t('email')}</label>
+          <input id="email" name="email" type="email" className={inputClass} placeholder={t('emailPlaceholder')} />
         </div>
         <div>
-          <label className={labelClass} htmlFor="city">Şehir</label>
-          <input id="city" name="city" className={inputClass} placeholder="İl / İlçe" />
+          <label className={labelClass} htmlFor="city">{t('city')}</label>
+          <input id="city" name="city" className={inputClass} placeholder={t('cityPlaceholder')} />
         </div>
         <div>
-          <label className={labelClass} htmlFor="system">İlgilendiğiniz Sistem</label>
+          <label className={labelClass} htmlFor="system">{t('system')}</label>
           <select id="system" name="system" defaultValue="" className={cn(inputClass, 'appearance-none')}>
-            <option value="" disabled>Seçiniz</option>
-            {systemOptions.map((o) => (
-              <option key={o} value={o}>{o}</option>
-            ))}
+            <option value="" disabled>{t('select')}</option>
+            {systemOptions.map((o) => (<option key={o} value={o}>{o}</option>))}
           </select>
         </div>
         <div>
-          <label className={labelClass} htmlFor="projectType">Proje Tipi</label>
+          <label className={labelClass} htmlFor="projectType">{t('projectType')}</label>
           <select id="projectType" name="projectType" defaultValue="" className={cn(inputClass, 'appearance-none')}>
-            <option value="" disabled>Seçiniz</option>
-            {projectTypes.map((o) => (
-              <option key={o} value={o}>{o}</option>
-            ))}
+            <option value="" disabled>{t('select')}</option>
+            {projectTypes.map((o) => (<option key={o} value={o}>{o}</option>))}
           </select>
         </div>
         {!compact && (
           <div className="sm:col-span-2">
-            <label className={labelClass} htmlFor="size">Yaklaşık Ölçü</label>
-            <input id="size" name="size" className={inputClass} placeholder="Örn. 4m x 3m veya 12 m²" />
+            <label className={labelClass} htmlFor="size">{t('size')}</label>
+            <input id="size" name="size" className={inputClass} placeholder={t('sizePlaceholder')} />
           </div>
         )}
         <div className="sm:col-span-2">
-          <label className={labelClass} htmlFor="message">Mesaj</label>
-          <textarea
-            id="message"
-            name="message"
-            rows={compact ? 3 : 4}
-            className={cn(inputClass, 'resize-none')}
-            placeholder="Projeniz hakkında kısaca bilgi verin..."
-          />
+          <label className={labelClass} htmlFor="message">{t('message')}</label>
+          <textarea id="message" name="message" rows={compact ? 3 : 4} className={cn(inputClass, 'resize-none')} placeholder={t('messagePlaceholder')} />
         </div>
       </div>
 
-      {/* Dosya yükleme */}
       <div className="mt-5">
         <input
           ref={fileRef}
@@ -144,7 +125,7 @@ export function QuoteForm({ compact = false }: { compact?: boolean }) {
                 if (fileRef.current) fileRef.current.value = '';
               }}
               className="ml-3 text-text-muted hover:text-ink"
-              aria-label="Dosyayı kaldır"
+              aria-label={t('removeFile')}
             >
               <X className="h-4 w-4" />
             </button>
@@ -156,19 +137,14 @@ export function QuoteForm({ compact = false }: { compact?: boolean }) {
             className="flex w-full items-center justify-center gap-2 border border-dashed border-line bg-paper px-4 py-4 text-sm text-text-muted transition-colors hover:border-ink/40 hover:text-ink"
           >
             <Upload className="h-4 w-4" />
-            Proje görseli / plan yükle
+            {t('upload')}
           </button>
         )}
       </div>
 
-      {/* WhatsApp onayı */}
       <label className="mt-5 flex cursor-pointer items-start gap-3 text-sm text-text-muted">
-        <input
-          type="checkbox"
-          name="whatsapp"
-          className="mt-0.5 h-4 w-4 shrink-0 accent-ink"
-        />
-        WhatsApp üzerinden iletişim kurulmasını istiyorum.
+        <input type="checkbox" name="whatsapp" className="mt-0.5 h-4 w-4 shrink-0 accent-ink" />
+        {t('whatsappConsent')}
       </label>
 
       <AnimatePresence>
@@ -179,33 +155,26 @@ export function QuoteForm({ compact = false }: { compact?: boolean }) {
             exit={{ opacity: 0, height: 0 }}
             className="mt-4 text-sm text-red-600"
           >
-            Bir hata oluştu. Lütfen tekrar deneyin veya telefonla ulaşın.
+            {t('error')}
           </motion.p>
         )}
       </AnimatePresence>
 
-      <button
-        type="submit"
-        disabled={status === 'loading'}
-        className="btn-dark group mt-6 w-full py-4 text-base"
-      >
+      <button type="submit" disabled={status === 'loading'} className="btn-dark group mt-6 w-full py-4 text-base">
         {status === 'loading' ? (
           <>
             <Loader2 className="h-4 w-4 animate-spin" />
-            Gönderiliyor...
+            {t('submitting')}
           </>
         ) : (
           <>
-            Ücretsiz Teklif Al
+            {t('submit')}
             <ArrowRight className="h-4 w-4 transition-transform duration-300 group-hover:translate-x-1" />
           </>
         )}
       </button>
 
-      <p className="mt-4 text-center text-xs text-text-muted">
-        Bilgileriniz yalnızca teklif hazırlığı için kullanılır ve üçüncü kişilerle
-        paylaşılmaz.
-      </p>
+      <p className="mt-4 text-center text-xs text-text-muted">{t('privacy')}</p>
     </form>
   );
 }

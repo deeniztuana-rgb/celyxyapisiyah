@@ -1,0 +1,1033 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Leistungen",
+    "projects": "Projekte",
+    "products": "Produkte",
+    "contact": "Kontakt",
+    "blog": "Blog",
+    "getQuote": "Angebot anfordern"
+  },
+  "common": {
+    "viewAll": "Alle ansehen",
+    "learnMore": "Mehr erfahren",
+    "readMore": "Weiterlesen",
+    "review": "Ansehen",
+    "allServices": "Alle Leistungen",
+    "tableOfContents": "Inhalt",
+    "menuOpen": "Menü öffnen",
+    "menuClose": "Menü schließen",
+    "whatsapp": "WhatsApp",
+    "sinceLabel": "Seit"
+  },
+  "hero": {
+    "eyebrow": "PVC · Aluminium · Glas · Beschattung",
+    "title1": "Premium-Systemlösungen",
+    "title2": "für moderne Bauten",
+    "description": "Wir vereinen Ästhetik, Langlebigkeit und Ingenieurskunst in PVC-, Aluminium-, Glas- und Beschattungssystemen.",
+    "ctaPrimary": "Erzählen Sie uns Ihr Projekt",
+    "ctaSecondary": "Leistungen entdecken",
+    "scroll": "Entdecken",
+    "badges": [
+      { "value": "Seit 2020", "label": "Im Einsatz" },
+      { "value": "Maßanfertigung", "label": "Produktion" },
+      { "value": "Professionell", "label": "Anwendung & Montage" }
+    ]
+  },
+  "home": {
+    "servicesEyebrow": "Unsere Leistungen",
+    "servicesTitle": "Lösungsbereiche",
+    "servicesDesc": "Wir vereinen alle Systeme, die moderne Bauten benötigen, mit Ästhetik, Langlebigkeit und Ingenieurskunst.",
+    "servicesCta": "{count}+ Systeme — Alle Leistungen ansehen"
+  },
+  "companyIntro": {
+    "eyebrow": "Über uns",
+    "title": "Seit 2020 schaffen wir Mehrwert für moderne Bauten",
+    "paragraphs": [
+      "Als Celyx Prime Global entwickeln wir seit 2020 professionelle Lösungen für Wohn- und Gewerbeprojekte in den Bereichen PVC-, Aluminium-, Glas- und Beschattungssysteme. Wir gehen unsere Arbeit mit ingenieurtechnischer Disziplin und einem modernen architektonischen Verständnis an.",
+      "Wir begleiten Sie in jeder Phase — von der Aufnahme über die Produktion bis zur Montage und zum Kundendienst. Unser Ziel ist es nicht einfach, Produkte zu verkaufen, sondern langlebige, ästhetische und komfortable Lebensräume zu schaffen."
+    ],
+    "points": [
+      { "title": "Maßgefertigte Produktion", "text": "Maßgeschneiderte Gestaltung und Fertigung für jedes Projekt." },
+      { "title": "Professionelle Montage", "text": "Saubere, schnelle und sorgfältige Anwendung." },
+      { "title": "Kundendienst", "text": "Technische Sicherheit nach der Montage." }
+    ],
+    "cta": "Lernen Sie uns kennen"
+  },
+  "whyUs": {
+    "eyebrow": "Warum wir?",
+    "title": "Warum sollten Sie sich für uns entscheiden?",
+    "description": "Wir machen in jeder Phase den Unterschied — vom Material über die Montage bis zur Projektierung und zum Kundendienst.",
+    "items": [
+      { "title": "Fachkompetenz", "description": "Jahrelange Branchenerfahrung und ein professionelles Montageteam." },
+      { "title": "Hochwertige Materialien", "description": "Langlebige, leistungsstarke und zertifizierte Systeme." },
+      { "title": "Individuelle Projektierung", "description": "Maßanfertigung, Design und Ingenieurlösung für jedes Projekt." },
+      { "title": "Kundendienst", "description": "Technischer Support, Wartung und Servicegarantie nach der Montage." }
+    ]
+  },
+  "process": {
+    "eyebrow": "Unser Prozess",
+    "title": "Eine makellose Reise, von der Aufnahme bis zur Übergabe",
+    "description": "Wir liefern jedes Projekt pünktlich und vollständig, mit einem transparenten und geplanten Prozess.",
+    "steps": [
+      { "title": "Aufnahme", "description": "Wir ermitteln Ihren Bedarf und die Maße mit einer kostenlosen Vor-Ort-Aufnahme." },
+      { "title": "Projektierung", "description": "Wir erstellen ein maßgeschneidertes Design, technische Zeichnungen und ein transparentes Angebot." },
+      { "title": "Produktion", "description": "Wir fertigen das genehmigte Projekt mit präzisen Maßen in unserer eigenen Produktion." },
+      { "title": "Montage", "description": "Wir führen eine saubere, schnelle und sorgfältige Montage mit unserem Expertenteam durch." },
+      { "title": "Übergabe", "description": "Wir schließen die Kontrollen ab und übergeben mit Garantie und Servicesicherheit." }
+    ]
+  },
+  "featured": {
+    "eyebrow": "Ausgewähltes System",
+    "title": "Wintergarten-Systeme",
+    "description": "Moderne Glas- und Aluminiumlösungen, die Ihre Wohnräume in allen vier Jahreszeiten nutzbar machen. Wir vereinen Ästhetik und Leistung durch thermisch getrennte Profile und spezielle Glaspakete.",
+    "badgeValue": "4 Jahreszeiten",
+    "badgeLabel": "Ununterbrochener Komfort",
+    "highlights": ["Wärmedämmung", "Moderne Architektur", "Nutzung in allen vier Jahreszeiten", "Maßgefertigte Produktion"],
+    "cta": "Details ansehen"
+  },
+  "projectsTeaser": {
+    "eyebrow": "Unsere Projekte",
+    "title": "Ausgewählte Projekte, die wir realisiert haben",
+    "description": "Eine Auswahl unserer Anwendungen mit unserer Handschrift bei Villen-, Wohn- und Gewerbeprojekten.",
+    "cta": "Alle Projekte"
+  },
+  "blogTeaser": {
+    "eyebrow": "Wissenszentrum",
+    "title": "Was Sie über die Systeme wissen sollten",
+    "description": "Ratgeber und Fachbeiträge, die Ihnen bei der Wahl des richtigen Systems helfen.",
+    "cta": "Alle Beiträge"
+  },
+  "servicesPage": {
+    "eyebrow": "Unsere Lösungsbereiche",
+    "title": "Leistungen & Systeme",
+    "description": "Wir vereinen alle Systeme, die moderne Bauten benötigen, mit Ästhetik, Langlebigkeit und Ingenieurskunst."
+  },
+  "serviceDetail": {
+    "toc": "Inhalt",
+    "overviewEyebrow": "Überblick",
+    "overviewTitle": "Was ist {title}?",
+    "advantages": "Vorteile",
+    "technical": "Technische Daten",
+    "useCases": "Einsatzbereiche",
+    "gallery": "Galerie",
+    "faq": "Häufig gestellte Fragen",
+    "quoteBoxTitle": "Angebot für {title} anfordern",
+    "quoteBoxText": "Kostenlose Aufnahme und Preisangebot.",
+    "ctaTitle": "Planen Sie ein ähnliches Projekt für {title}?",
+    "otherServices": "Weitere Systeme",
+    "categoryLabel": "Kategorie"
+  },
+  "serviceCategories": {
+    "cam-aluminyum": "Glas & Aluminium",
+    "cam": "Glassysteme",
+    "aluminyum": "Aluminium",
+    "pvc": "PVC",
+    "golgelendirme": "Beschattung",
+    "guvenlik": "Sicherheit",
+    "otomatik-kapi": "Automatiktüren",
+    "aksesuar": "Zubehör"
+  },
+  "svc": {
+    "kis-bahcesi": {
+      "title": "Wintergarten-Systeme",
+      "short": "Moderne Glas- und Aluminiumlösungen, die Ihre Wohnräume in allen vier Jahreszeiten nutzbar machen.",
+      "intro": "Wintergarten-Systeme verwandeln Ihren Garten, Ihre Terrasse und Ihren Balkon in Wohnräume, die Sie das ganze Jahr über komfortabel nutzen können. Mit hoch wärmegedämmten Aluminiumprofilen und speziellen Glaspaketen vereinen wir Ästhetik und Leistung.",
+      "advantages": [
+        { "title": "Wärmedämmung", "description": "Energieeinsparung durch thermisch getrennte Profile und Isolierglas." },
+        { "title": "Nutzung in vier Jahreszeiten", "description": "Kühl im Sommer, warm im Winter; ununterbrochener Komfort." },
+        { "title": "Moderne Architektur", "description": "Schlanke Profillinien und große Glasflächen." },
+        { "title": "Maßgefertigte Produktion", "description": "Maßgeschneiderte Projektierung und Fertigung für jeden Raum." }
+      ],
+      "specs": [
+        { "label": "Profil", "value": "Thermisch getrenntes Aluminium" },
+        { "label": "Glas", "value": "Zweifach-/Dreifach-Isolierglas, Low-E" },
+        { "label": "Dach", "value": "Geneigt / flach, motorisierte Option" },
+        { "label": "Farbe", "value": "RAL-Farbkarte" }
+      ],
+      "useCases": ["Villenterrassen", "Restaurant- & Cafébereiche", "Dachwohnräume", "Hotel- und Resortprojekte"],
+      "faq": [
+        { "q": "Kann ein Wintergarten beheizt werden?", "a": "Ja, mit Fußbodenheizung und Klimaanlagenintegration ist eine komfortable Nutzung in allen vier Jahreszeiten möglich." },
+        { "q": "Wie lange dauert die Montage?", "a": "Je nach Größe wird ein durchschnittliches Projekt innerhalb von 3–7 Arbeitstagen abgeschlossen." }
+      ]
+    },
+    "bioklimatik-pergola": {
+      "title": "Bioklimatische Pergola",
+      "short": "Intelligente Beschattungssysteme, die Sonne und Regen mit verstellbaren Lamellen steuern.",
+      "intro": "Bioklimatische Pergolasysteme ermöglichen es Ihnen, Sonnenlicht, Belüftung und Regen dank ihrer motorisierten, verstellbaren Aluminiumlamellen zu steuern. Sie verwandeln Ihre Außenbereiche in intelligente, komfortable Wohnräume.",
+      "advantages": [
+        { "title": "Verstellbare Lamellen", "description": "Lamellen, die sich je nach Sonnenstand um 0–135° drehen." },
+        { "title": "Regenschutz", "description": "Vollständige Wasserdichtigkeit mit Ableitung im geschlossenen Zustand." },
+        { "title": "Motorisierte Steuerung", "description": "Fernsteuerung und Smart-Home-Integration." },
+        { "title": "Robuste Struktur", "description": "Windbeständige Aluminiumkonstruktion." }
+      ],
+      "specs": [
+        { "label": "Material", "value": "Stranggepresstes Aluminium" },
+        { "label": "Lamelle", "value": "Motorisiert, verstellbar" },
+        { "label": "Steuerung", "value": "Fernbedienung / Sensor / Smart Home" },
+        { "label": "Optionen", "value": "Seitenverglasung, Zip-Screen, LED" }
+      ],
+      "useCases": ["Villengärten", "Restaurantterrassen", "Poolbereich", "Hotel-Außenbereiche"],
+      "faq": [
+        { "q": "Lässt sie Wasser durch bei Regen?", "a": "Nein, im geschlossenen Zustand wird das Wasser über das integrierte Rinnensystem abgeleitet." },
+        { "q": "Kann sie im Winter genutzt werden?", "a": "Mit Seitenverglasung und Heizungsintegration ist die Nutzung in allen vier Jahreszeiten möglich." }
+      ]
+    },
+    "ofis-bolme": {
+      "title": "Büro-Trennwandsysteme",
+      "short": "Schlanke, schallgedämmte Glastrennwandlösungen für moderne Arbeitsräume.",
+      "intro": "Büro-Trennwandsysteme verwandeln Großraumbüros in funktionale, luftige und moderne Räume. Mit schlanken Aluminiumprofilen und Einfach-/Doppelverglasungsoptionen trennen sie Räume, ohne das Licht zu blockieren, und bieten Schalldämmung.",
+      "advantages": [
+        { "title": "Luftige Optik", "description": "Getrennte, aber helle Räume dank Glasflächen." },
+        { "title": "Schalldämmung", "description": "Akustischer Komfort in Besprechungsräumen mit Doppelverglasung." },
+        { "title": "Modulare Struktur", "description": "Einfache Montage, Demontage und Umstellung." },
+        { "title": "Elegantes Design", "description": "Schlanke Profile und auf Glas anwendbare Folienoptionen." }
+      ],
+      "specs": [
+        { "label": "Profil", "value": "Schlankes Aluminium-Trennwandprofil" },
+        { "label": "Glas", "value": "Einfach / doppelt, gehärtet" },
+        { "label": "Tür", "value": "Dreh- / Schiebeglastür" },
+        { "label": "Optionen", "value": "Jalousien, Folie, Akustikglas" }
+      ],
+      "useCases": ["Büros und Geschäftszentren", "Besprechungsräume", "Showroom & Geschäft", "Kliniken und Praxen"],
+      "faq": [
+        { "q": "Kann Sichtschutz auf dem Glas realisiert werden?", "a": "Sichtschutz kann mit Milchglasfolie, Jalousien oder Smart Glass realisiert werden." },
+        { "q": "Können sie versetzt werden?", "a": "Dank der modularen Struktur können Trennwände demontiert und umgestellt werden." }
+      ]
+    },
+    "aluminyum-dograma": {
+      "title": "Aluminium-Bauelemente",
+      "short": "Hochfeste, schlanke Fassaden- und Fenster-Bauelemente aus Aluminium.",
+      "intro": "Aluminium-Bauelemente sind mit ihrer Langlebigkeit, schlanken Profilästhetik und breiten Farbpalette unverzichtbar für die moderne Architektur. Mit thermisch getrennten Serien steht die Energieeffizienz im Vordergrund.",
+      "advantages": [
+        { "title": "Lange Lebensdauer", "description": "Korrosionsbeständige, wartungsfreie Struktur." },
+        { "title": "Schlankes Profil", "description": "Große Glasfläche und maximaler Lichteinfall." },
+        { "title": "Wärmedämmung", "description": "Thermische Serien mit Polyamidstegen." },
+        { "title": "Gestaltungsfreiheit", "description": "Breite Farbpalette und Holzoptik-Varianten." }
+      ],
+      "specs": [
+        { "label": "Serie", "value": "Gedämmt / ungedämmt" },
+        { "label": "Öffnung", "value": "Schiebe, Dreh, Falt" },
+        { "label": "Glas", "value": "Zweifach-/Dreifach-Isolierglas" },
+        { "label": "Beschichtung", "value": "Elektrostatische Pulverbeschichtung" }
+      ],
+      "useCases": ["Wohnprojekte", "Büros und Geschäftszentren", "Fassadenanwendungen", "Villenfenster"],
+      "faq": [
+        { "q": "Ist eine Holzoptik möglich?", "a": "Ja, Beschichtungsoptionen in Holzoptik sind verfügbar." },
+        { "q": "Warum Aluminium statt PVC?", "a": "Es ist ideal für schlankere Profile, höhere Festigkeit und große Öffnungen." }
+      ]
+    },
+    "zip-perde": {
+      "title": "Zip-Screen-Systeme",
+      "short": "Windbeständige moderne Außen-Sonnenschutzlösungen mit Führungsschienen.",
+      "intro": "Zip-Screen-Systeme bleiben dank des in Seitenschienen fixierten Stoffes selbst bei Wind stabil. Sie sind eine moderne Lösung für Sonnen-, Insekten- und Windschutz im Außenbereich.",
+      "advantages": [
+        { "title": "Windbeständigkeit", "description": "Stabiler Stoff dank des Seitenschienen-(Zip-)Systems." },
+        { "title": "Sonnenschutz", "description": "Technische Stoffe, die Hitze und UV reduzieren." },
+        { "title": "Insektenschutz", "description": "Insektenbarriere durch die abgedichtete Struktur." },
+        { "title": "Motorisierte Nutzung", "description": "Fernbedienung und Sonnensensor-Integration." }
+      ],
+      "specs": [
+        { "label": "Stoff", "value": "Technischer Screen / Verdunkelung" },
+        { "label": "Steuerung", "value": "Motorisiert / Fernbedienung" },
+        { "label": "Kasten", "value": "Geschlossener Aluminiumkasten" },
+        { "label": "Breite", "value": "Bis zu 4 Meter in einem Stück" }
+      ],
+      "useCases": ["Pergola-Seitenverkleidung", "Fassaden-Sonnenschutz", "Terrasse & Balkon", "Café-Außenbereiche"],
+      "faq": [
+        { "q": "Verblasst der Stoff in der Sonne?", "a": "UV-beständige technische Stoffe behalten ihre Farbe über viele Jahre." },
+        { "q": "Gibt es transparenten Stoff?", "a": "Halbtransparente Screen-Stoffoptionen, die die Aussicht bewahren, sind verfügbar." }
+      ]
+    },
+    "giyotin-cam": {
+      "title": "Guillotine-Glassysteme",
+      "short": "Vertikal öffnende, rahmenlos wirkende, platzsparende moderne Glasverkleidungslösungen.",
+      "intro": "Guillotine-Glassysteme ermöglichen es Ihnen, einen Raum mühelos zu öffnen und zu schließen, indem das Glas vertikal auf und ab bewegt wird. Mit ihrer minimalen Profilstruktur bieten sie eine ununterbrochene Aussicht und ein modernes Erscheinungsbild.",
+      "advantages": [
+        { "title": "Platzersparnis", "description": "Erfordert dank der vertikalen Bewegung keinen zusätzlichen Platz." },
+        { "title": "Ununterbrochene Aussicht", "description": "Maximale Glasfläche mit schlankem Profil." },
+        { "title": "Einfache Bedienung", "description": "Leiser Betrieb, manuell oder motorisiert." },
+        { "title": "Wärme- & Schalldämmung", "description": "Komfortabler Innenraum mit Isolierglas." }
+      ],
+      "specs": [
+        { "label": "Profil", "value": "Aluminium, schlanker Querschnitt" },
+        { "label": "Glas", "value": "8–10 mm gehärtet / Isolierglas" },
+        { "label": "Bewegung", "value": "Manuell / motorisiert" },
+        { "label": "Verriegelung", "value": "Mehrpunktsicherung" }
+      ],
+      "useCases": ["Balkonverglasung", "Café- & Restaurantfassaden", "Wintergarten", "Terrassenverglasung"],
+      "faq": [
+        { "q": "Ist es bei Wind sicher?", "a": "Es bietet mit Mehrpunktverriegelung und einem stabilen Schienensystem eine hohe Windbeständigkeit." },
+        { "q": "Wird das Glas bei Bruch ersetzt?", "a": "Dank der modularen Struktur kann eine einzelne Scheibe leicht ausgetauscht werden." }
+      ]
+    },
+    "isi-camli-surme": {
+      "title": "Isolierglas-Schiebesysteme",
+      "short": "Weit öffnende Glasschiebesysteme mit hoher Wärmedämmung, die zur Seite gleiten.",
+      "intro": "Isolierglas-Schiebesysteme verbinden Innen- und Außenbereiche nahtlos, indem große Glasflächen zur Seite gleiten. Mit ihrer zweifach verglasten Struktur, die eine hohe Wärmedämmung bietet, gewährleisten sie Komfort in allen vier Jahreszeiten.",
+      "advantages": [
+        { "title": "Weite Öffnung", "description": "Luftige Übergänge mit großen Glaspaneelen." },
+        { "title": "Wärmedämmung", "description": "Energieeinsparung mit Zweifach-Isolierglas." },
+        { "title": "Einfache Bedienung", "description": "Leiser und sanfter Schiebemechanismus." },
+        { "title": "Moderne Optik", "description": "Ununterbrochene Aussicht mit schlankem Profil." }
+      ],
+      "specs": [
+        { "label": "System", "value": "Schiebe / Hebe-Schiebe" },
+        { "label": "Glas", "value": "Zweifach-Isolierglas, Low-E" },
+        { "label": "Profil", "value": "Aluminium, gedämmt" },
+        { "label": "Verriegelung", "value": "Mehrpunktbeschlag" }
+      ],
+      "useCases": ["Wohnzimmer- & Terrassenübergänge", "Villenfassaden", "Café & Restaurant", "Wintergarten"],
+      "faq": [
+        { "q": "Kann ein Insektenschutz angebracht werden?", "a": "Ja, eine Plissee- oder Schiebe-Insektenschutzintegration ist möglich." },
+        { "q": "Wird die Schiene in den Boden eingelassen?", "a": "Für einen schwellenlosen Übergang kann eine bodenbündige Schiene ausgeführt werden." }
+      ]
+    },
+    "pvc-pencere": {
+      "title": "PVC-Fenstersysteme",
+      "short": "Langlebige, wartungsfreie PVC-Fensterlösungen mit hoher Wärme- und Schalldämmung.",
+      "intro": "PVC-Fenstersysteme bieten dank ihrer Mehrkammer-Profilstruktur eine überlegene Wärme- und Schalldämmung. Mit ihrer wartungsfreien Oberfläche, langen Lebensdauer und breiten Farbpalette schaffen sie komfortable Wohnräume.",
+      "advantages": [
+        { "title": "Wärmedämmung", "description": "Überlegene Energieeffizienz durch ein Mehrkammerprofil." },
+        { "title": "Schalldämmung", "description": "Ruhiger Innenraum gegen Straßenlärm." },
+        { "title": "Sicherheit", "description": "Mehrpunktverriegelung und Sicherheitsbeschläge." },
+        { "title": "Einfache Wartung", "description": "Eine lackfreie, leicht zu reinigende Oberfläche." }
+      ],
+      "specs": [
+        { "label": "Profil", "value": "70–82 mm, Mehrkammer" },
+        { "label": "Glas", "value": "Zweifach-/Dreifach-Isolierglas" },
+        { "label": "Dichtungen", "value": "Doppel- / Mitteldichtung" },
+        { "label": "Farbe", "value": "Weiß & Folienbeschichtung" }
+      ],
+      "useCases": ["Wohnungen", "Villenprojekte", "Massenwohnbau", "Renovierungsprojekte"],
+      "faq": [
+        { "q": "Wie lange hält ein PVC-Fenster?", "a": "Mit hochwertigen Profilen und Beschlägen bietet es über 30 Jahre störungsfreie Nutzung." },
+        { "q": "Gibt es Farboptionen?", "a": "Eine breite Palette an Folienbeschichtungsfarben, einschließlich Holz, ist verfügbar." }
+      ]
+    },
+    "pvc-surme": {
+      "title": "PVC-Schiebesysteme",
+      "short": "Gedämmte PVC-Schiebesysteme, die zur Seite gleiten, mit weiten Öffnungen und Platzersparnis.",
+      "intro": "PVC-Schiebesysteme sparen Platz, indem große Glasflächen zur Seite gleiten, und erleichtern den Übergang von innen nach außen. Mit ihrer hoch gedämmten Profilstruktur sind sie ideal für Balkon-, Terrassen- und Wohnzimmerübergänge.",
+      "advantages": [
+        { "title": "Platzersparnis", "description": "Erfordert dank der seitlichen Schiebestruktur keinen zusätzlichen Platz." },
+        { "title": "Hohe Dämmung", "description": "Energieeinsparung mit einem Mehrkammerprofil." },
+        { "title": "Einfache Bedienung", "description": "Leiser und sanfter Schiebemechanismus." },
+        { "title": "Weite Öffnung", "description": "Luftige Übergänge mit großen Glasflächen." }
+      ],
+      "specs": [
+        { "label": "Profil", "value": "Mehrkammer-PVC, Schiebe" },
+        { "label": "Glas", "value": "Zweifach-Isolierglas" },
+        { "label": "System", "value": "Schiebe / Hebe-Schiebe" },
+        { "label": "Farbe", "value": "Weiß & Folienbeschichtung" }
+      ],
+      "useCases": ["Balkonübergänge", "Terrassentüren", "Wohnzimmer-Garten-Übergänge", "Wohnungen"],
+      "faq": [
+        { "q": "Kann ein Insektenschutz angebracht werden?", "a": "Ja, eine Schiebe- oder Plissee-Insektenschutzintegration ist möglich." },
+        { "q": "Bietet es Wärmedämmung?", "a": "Es bietet mit einem Mehrkammerprofil und Isolierglas eine hohe Dämmung." }
+      ]
+    },
+    "panjur": {
+      "title": "Rollladensysteme",
+      "short": "Motorisierte und manuelle Rollladenlösungen für Wärme-, Licht- und Sicherheitssteuerung.",
+      "intro": "Rollladensysteme sind vielseitige Lösungen für Wärmedämmung, Lichtsteuerung und Sicherheit. Mit Aufsatz- und Vorbauoptionen eignen sie sich sowohl für Neubauten als auch für Bestandsgebäude.",
+      "advantages": [
+        { "title": "Wärmedämmung", "description": "Dämmung durch polyurethangefüllte Lamellen." },
+        { "title": "Lichtsteuerung", "description": "Vollständige Verdunkelung und stufenweise Lichtregelung." },
+        { "title": "Sicherheit", "description": "Schafft eine zusätzliche Sicherheitsbarriere." },
+        { "title": "Motorisierter Komfort", "description": "Fernbedienung und Smart-Home-Integration." }
+      ],
+      "specs": [
+        { "label": "Lamelle", "value": "Aluminium, PU-gefüllt" },
+        { "label": "Typ", "value": "Aufsatz / Vorbau" },
+        { "label": "Steuerung", "value": "Manuell / motorisiert" },
+        { "label": "Farbe", "value": "Breites RAL-Sortiment" }
+      ],
+      "useCases": ["Wohnungsfenster", "Villenfassaden", "Hotelzimmer", "Gewerbegebäude"],
+      "faq": [
+        { "q": "Funktioniert es bei Stromausfall?", "a": "Eine unterbrechungsfreie Nutzung wird durch eine Akku-Option oder eine manuelle Notöffnung gewährleistet." },
+        { "q": "Kann es mit einem Insektenschutz kommen?", "a": "Ja, integrierte Rollladenkästen mit Insektenschutz sind verfügbar." }
+      ]
+    },
+    "kepenk": {
+      "title": "Rollgitter-Systeme",
+      "short": "Hochsichere automatische Rollgitterlösungen für Geschäfte und Lager.",
+      "intro": "Rollgitter-Systeme bieten Geschäften und Gewerbeflächen höchste Sicherheit und Langlebigkeit. Mit automatischen und manuellen Optionen ermöglichen sie ein schnelles und sicheres Öffnen und Schließen.",
+      "advantages": [
+        { "title": "Hohe Sicherheit", "description": "Robuste Lamellenstruktur aus Stahl/Aluminium." },
+        { "title": "Automatische Nutzung", "description": "Schnelles, motorisiertes und ferngesteuertes Öffnen." },
+        { "title": "Langlebigkeit", "description": "Ein für starke Beanspruchung geeigneter Mechanismus." },
+        { "title": "Notfallsteuerung", "description": "Manuelle Öffnung bei Stromausfall." }
+      ],
+      "specs": [
+        { "label": "Lamelle", "value": "Stahl / Aluminium / Polyurethan" },
+        { "label": "Steuerung", "value": "Motorisiert / manuell" },
+        { "label": "Größe", "value": "Projektbezogen" },
+        { "label": "Optionen", "value": "Perforierte Lamelle, Notausgang" }
+      ],
+      "useCases": ["Geschäfte", "Lager", "Parkhäuser", "Industrieanlagen"],
+      "faq": [
+        { "q": "Gibt es eine perforierte Lamelle?", "a": "Perforierte/transparente Lamellenoptionen sind für die Schaufenstersichtbarkeit verfügbar." },
+        { "q": "Wie langlebig ist es?", "a": "Industriemotoren eignen sich für einen hohen Öffnungs-Schließ-Zyklus." }
+      ]
+    },
+    "aluminyum-cit": {
+      "title": "Aluminium-Zaunsysteme",
+      "short": "Moderne, langlebige und wartungsfreie Zaunsysteme für Garten- und Grundstücksgrenzen.",
+      "intro": "Aluminium-Zaunsysteme schaffen mit ihrer korrosionsbeständigen Struktur, modernen Lamellendesigns und breiten Farbpalette eine ästhetische und sichere Grenze für Garten- und Grundstücksgrenzen.",
+      "advantages": [
+        { "title": "Wartungsfrei", "description": "Rostfreie Aluminiumstruktur, die keinen Anstrich benötigt." },
+        { "title": "Modernes Design", "description": "Horizontale/vertikale Lamellen und Voll-Leer-Optionen." },
+        { "title": "Lange Lebensdauer", "description": "Hohe Beständigkeit gegen Außenbedingungen." },
+        { "title": "Maßanfertigung", "description": "Höhe und Breite an das Grundstück angepasst." }
+      ],
+      "specs": [
+        { "label": "Material", "value": "Stranggepresstes Aluminium" },
+        { "label": "Lamelle", "value": "Horizontal / vertikal" },
+        { "label": "Beschichtung", "value": "Elektrostatische Pulverbeschichtung" },
+        { "label": "Optionen", "value": "Gartentor-Integration" }
+      ],
+      "useCases": ["Villengärten", "Grundstücksgrenzen", "Poolbereiche", "Gewerbegrundstücke"],
+      "faq": [
+        { "q": "Bietet es Sichtschutz?", "a": "Sichtschutz wird mit Volllamellen oder einem Design mit engem Abstand erzielt." },
+        { "q": "Werden auch Tore gefertigt?", "a": "Passende Personen- und Gartentore können mitgefertigt werden." }
+      ]
+    },
+    "aluminyum-panel-kapi": {
+      "title": "Aluminium-Paneeltüren",
+      "short": "Thermisch gedämmte, sichere und repräsentative Aluminium-Paneeltüren für Villeneingänge.",
+      "intro": "Aluminium-Paneeltüren verleihen Villen- und Wohneingängen mit ihrem eleganten Design, thermisch gedämmten Füllpaneelen und hochsicheren Beschlägen Prestige. Sie bieten eine breite Palette an Modellen und Farben.",
+      "advantages": [
+        { "title": "Repräsentativer Eingang", "description": "Ein eleganter Look mit modernen Paneeldesigns." },
+        { "title": "Wärmedämmung", "description": "Energieeinsparung durch ein Füllpaneel." },
+        { "title": "Sicherheit", "description": "Mehrpunktverriegelungsbeschläge." },
+        { "title": "Langlebigkeit", "description": "Beständig gegen Korrosion und Verformung." }
+      ],
+      "specs": [
+        { "label": "Paneel", "value": "Thermisch gedämmte Füllung" },
+        { "label": "Verriegelung", "value": "Mehrpunktsicherung" },
+        { "label": "Oberfläche", "value": "Glatt / gemustert, Holzoptik" },
+        { "label": "Optionen", "value": "Glasdetail, Fingerabdruckleser" }
+      ],
+      "useCases": ["Villeneingänge", "Einfamilienhäuser", "Gebäudeeingänge", "Büroeingänge"],
+      "faq": [
+        { "q": "Kann ein Smart Lock angebracht werden?", "a": "Fingerabdruck- und PIN-Smart-Lock-Optionen können integriert werden." },
+        { "q": "Ist es maßgefertigt?", "a": "Ja, alle Türen werden nach Maß für den Raum gefertigt." }
+      ]
+    },
+    "aluminyum-katlanir-kapi": {
+      "title": "Aluminium-Falttüren",
+      "short": "Falttürsysteme aus Glas im Akkordeonstil, die sich zur Seite falten und vollständig öffnen.",
+      "intro": "Aluminium-Falttüren (Akkordeon) öffnen die Öffnung vollständig, indem sich die Paneele zur Seite falten. Sie sind eine flexible und moderne Lösung, die Innen- und Außenbereiche nahtlos verbindet.",
+      "advantages": [
+        { "title": "Vollständige Öffnung", "description": "Die Paneele falten sich und die Öffnung öffnet sich vollständig." },
+        { "title": "Vielseitige Nutzung", "description": "Ideale Flexibilität für große Öffnungen." },
+        { "title": "Wärmedämmung", "description": "Gedämmtes Profil und Isolierglas-Option." },
+        { "title": "Moderne Ästhetik", "description": "Schlanke Profile und große Glasflächen." }
+      ],
+      "specs": [
+        { "label": "System", "value": "Falt (Bi-Fold)" },
+        { "label": "Glas", "value": "Zweifach-Isolierglas / gehärtet" },
+        { "label": "Profil", "value": "Aluminium, gedämmt" },
+        { "label": "Paneel", "value": "Paneelanzahl nach Bedarf" }
+      ],
+      "useCases": ["Wohnzimmer-Terrassen-Übergänge", "Restaurant & Café", "Villenfassaden", "Wintergarten"],
+      "faq": [
+        { "q": "Wie viele Paneele kann es geben?", "a": "Die Paneelanzahl und Faltrichtung werden entsprechend der Öffnung geplant." },
+        { "q": "Kann es schwellenlos sein?", "a": "Ein schwellenloser Übergang kann mit einer bodenbündigen Schiene erzielt werden." }
+      ]
+    },
+    "pergola-tente": {
+      "title": "Pergola & Markise",
+      "short": "Ästhetische Beschattung mit Gelenkarm-, Kassetten- und festen Markisensystemen.",
+      "intro": "Pergola- und Markisensysteme bieten in Ihren Außenbereichen eine ästhetische und funktionale Beschattung gegen die Sonne. Mit Gelenkarm-, Kassetten- und Kastenoptionen bieten wir für jeden Raum geeignete Lösungen.",
+      "advantages": [
+        { "title": "Ästhetische Optik", "description": "Elegante Designs im Einklang mit der Architektur." },
+        { "title": "Große Spannweite", "description": "Ununterbrochener Schatten über große Flächen." },
+        { "title": "Robuster Stoff", "description": "Wasserabweisender, UV-geschützter Acrylstoff." },
+        { "title": "Einfache Bedienung", "description": "Manuelle oder motorisierte Öffnung." }
+      ],
+      "specs": [
+        { "label": "Typ", "value": "Gelenkarm / Kassette / Kasten" },
+        { "label": "Stoff", "value": "Acryl, wasserabweisend" },
+        { "label": "Steuerung", "value": "Manuell / motorisiert" },
+        { "label": "Breite", "value": "Projektbezogen" }
+      ],
+      "useCases": ["Wohnbalkone", "Café & Restaurant", "Geschäftsfassaden", "Villengärten"],
+      "faq": [
+        { "q": "Kann sie bei Regen offen bleiben?", "a": "Wasserabweisende Stoffe halten leichtem Regen stand; bei starkem Regen wird das Einfahren empfohlen." },
+        { "q": "Gibt es einen Windsensor?", "a": "Motorisierte Modelle bieten ein automatisches Einfahren mit einem Windsensor." }
+      ]
+    },
+    "kaldir-sur": {
+      "title": "Hebe-Schiebe-Systeme",
+      "short": "Hoch gedämmte Schiebesysteme mit großen, schweren Glaspaneelen in Hebe-Schiebe-Technik.",
+      "intro": "Hebe-Schiebe-Systeme ermöglichen es, selbst große und schwere Glaspaneele mühelos zu verschieben. Beim Anheben des Paneels rasten die Dichtungen ein und bieten eine überlegene Wärme-, Schall- und Wasserdämmung.",
+      "advantages": [
+        { "title": "Große Paneele", "description": "Einfache Bewegung schwerer und großer Gläser." },
+        { "title": "Überlegene Dämmung", "description": "Vollständige Dämmung mit im geschlossenen Zustand gepressten Dichtungen." },
+        { "title": "Komfortable Bedienung", "description": "Sanfte Bewegung mit dem Hebe-Schiebe-Mechanismus." },
+        { "title": "Ununterbrochene Aussicht", "description": "Luftige Übergänge mit einer großen Glasfläche." }
+      ],
+      "specs": [
+        { "label": "System", "value": "Hebe-Schiebe-Mechanismus" },
+        { "label": "Glas", "value": "Zweifach-/Dreifach-Isolierglas" },
+        { "label": "Profil", "value": "Aluminium / PVC, gedämmt" },
+        { "label": "Schwelle", "value": "Niedrig / bodenbündige Schiene" }
+      ],
+      "useCases": ["Villenfassaden", "Wohnzimmer-Terrassen-Übergänge", "Häuser mit Meerblick", "Luxusprojekte"],
+      "faq": [
+        { "q": "Wie groß kann es sein?", "a": "Das System kann so ausgelegt werden, dass es breite und schwere Paneele trägt." },
+        { "q": "Lässt es im Winter Kälte durch?", "a": "Im geschlossenen Zustand werden die Dichtungen gepresst und bieten eine hohe Wärmedämmung." }
+      ]
+    },
+    "otomatik-kapi": {
+      "title": "Automatische Sensortüren",
+      "short": "Moderner und komfortabler Durchgang mit sensor-, dreh- und schiebeautomatischen Türen.",
+      "intro": "Automatische Türsysteme bieten mit ihren sensorgesteuerten Schiebe-, Dreh- und Industriemodellen Komfort, Hygiene und Energieeffizienz in Bereichen mit hohem Fußgängeraufkommen.",
+      "advantages": [
+        { "title": "Komfortabler Durchgang", "description": "Berührungsloses, hygienisches automatisches Öffnen." },
+        { "title": "Energieeffizienz", "description": "Reduziert Wärmeverluste durch schnelles Schließen." },
+        { "title": "Sicherheitssensoren", "description": "Einklemmschutz-Sicherheitssysteme." },
+        { "title": "Leiser Betrieb", "description": "Hochwertige Motoren mit geringer Geräuschentwicklung." }
+      ],
+      "specs": [
+        { "label": "Typ", "value": "Schiebe / Dreh / Industrie" },
+        { "label": "Sensor", "value": "Sensor / Radar / Taster" },
+        { "label": "Glas", "value": "Gehärtetes Sicherheitsglas" },
+        { "label": "Optionen", "value": "USV, Zutrittskontrolle" }
+      ],
+      "useCases": ["Einkaufszentrum- & Geschäftseingänge", "Krankenhäuser & Kliniken", "Hotels", "Bürogebäude"],
+      "faq": [
+        { "q": "Öffnet es bei Stromausfall?", "a": "Ein sicherer Durchgang wird durch eine USV-Option oder manuelle Öffnung gewährleistet." },
+        { "q": "Kann eine Zutrittskontrolle hinzugefügt werden?", "a": "Es kann mit Kartenzugangs- und Automationssystemen integriert werden." }
+      ]
+    },
+    "pvc-isi-yalitimli": {
+      "title": "Thermisch gedämmte PVC-Systeme",
+      "short": "Leistungsstarke gedämmte PVC-Tür- und Fenstersysteme, die Energieeinsparung priorisieren.",
+      "intro": "Thermisch gedämmte PVC-Systeme senken die Energiekosten erheblich durch ihre Mehrkammer-Profilstruktur, Doppel-/Dreifachdichtungen und Low-E-Isolierglasoptionen. Sie sind die ideale Lösung für komfortable und wirtschaftliche Wohnräume.",
+      "advantages": [
+        { "title": "Energieeinsparung", "description": "Geringere Heiz- und Kühlkosten durch überlegene Dämmung." },
+        { "title": "Komfort", "description": "Stabile Innentemperatur und Kondensationskontrolle." },
+        { "title": "Schalldämmung", "description": "Ruhige Räume mit Doppel-/Dreifachdichtungen." },
+        { "title": "Lange Lebensdauer", "description": "UV-beständige, nicht verblassende Oberfläche." }
+      ],
+      "specs": [
+        { "label": "Profil", "value": "76–82 mm, 6–7 Kammern" },
+        { "label": "Glas", "value": "Dreifach-Isolierglas, Low-E" },
+        { "label": "Dichtungen", "value": "Dreifachdichtung / Mitteldichtung" },
+        { "label": "Farbe", "value": "Weiß & Folienbeschichtung" }
+      ],
+      "useCases": ["Energieeffiziente Wohnungen", "Villenprojekte", "Massenwohnbau", "Renovierungsprojekte"],
+      "faq": [
+        { "q": "Ist eine Dreifachverglasung notwendig?", "a": "Zweifach- oder Dreifachverglasung wird je nach Klima und Lärmpegel der Region empfohlen." },
+        { "q": "Wie viel spart es?", "a": "Es bietet je nach Profil und Glaspaket erhebliche Einsparungen bei den Heiz- und Kühlkosten." }
+      ]
+    },
+    "kasetli-tente": {
+      "title": "Kassettenmarkise",
+      "short": "Elegante und langlebige Markisensysteme mit einer geschlossenen Kassette, die den Stoff vollständig schützt.",
+      "intro": "Kassettenmarkisensysteme bieten mit einer Kassettenstruktur, die den Stoff und den Mechanismus im geschlossenen Zustand vollständig umschließt, eine lange Lebensdauer und ein elegantes Erscheinungsbild. Sie bieten eine ästhetische Beschattung an Balkonen und Fassaden.",
+      "advantages": [
+        { "title": "Stoffschutz", "description": "Die geschlossene Kassette schützt den Stoff vor äußeren Einflüssen." },
+        { "title": "Elegante Optik", "description": "Ein elegantes Design, das im geschlossenen Zustand verborgen bleibt." },
+        { "title": "Lange Lebensdauer", "description": "Langlebig, da der Mechanismus geschützt ist." },
+        { "title": "Motorisierte Option", "description": "Fernbedienung und Sonnensensor-Integration." }
+      ],
+      "specs": [
+        { "label": "Typ", "value": "Vollkassette / Halbkassette" },
+        { "label": "Stoff", "value": "Acryl, wasserabweisend" },
+        { "label": "Steuerung", "value": "Manuell / motorisiert" },
+        { "label": "Breite", "value": "Projektbezogen" }
+      ],
+      "useCases": ["Wohnbalkone", "Caféfassaden", "Schaufenster", "Terrassen"],
+      "faq": [
+        { "q": "Wird der Stoff schmutzig?", "a": "Dank der geschlossenen Kassette ist der Stoff vor Staub und Regen geschützt und bleibt sauber." },
+        { "q": "Gibt es einen Windsensor?", "a": "Ein Wind-/Sonnensensor kann zu motorisierten Modellen hinzugefügt werden." }
+      ]
+    },
+    "cam-balkon": {
+      "title": "Glasbalkon-Systeme",
+      "short": "Verwandeln Sie Ihren Balkon mit Falt- und Schiebeglaspaneelen in einen Wohnraum für alle vier Jahreszeiten.",
+      "intro": "Faltbare Glasbalkonsysteme schützen Ihren Balkon mit ihrer rahmenlosen oder schlanken Profilstruktur vor Wind, Staub und Lärm und bieten gleichzeitig eine ununterbrochene Aussicht. Eine flexible Struktur, die sich jederzeit vollständig öffnen lässt.",
+      "advantages": [
+        { "title": "Faltbare Paneele", "description": "Alle Paneele falten sich zur Seite für eine vollständige Öffnung." },
+        { "title": "Wind- & Staubschutz", "description": "Schützt Ihren Balkon vor äußeren Einflüssen." },
+        { "title": "Elegante Optik", "description": "Moderne Ästhetik mit rahmenlosem Glas." },
+        { "title": "Einfache Reinigung", "description": "Praktische Reinigung, da sich die Paneele nach innen drehen." }
+      ],
+      "specs": [
+        { "label": "System", "value": "Falt / Schiebe" },
+        { "label": "Glas", "value": "8 mm gehärtet" },
+        { "label": "Schiene", "value": "Ober-/Unterschiene, doppelt" },
+        { "label": "Farbe", "value": "RAL-Farboptionen" }
+      ],
+      "useCases": ["Wohnungsbalkone", "Villenterrassen", "Cafébereiche", "Bürolounges"],
+      "faq": [
+        { "q": "Bietet es Wärmedämmung?", "a": "Mit der Isolierglas-Option kann eine Temperaturkontrolle erreicht werden." },
+        { "q": "Kann ein Insektenschutz angebracht werden?", "a": "Ja, eine Plissee-Insektenschutzintegration ist möglich." }
+      ]
+    },
+    "seksiyonel-garaj": {
+      "title": "Sektionaltore",
+      "short": "Thermisch gedämmte, moderne und sichere Garagentorsysteme, die parallel zur Decke öffnen.",
+      "intro": "Sektionaltore bieten maximale Platzersparnis, indem sie parallel zur Decke öffnen. Mit ihren thermisch gedämmten Paneelen und leisen Motoren sind sie eine unverzichtbare Lösung für moderne Häuser.",
+      "advantages": [
+        { "title": "Platzersparnis", "description": "Öffnet parallel zur Decke, benötigt vorne keinen Platz." },
+        { "title": "Wärmedämmung", "description": "PU-gefüllte Sandwichpaneele." },
+        { "title": "Leiser Motor", "description": "Komfortabler und geräuscharmer Betrieb." },
+        { "title": "Sicherheit", "description": "Einklemmschutzsensor und fingerschutzsichere Paneele." }
+      ],
+      "specs": [
+        { "label": "Paneel", "value": "40 mm PU-gefüllt" },
+        { "label": "Öffnung", "value": "Parallel zur Decke" },
+        { "label": "Motor", "value": "Leise, ferngesteuert" },
+        { "label": "Oberfläche", "value": "Glatt / Kassette / Holzmuster" }
+      ],
+      "useCases": ["Villengaragen", "Wohnanlagen-Parkplätze", "Gewerbegaragen", "Wohnungseingänge"],
+      "faq": [
+        { "q": "Kann eine Nebentür hinzugefügt werden?", "a": "Eine integrierte Personentür-Option ist für den Durchgang verfügbar." },
+        { "q": "Gibt es Farboptionen?", "a": "Eine breite Palette an RAL- und Holzmusteroptionen wird angeboten." }
+      ]
+    },
+    "plisseri-sineklik": {
+      "title": "Plissee-Insektenschutz",
+      "short": "Ästhetische und praktische moderne Insektenschutzsysteme mit faltbarer Plisseestruktur.",
+      "intro": "Plissee-Insektenschutzsysteme bieten Ihren Fenstern und Türen mit ihrer akkordeonfaltenden Struktur einen eleganten Insektenschutz. Sie benötigen wenig Platz, sind einfach zu bedienen und langlebig.",
+      "advantages": [
+        { "title": "Elegante Struktur", "description": "Ein eleganter Look mit faltbaren Plissees." },
+        { "title": "Einfache Bedienung", "description": "Sanftes und leises Öffnen und Schließen." },
+        { "title": "Wenig Platzbedarf", "description": "Minimaler Platz mit einem schlanken Kasten." },
+        { "title": "Breite Kompatibilität", "description": "Anwendbar auf Fenster und Türen." }
+      ],
+      "specs": [
+        { "label": "Typ", "value": "Plissee (Akkordeon)" },
+        { "label": "Anwendung", "value": "Fenster / Tür / Schiebe" },
+        { "label": "Gewebe", "value": "Glasfaser / Spezialgewebe" },
+        { "label": "Farbe", "value": "Rahmenfarboptionen" }
+      ],
+      "useCases": ["Wohnungsfenster", "Balkontüren", "Schiebesysteme", "Café & Restaurant"],
+      "faq": [
+        { "q": "Kann es schwellenlos sein?", "a": "Ein komfortabler Durchgang wird mit flachen Bodenschienenoptionen ermöglicht." },
+        { "q": "Kann es doppelseitig sein?", "a": "Eine doppelflügelige Plissee-Option ist für breite Öffnungen verfügbar." }
+      ]
+    },
+    "sundurma": {
+      "title": "Vordachsysteme",
+      "short": "Langlebige Glas- und Polycarbonat-Vordachlösungen für Eingänge, Terrassen und Parkbereiche.",
+      "intro": "Vordachsysteme sind dauerhafte Beschattungslösungen, die Eingänge, Terrassen und Fahrzeugbereiche vor Regen und Sonne schützen. Sie bieten Glas- oder Polycarbonat-Abdeckungsoptionen mit einem Aluminiumträger.",
+      "advantages": [
+        { "title": "Dauerhafter Schutz", "description": "Eine feste Abdeckung gegen Regen und Sonne." },
+        { "title": "Robuste Struktur", "description": "Aluminiumträgerkonstruktion." },
+        { "title": "Ästhetik", "description": "Modernes Design im Einklang mit der Architektur." },
+        { "title": "Maßanfertigung", "description": "Maßgeschneiderte Projektierung und Fertigung für den Bereich." }
+      ],
+      "specs": [
+        { "label": "Träger", "value": "Aluminiumkonstruktion" },
+        { "label": "Abdeckung", "value": "Glas / Polycarbonat" },
+        { "label": "Montage", "value": "Wandmontage / freistehend" },
+        { "label": "Optionen", "value": "LED, Rinne, Seitenverkleidung" }
+      ],
+      "useCases": ["Gebäudeeingänge", "Villenterrassen", "Parkbereiche", "Geschäftseingänge"],
+      "faq": [
+        { "q": "Glas oder Polycarbonat?", "a": "Glas wird für die Ästhetik empfohlen; Polycarbonat für Wirtschaftlichkeit und Schlagfestigkeit." },
+        { "q": "Kann es Schneelast tragen?", "a": "Die Konstruktion wird je nach Region für Schnee- und Windlast ausgelegt." }
+      ]
+    },
+    "havuz-kapama": {
+      "title": "Poolüberdachungssysteme",
+      "short": "Schiebe- und teleskopische Glasüberdachungssysteme, die Ihren Pool in allen vier Jahreszeiten nutzbar machen.",
+      "intro": "Poolüberdachungssysteme überdachen mit ihrer teleskopischen und schiebbaren Struktur Ihren Pool, um Nutzung in allen vier Jahreszeiten, Sicherheit und Sauberkeit zu bieten. Sie reduzieren Wärmeverluste und senken die Wartungskosten.",
+      "advantages": [
+        { "title": "Nutzung in vier Jahreszeiten", "description": "Ganzjähriger Genuss durch Überdachung des Pools." },
+        { "title": "Sicherheit", "description": "Schutz für Kinder und Haustiere." },
+        { "title": "Sauberkeit", "description": "Einfache Wartung durch Schutz vor Laub und Schmutz." },
+        { "title": "Wärmeschutz", "description": "Energieeinsparung durch Erhaltung der Wassertemperatur." }
+      ],
+      "specs": [
+        { "label": "System", "value": "Teleskopisch / Schiebe" },
+        { "label": "Abdeckung", "value": "Polycarbonat / Glas" },
+        { "label": "Träger", "value": "Aluminiumschiene" },
+        { "label": "Höhe", "value": "Niedriges / hohes Modell" }
+      ],
+      "useCases": ["Villenpools", "Hotel & Resort", "Wohnanlagen-Pools", "Spa & Wellness"],
+      "faq": [
+        { "q": "Kann man darin schwimmen?", "a": "Bei hohen Modellen ist Schwimmen und Nutzung innerhalb der Überdachung möglich." },
+        { "q": "Ist es bei Wind sicher?", "a": "Es ist mit robusten Schienen und Verriegelungssystemen windbeständig." }
+      ]
+    }
+  },
+  "about": {
+    "eyebrow": "Über uns",
+    "title": "Seit 2020 schaffen wir Mehrwert für Bauten",
+    "description": "Celyx Prime Global ist ein vertrauensorientiertes Bausystemunternehmen, das ingenieurtechnische Disziplin mit moderner architektonischer Ästhetik vereint.",
+    "storyEyebrow": "Unsere Geschichte",
+    "storyTitle": "Ein Name für Erfahrung und Vertrauen",
+    "storyLead": "Celyx Prime Global ist ein Premium-Bauunternehmen, das alle Systeme, die moderne Bauten benötigen, unter einem Dach anbietet.",
+    "storyParagraphs": [
+      "Seit 2020 entwickeln wir Lösungen für Wohn- und Gewerbeprojekte in den Bereichen PVC-, Aluminium-, Glas- und Beschattungssysteme. Wir stellen ingenieurtechnische Disziplin, hochwertige Materialien und ein modernes architektonisches Verständnis in den Mittelpunkt unserer Arbeit.",
+      "Mit unserem Team mit Sitz in Istanbul Maltepe haben wir Projekte unterschiedlicher Größenordnung realisiert — von Villen über Massenwohnbau bis hin zu Büros und Restaurants. Dank unseres maßgeschneiderten Ansatzes für jedes Projekt bieten wir auf den Raum zugeschnittene Designs statt Standardlösungen.",
+      "Wir begleiten Sie während des gesamten Prozesses — von der Aufnahme über die Projektierung bis zur Produktion, Montage und zum Kundendienst. Unser Ziel ist es nicht nur, Produkte zu verkaufen, sondern langlebige, ästhetische und komfortable Lebensräume zu schaffen."
+    ],
+    "storyCta": "Kontakt aufnehmen",
+    "foundedLabel": "Gegründet",
+    "expertiseEyebrow": "Was wir tun",
+    "expertiseTitle": "Unsere Kompetenzbereiche",
+    "expertiseDesc": "Wir bieten alle Systeme, die moderne Bauten benötigen, mit unserem Expertenteam.",
+    "expertise": [
+      { "title": "PVC-Systeme", "text": "Langlebige und energieeffiziente Fenster- und Schiebelösungen mit hoch gedämmten Mehrkammerprofilen." },
+      { "title": "Aluminium-Bauelemente & Fassade", "text": "Schlanke, langlebige Bauelemente; Vorhangfassaden und Aluminium-Faltsysteme." },
+      { "title": "Glassysteme", "text": "Guillotine-Glas, Glasbalkon, Wintergarten und Isolierglas-Schiebesysteme." },
+      { "title": "Beschattung", "text": "Bioklimatische Pergola, Zip-Screen, Kassettenmarkise und Vordachsysteme." },
+      { "title": "Automatiktüren & Garage", "text": "Automatische Sensortüren und thermisch gedämmte Sektionaltore." },
+      { "title": "Sicherheitssysteme", "text": "Rollladen-, Rollgitter- und Aluminium-Paneeltür-Sicherheitslösungen." }
+    ],
+    "expertiseCta": "Alle Leistungen ansehen",
+    "missionTitle": "Mission",
+    "mission": "Die Systeme, die moderne Bauten benötigen, mit höchsten Qualitätsstandards sowie Maßanfertigungs- und Ingenieurlösungen anzubieten und unseren Kunden langlebige und ästhetische Lebensräume zu schaffen.",
+    "visionTitle": "Vision",
+    "vision": "Eine zuverlässige Premium-Bausystemmarke zu werden, die sowohl im Inland als auch im Export bevorzugt wird, indem wir unsere innovativen Systeme und unseren kundenorientierten Serviceansatz kontinuierlich verbessern.",
+    "principlesEyebrow": "Wie wir arbeiten",
+    "principlesTitle": "Unsere Arbeitsprinzipien",
+    "principlesDesc": "Ein durchgängiger Serviceansatz, der bei jedem Projekt mit der gleichen Sorgfalt und Transparenz verfolgt wird.",
+    "principles": [
+      { "title": "Aufnahme & Beratung", "text": "Wir klären Ihren Bedarf und die Maße mit einer kostenlosen Vor-Ort-Aufnahme." },
+      { "title": "Individuelle Projektierung", "text": "Wir erstellen Maßanfertigungs-, Design- und Ingenieurlösungen für jeden Raum." },
+      { "title": "Sorgfältige Produktion & Montage", "text": "Wir fertigen genehmigte Projekte mit präzisen Maßen und setzen sie mit unserem Expertenteam um." },
+      { "title": "Kundendienst", "text": "Wir bieten Wartung, Service und Garantiesicherheit nach der Montage." }
+    ],
+    "valuesEyebrow": "Unsere Werte",
+    "valuesTitle": "Die Prinzipien, die uns ausmachen",
+    "values": [
+      { "title": "Qualität", "description": "Kompromisslose Qualität in jeder Phase, von der Materialauswahl bis zur Montage." },
+      { "title": "Vertrauen", "description": "Ein transparenter Prozess, pünktliche Lieferung und Kundendienstsicherheit." },
+      { "title": "Innovation", "description": "Wir verfolgen die aktuellsten Systeme und Technologien der Branche." },
+      { "title": "Ästhetik", "description": "Wir vereinen Ingenieurskunst mit moderner architektonischer Ästhetik." }
+    ],
+    "productionEyebrow": "Produktion & Qualität",
+    "productionTitle": "Die Sorgfalt, die wir Details widmen, bestimmt die Qualität der Arbeit",
+    "productionDesc": "Mit hochwertiger Materialauswahl, präziser Produktion und sorgfältiger Montage erzielen wir bei jedem Projekt dauerhafte Ergebnisse."
+  },
+  "projectsPage": {
+    "eyebrow": "Portfolio",
+    "title": "Unsere Projekte",
+    "description": "Eine Auswahl der herausragenden Projekte, die wir realisiert haben. Jedes mit Maßanfertigung und Ingenieurskunst gestaltet.",
+    "categories": {
+      "all": "Alle",
+      "winter-garden": "Wintergarten",
+      "pergola": "Pergola",
+      "glass": "Glassysteme",
+      "aluminium": "Aluminium",
+      "pvc": "PVC",
+      "automatic-door": "Automatiktüren"
+    },
+    "detail": {
+      "location": "Standort",
+      "year": "Jahr",
+      "system": "System",
+      "aboutEyebrow": "Über das Projekt",
+      "technical": "Technische Daten",
+      "ctaTitle": "Angebot für ein ähnliches Projekt anfordern",
+      "cta": "Kostenloses Angebot anfordern",
+      "other": "Weitere Projekte"
+    }
+  },
+  "prj": {
+    "bahcesehir-villa-kis-bahcesi": {
+      "title": "Bahçeşehir Villa Wintergarten",
+      "system": "Gedämmter Wintergarten + Guillotine-Glas",
+      "description": "Für eine Luxusvilla in Bahçeşehir konzipiert, wurde dieses Wintergartenprojekt mit thermisch gedämmten Aluminiumprofilen und Guillotine-Glassystemen realisiert, um einen Wohnraum für alle vier Jahreszeiten zu schaffen.",
+      "specs": [
+        { "label": "System", "value": "Gedämmter Wintergarten" },
+        { "label": "Glas", "value": "Dreifach-Isolierglas, Low-E" },
+        { "label": "Fläche", "value": "48 m²" },
+        { "label": "Dauer", "value": "12 Arbeitstage" }
+      ]
+    },
+    "zekeriyakoy-bioklimatik-pergola": {
+      "title": "Zekeriyaköy Bioklimatische Pergola",
+      "system": "Bioklimatische Pergola + Zip-Screen",
+      "description": "Für einen Poolwohnbereich konzipiert, bot diese bioklimatische Pergola mit einem motorisierten Lamellensystem und integrierten Zip-Screens einen komfortablen Außenbereich mit Sonnen- und Windschutz.",
+      "specs": [
+        { "label": "System", "value": "Bioklimatische Pergola" },
+        { "label": "Steuerung", "value": "Motorisiert, Smart Home" },
+        { "label": "Fläche", "value": "36 m²" },
+        { "label": "Optionen", "value": "Zip-Screen + LED" }
+      ]
+    },
+    "kadikoy-cam-balkon": {
+      "title": "Kadıköy Residenz Glasbalkon",
+      "system": "Faltbarer Glasbalkon",
+      "description": "An Residenzbalkonen mit Meerblick angewandt, machte dieses faltbare Glasbalkonsystem die Balkone in allen vier Jahreszeiten nutzbar und bewahrte gleichzeitig die ununterbrochene Aussicht.",
+      "specs": [
+        { "label": "System", "value": "Faltbarer Glasbalkon" },
+        { "label": "Glas", "value": "8 mm gehärtet" },
+        { "label": "Einheiten", "value": "24 Wohnungen" },
+        { "label": "Dauer", "value": "20 Arbeitstage" }
+      ]
+    },
+    "levent-ofis-aluminyum-cephe": {
+      "title": "Levent Büro Aluminiumfassade",
+      "system": "Aluminium-Vorhangfassade",
+      "description": "Für das Bürogebäude in Levent konzipiert, schuf dieses Vorhangfassadenprojekt mit schlanken Aluminiumsystemen und hochleistungsfähigem Isolierglas eine moderne und energieeffiziente Fassade.",
+      "specs": [
+        { "label": "System", "value": "Vorhangfassade" },
+        { "label": "Glas", "value": "Sonnenschutzglas" },
+        { "label": "Höhe", "value": "8 Etagen" },
+        { "label": "Fläche", "value": "1.200 m²" }
+      ]
+    },
+    "atasehir-pvc-pencere": {
+      "title": "Ataşehir Wohnanlage PVC-Fenster",
+      "system": "PVC-Fenster & -Tür",
+      "description": "In einem Massenwohnbauprojekt angewandt, boten diese PVC-Fenster- und -Türsysteme den Bewohnern komfortables Wohnen mit hoher Wärme-Schalldämmung und Langlebigkeit.",
+      "specs": [
+        { "label": "System", "value": "82 mm PVC-Profil" },
+        { "label": "Glas", "value": "Zweifach-Isolierglas" },
+        { "label": "Einheiten", "value": "60 Wohnungen" },
+        { "label": "Dauer", "value": "45 Arbeitstage" }
+      ]
+    },
+    "nisantasi-magaza-otomatik-kapi": {
+      "title": "Nişantaşı Geschäft Automatiktür",
+      "system": "Sensor-Schiebetür",
+      "description": "Für ein Einzelhandelsgeschäft mit hohem Fußgängeraufkommen angewandt, bot diese automatische Sensor-Schiebetür komfortablen Durchgang und Energieeffizienz.",
+      "specs": [
+        { "label": "System", "value": "Sensor-Schiebetür" },
+        { "label": "Glas", "value": "Gehärtetes Sicherheitsglas" },
+        { "label": "Sensor", "value": "Radar + Sensor" },
+        { "label": "Optionen", "value": "USV-unterstützt" }
+      ]
+    },
+    "buyukcekmece-pergola-tente": {
+      "title": "Büyükçekmece Restaurant Pergola",
+      "system": "Kassettenmarkise + Pergola",
+      "description": "Für ein Restaurant am Meer konzipiert, bot dieses Beschattungsprojekt den Gästen mit einer Kombination aus großspanniger Pergola und Kassettenmarkise ein komfortables Außenerlebnis.",
+      "specs": [
+        { "label": "System", "value": "Pergola + Kassettenmarkise" },
+        { "label": "Stoff", "value": "Acryl, wasserabweisend" },
+        { "label": "Fläche", "value": "120 m²" },
+        { "label": "Dauer", "value": "15 Arbeitstage" }
+      ]
+    },
+    "sariyer-villa-giyotin-cam": {
+      "title": "Sarıyer Villa Guillotine-Glas",
+      "system": "Guillotine-Glassystem",
+      "description": "An einer Villenterrasse mit Bosporusblick angewandt, bot dieses motorisierte Guillotine-Glassystem mit seiner Ein-Tipp-Öffnungs- und Schließstruktur eine ununterbrochene Aussicht und moderne Ästhetik.",
+      "specs": [
+        { "label": "System", "value": "Motorisiertes Guillotine-Glas" },
+        { "label": "Glas", "value": "10 mm gehärtet" },
+        { "label": "Fläche", "value": "30 m²" },
+        { "label": "Steuerung", "value": "Ferngesteuert" }
+      ]
+    },
+    "cekmekoy-villa-garaj-kapisi": {
+      "title": "Çekmeköy Villa Garagentor",
+      "system": "Sektionaltor",
+      "description": "Für eine moderne Villa angewandt, schuf dieses Sektionaltor in Holzoptik mit seinen thermisch gedämmten Paneelen und dem leisen Motor einen eleganten, architekturgerechten Eingang.",
+      "specs": [
+        { "label": "System", "value": "Sektionaltor" },
+        { "label": "Paneel", "value": "40 mm PU-gefüllt" },
+        { "label": "Oberfläche", "value": "Holzmuster" },
+        { "label": "Motor", "value": "Leise, ferngesteuert" }
+      ]
+    }
+  },
+  "blogPage": {
+    "eyebrow": "Wissenszentrum",
+    "title": "Blog & Ratgeber",
+    "description": "Fachbeiträge und Branchenratgeber, die Ihnen bei der Wahl des richtigen Systems helfen.",
+    "detail": {
+      "back": "Alle Beiträge",
+      "reading": "Lesezeit",
+      "ctaTitle": "Lassen Sie uns gemeinsam das richtige System für Ihr Projekt bestimmen.",
+      "ctaText": "Kontaktieren Sie uns für eine kostenlose Aufnahme und ein Angebot.",
+      "cta": "Angebot anfordern",
+      "related": "Ähnliche Beiträge"
+    }
+  },
+  "post": {
+    "pvc-aluminyum-karsilastirmasi": {
+      "title": "PVC vs. Aluminium: Was ist das Richtige für Sie?",
+      "category": "Ratgeber",
+      "excerpt": "Wir vergleichen PVC- und Aluminium-Bauelemente hinsichtlich Wärmedämmung, Langlebigkeit, Ästhetik und Kosten.",
+      "readingTime": "6 Min.",
+      "content": [
+        "Eine der häufigsten Fragen bei der Wahl von Fenster- und Türsystemen ist der Unterschied zwischen PVC und Aluminium. Beide Materialien haben ihre eigenen Vorteile, und die richtige Wahl hängt von den Anforderungen des Projekts ab.",
+        "PVC-Systeme bieten eine überlegene Wärme- und Schalldämmung. Dank ihrer Mehrkammer-Profilstruktur bieten sie Energieeinsparungen und sind in der Regel wirtschaftlicher. Mit ihrer wartungsfreien Oberfläche werden sie häufig in Wohnprojekten bevorzugt.",
+        "Aluminiumsysteme hingegen zeichnen sich durch hohe Festigkeit und schlanke Profilästhetik aus. Sie sind ideal für moderne Architekturprojekte, die große Glasflächen und weite Öffnungen erfordern. Mit thermisch getrennten (Thermosteg-)Serien ist auch die Energieleistung stark.",
+        "Kurz gesagt: Wenn maximale Dämmung und Wirtschaftlichkeit im Vordergrund stehen, punktet PVC; wenn schlanke Profile und große Öffnungen Priorität haben, kommt Aluminium ins Spiel. Bei gemischten Projekten sind auch Lösungen möglich, die beide Systeme kombinieren."
+      ]
+    },
+    "kis-bahcesi-secerken-dikkat": {
+      "title": "Worauf Sie bei der Wahl eines Wintergartens achten sollten",
+      "category": "Ratgeber",
+      "excerpt": "Wärmedämmung, Glaswahl und Belüftungsdetails für einen Wintergarten für alle vier Jahreszeiten.",
+      "readingTime": "5 Min.",
+      "content": [
+        "Ein Wintergarten ist ein Raum, der Ihren Wohnbereich mit der Natur verbindet und den Sie in allen vier Jahreszeiten genießen können. Wird jedoch nicht das richtige System gewählt, wird die Komforterwartung möglicherweise nicht erfüllt.",
+        "Der erste zu berücksichtigende Punkt ist die Wärmedämmung. Thermisch getrennte Aluminiumprofile und Low-E-beschichtetes Isolierglas sorgen für ein Umfeld, das im Sommer kühl und im Winter warm ist.",
+        "Auch die Belüftung ist entscheidend. Motorisierte Dachfenster und Seitenöffnungen schaffen eine ideale Luftzirkulation im Innenraum und verhindern Kondensation.",
+        "Schließlich müssen die Dachneigung und die Wasserableitung korrekt geplant werden, und das zu verwendende Glas muss gemäß den Sicherheitsstandards (gehärtet/laminiert) gewählt werden."
+      ]
+    },
+    "pergola-sistemleri-rehberi": {
+      "title": "Pergola-Systeme-Ratgeber: Bioklimatisch, Kassette und fest",
+      "category": "Ratgeber",
+      "excerpt": "In diesem Ratgeber behandeln wir die verschiedenen Pergolatypen, ihre Einsatzbereiche und Auswahlkriterien.",
+      "readingTime": "7 Min.",
+      "content": [
+        "Pergolasysteme sind eine der wirksamsten Lösungen, um Außenbereiche in bewohnbare Räume zu verwandeln. Die Wahl des richtigen Pergolatyps hängt vom Verwendungszweck ab.",
+        "Bioklimatische Pergolen steuern Sonne, Luft und Regen dank ihrer verstellbaren Lamellen. Mit Smart-Home-Integration sind sie die komfortabelste Option.",
+        "Kassetten- und Gelenkarmmarkisensysteme hingegen bieten eine wirtschaftlichere Beschattung und eignen sich für schmale Bereiche. Feste Pergolen bieten dekorative und dauerhafte Lösungen.",
+        "Bei der Wahl sollten die Größe des Bereichs, die Nutzungshäufigkeit, die Klimabedingungen und das Budget berücksichtigt werden."
+      ]
+    },
+    "giyotin-cam-sistemleri": {
+      "title": "Guillotine-Glassysteme: Der neue Standard der modernen Verkleidung",
+      "category": "Systeme",
+      "excerpt": "Die Vorteile von Guillotine-Glassystemen, ihre Einsatzbereiche und zu beachtende Punkte.",
+      "readingTime": "5 Min.",
+      "content": [
+        "Guillotine-Glassysteme sind moderne Verkleidungslösungen, bei denen sich das Glas vertikal auf und ab bewegt. Sie zeichnen sich durch Platzersparnis und eine ununterbrochene Aussicht aus.",
+        "Dank ihrer schlanken Aluminiumprofile wird eine maximale Glasfläche erreicht und der Raum wirkt geräumiger. Manuelle oder motorisierte Optionen sind verfügbar.",
+        "Sie werden häufig für Balkonverglasungen, Caféfassaden und Wintergärten bevorzugt. Mehrpunktverriegelungssysteme bieten Sicherheit und Windbeständigkeit.",
+        "Die richtige Glasstärke und ein hochwertiger Schienenmechanismus sind entscheidend dafür, dass das System zuverlässig funktioniert und lange hält."
+      ]
+    },
+    "aluminyum-dograma-rehberi": {
+      "title": "Aluminium-Bauelemente-Ratgeber: Serie, Glas und Farbwahl",
+      "category": "Ratgeber",
+      "excerpt": "Wie sollten Sie sich bei der Wahl von Aluminium-Bauelementen für Profilserie, Glaspaket und Farbe entscheiden?",
+      "readingTime": "6 Min.",
+      "content": [
+        "Aluminium-Bauelemente sind eines der beliebtesten Systeme in der modernen Architektur. Für die richtige Wahl sollten einige grundlegende Kriterien berücksichtigt werden.",
+        "Die Profilserie wird entsprechend dem Dämmbedarf bestimmt. Thermisch getrennte Serien sind ideal für Räume, die Wärmedämmung erfordern.",
+        "Das Glaspaket wird entsprechend den Klima- und Lärmbedingungen gewählt. Zweifach- oder Dreifach-Isolierglas bietet Energieeffizienz.",
+        "Farb- und Oberflächenoptionen sind vielfältig; die Harmonie mit der Architektur wird durch elektrostatische Pulverbeschichtung und Beschichtungen in Holzoptik erreicht."
+      ]
+    }
+  },
+  "productsPage": {
+    "eyebrow": "Produktkatalog",
+    "title": "Produkte",
+    "description": "Mit unserem breiten, in Kategorien gegliederten Produktsortiment bieten wir Systemlösungen für jedes Projekt.",
+    "groups": [
+      {
+        "title": "PVC-Systeme",
+        "description": "Hoch gedämmte, langlebige und wirtschaftliche PVC-Fenster- und -Türlösungen.",
+        "items": ["PVC-Fenstersysteme", "PVC-Schiebesysteme", "Thermisch gedämmte PVC-Systeme", "Farbiges / Holzoptik-PVC"]
+      },
+      {
+        "title": "Aluminiumsysteme",
+        "description": "Moderne Fassaden und Bauelemente mit schlanker Profilästhetik und hoher Festigkeit.",
+        "items": ["Aluminium-Bauelemente", "Aluminiumtür", "Aluminiumfenster", "Aluminium-Vorhangfassade", "Aluminium-Faltsysteme"]
+      },
+      {
+        "title": "Glassysteme",
+        "description": "Moderne Glaslösungen für eine ununterbrochene Aussicht und Platzersparnis.",
+        "items": ["Guillotine-Glas", "Glasbalkon", "Isolierglas-Schiebe", "Automatische Sensortür"]
+      },
+      {
+        "title": "Beschattung",
+        "description": "Ästhetische Außensysteme für Sonnen- und Regenschutz.",
+        "items": ["Pergola", "Bioklimatische Pergola", "Zip-Screen", "Markise", "Kassettenmarkise"]
+      },
+      {
+        "title": "Sicherheit & Garage",
+        "description": "Sicherheits- und Garagentorsysteme für Wohn- und Gewerbeflächen.",
+        "items": ["Rollladen", "Rollgitter", "Sektionaltor", "Aluminium-Paneeltür"]
+      }
+    ]
+  },
+  "quote": {
+    "sectionEyebrow": "Angebot anfordern",
+    "sectionTitle": "Lassen Sie uns Ihr Projekt gemeinsam verwirklichen.",
+    "sectionDesc": "Hinterlassen Sie einige Angaben zu Ihrem Projekt, und wir bereiten die passendste Lösung und einen kostenlosen Aufnahmetermin vor.",
+    "phone": "Telefon",
+    "whatsappLabel": "WhatsApp",
+    "whatsappValue": "Schreiben Sie für ein Angebot",
+    "email": "E-Mail",
+    "workingHours": "Öffnungszeiten",
+    "form": {
+      "name": "Vor- und Nachname",
+      "namePlaceholder": "Ihr vollständiger Name",
+      "phone": "Telefon",
+      "phonePlaceholder": "Ihre Telefonnummer",
+      "email": "E-Mail",
+      "emailPlaceholder": "beispiel@email.com",
+      "city": "Stadt",
+      "cityPlaceholder": "Stadt / Bezirk",
+      "system": "System von Interesse",
+      "projectType": "Projekttyp",
+      "select": "Auswählen",
+      "size": "Ungefähre Größe",
+      "sizePlaceholder": "z. B. 4 m x 3 m oder 12 m²",
+      "message": "Nachricht",
+      "messagePlaceholder": "Erzählen Sie uns kurz von Ihrem Projekt...",
+      "upload": "Projektbild / Plan hochladen",
+      "removeFile": "Datei entfernen",
+      "whatsappConsent": "Ich möchte über WhatsApp kontaktiert werden.",
+      "submit": "Kostenloses Angebot anfordern",
+      "submitting": "Wird gesendet...",
+      "error": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut oder rufen Sie uns an.",
+      "privacy": "Ihre Angaben werden nur zur Angebotserstellung verwendet und nicht an Dritte weitergegeben.",
+      "successTitle": "Ihre Anfrage ist eingegangen",
+      "successText": "Ihre Angebotsanfrage wurde erfolgreich gesendet. Unser Team wird sich in Kürze bei Ihnen melden. Vielen Dank für Ihr Interesse.",
+      "newRequest": "Neue Anfrage erstellen"
+    },
+    "systemOptions": ["Wintergarten", "Bioklimatische Pergola", "Guillotine-Glas", "Glasbalkon", "Aluminium-Bauelemente", "PVC-Fenster & -Tür", "Zip-Screen", "Pergola & Markise", "Rollladen", "Rollgitter", "Automatiktür", "Sektionaltor", "Sonstiges"],
+    "projectTypes": ["Wohnen", "Villa", "Gewerbe", "Büro", "Hotel & Restaurant", "Sonstiges"]
+  },
+  "footer": {
+    "corporate": "Unternehmen",
+    "servicesTitle": "Leistungen",
+    "contactTitle": "Kontakt",
+    "ctaTitle": "Wir sind bereit für Ihr nächstes Projekt.",
+    "ctaButton": "Kostenloses Angebot anfordern",
+    "whatsappCta": "Auf WhatsApp schreiben →",
+    "rights": "Alle Rechte vorbehalten.",
+    "tagline": "Premium-Bausysteme · Istanbul, Türkei",
+    "servicesLinks": {
+      "winter-garden": "Wintergarten",
+      "pergola": "Pergola",
+      "glass": "Glassysteme",
+      "pvc": "PVC",
+      "aluminium": "Aluminium",
+      "automatic-door": "Automatiktüren"
+    }
+  },
+  "contact": {
+    "eyebrow": "Kontakt aufnehmen",
+    "title": "Kontakt",
+    "description": "Fordern Sie eine kostenlose Aufnahme und ein Angebot für Ihr Projekt an. Wir melden uns so schnell wie möglich bei Ihnen.",
+    "phone": "Telefon",
+    "whatsapp": "WhatsApp",
+    "whatsappValue": "Jetzt schreiben",
+    "email": "E-Mail",
+    "address": "Adresse",
+    "workingHours": "Öffnungszeiten",
+    "formEyebrow": "Kostenlose Aufnahme anfordern",
+    "formTitle": "Erzählen Sie uns Ihr Projekt, wir bereiten die Lösung vor.",
+    "formDesc": "Füllen Sie das Formular aus und unser Expertenteam plant das passendste System und einen kostenlosen Aufnahmetermin für Ihr Projekt.",
+    "mapPlaceholder": "Google-Maps-Einbettungsbereich"
+  },
+  "cta": {
+    "title": "Fordern Sie ein kostenloses Angebot für Ihr Projekt an",
+    "description": "Lassen Sie unser Expertenteam das passendste System und die passendste Lösung für Sie vorbereiten. Machen Sie heute den ersten Schritt.",
+    "primary": "Kostenloses Angebot anfordern",
+    "whatsapp": "Auf WhatsApp schreiben"
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "description": "Die gesuchte Seite wurde möglicherweise verschoben oder entfernt. Sie können fortfahren, indem Sie zur Startseite zurückkehren.",
+    "cta": "Zurück zur Startseite"
+  },
+  "workingHours": [
+    { "days": "Montag – Freitag", "hours": "09:00 – 18:30" },
+    { "days": "Samstag", "hours": "09:00 – 15:00" },
+    { "days": "Sonntag", "hours": "Geschlossen" }
+  ]
+}

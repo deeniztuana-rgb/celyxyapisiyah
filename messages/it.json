@@ -1,0 +1,1033 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Chi siamo",
+    "services": "Servizi",
+    "projects": "Progetti",
+    "products": "Prodotti",
+    "contact": "Contatti",
+    "blog": "Blog",
+    "getQuote": "Richiedi un preventivo"
+  },
+  "common": {
+    "viewAll": "Vedi tutto",
+    "learnMore": "Scopri di più",
+    "readMore": "Leggi di più",
+    "review": "Scopri",
+    "allServices": "Tutti i servizi",
+    "tableOfContents": "Indice",
+    "menuOpen": "Apri menu",
+    "menuClose": "Chiudi menu",
+    "whatsapp": "WhatsApp",
+    "sinceLabel": "Dal"
+  },
+  "hero": {
+    "eyebrow": "PVC · Alluminio · Vetro · Ombreggiatura",
+    "title1": "Soluzioni di sistema premium",
+    "title2": "per edifici moderni",
+    "description": "Uniamo estetica, durata e ingegneria nei sistemi in PVC, alluminio, vetro e ombreggiatura.",
+    "ctaPrimary": "Raccontaci il tuo progetto",
+    "ctaSecondary": "Scopri i servizi",
+    "scroll": "Scopri",
+    "badges": [
+      { "value": "Dal 2020", "label": "In attività" },
+      { "value": "Su misura", "label": "Produzione" },
+      { "value": "Professionale", "label": "Applicazione e installazione" }
+    ]
+  },
+  "home": {
+    "servicesEyebrow": "I nostri servizi",
+    "servicesTitle": "Aree di soluzione",
+    "servicesDesc": "Uniamo tutti i sistemi di cui gli edifici moderni hanno bisogno con estetica, durata e ingegneria.",
+    "servicesCta": "{count}+ sistemi — Vedi tutti i servizi"
+  },
+  "companyIntro": {
+    "eyebrow": "Chi siamo",
+    "title": "Diamo valore agli edifici moderni dal 2020",
+    "paragraphs": [
+      "Come Celyx Prime Global, dal 2020 realizziamo soluzioni professionali per progetti residenziali e commerciali nei sistemi in PVC, alluminio, vetro e ombreggiatura. Affrontiamo il nostro lavoro con disciplina ingegneristica e una visione architettonica moderna.",
+      "Ti accompagniamo in ogni fase — dal rilievo alla produzione, dall'installazione all'assistenza post-vendita. Il nostro obiettivo non è semplicemente vendere prodotti, ma creare spazi abitativi duraturi, estetici e confortevoli."
+    ],
+    "points": [
+      { "title": "Produzione su misura", "text": "Progettazione e produzione su misura per ogni progetto." },
+      { "title": "Installazione professionale", "text": "Applicazione pulita, rapida e accurata." },
+      { "title": "Assistenza post-vendita", "text": "Garanzia tecnica dopo l'installazione." }
+    ],
+    "cta": "Conoscici meglio"
+  },
+  "whyUs": {
+    "eyebrow": "Perché noi?",
+    "title": "Perché sceglierci?",
+    "description": "Facciamo la differenza in ogni fase — dai materiali all'installazione, dalla progettazione all'assistenza post-vendita.",
+    "items": [
+      { "title": "Competenza", "description": "Anni di esperienza nel settore e un team di applicazione professionale." },
+      { "title": "Materiali di qualità", "description": "Sistemi duraturi, ad alte prestazioni e certificati." },
+      { "title": "Progettazione su misura", "description": "Misure, design e soluzione ingegneristica su misura per ogni progetto." },
+      { "title": "Assistenza post-vendita", "description": "Supporto tecnico, manutenzione e garanzia di servizio dopo l'installazione." }
+    ]
+  },
+  "process": {
+    "eyebrow": "Il nostro processo",
+    "title": "Un percorso impeccabile, dal rilievo alla consegna",
+    "description": "Consegniamo ogni progetto in tempo e per intero, con un processo trasparente e pianificato.",
+    "steps": [
+      { "title": "Rilievo", "description": "Determiniamo le tue esigenze e le misure con un rilievo gratuito in loco." },
+      { "title": "Progettazione", "description": "Prepariamo un design su misura, disegni tecnici e un preventivo trasparente." },
+      { "title": "Produzione", "description": "Produciamo il progetto approvato con misure precise nel nostro stabilimento." },
+      { "title": "Installazione", "description": "Eseguiamo un'installazione pulita, rapida e accurata con il nostro team di esperti." },
+      { "title": "Consegna", "description": "Completiamo i controlli e consegniamo con garanzia e sicurezza del servizio." }
+    ]
+  },
+  "featured": {
+    "eyebrow": "Sistema in evidenza",
+    "title": "Sistemi di giardino d'inverno",
+    "description": "Soluzioni moderne in vetro e alluminio che rendono i tuoi spazi abitativi utilizzabili in tutte le quattro stagioni. Uniamo estetica e prestazioni grazie a profili a taglio termico e pacchetti vetro speciali.",
+    "badgeValue": "4 stagioni",
+    "badgeLabel": "Comfort ininterrotto",
+    "highlights": ["Isolamento termico", "Architettura moderna", "Utilizzo in tutte le stagioni", "Produzione su misura"],
+    "cta": "Vedi i dettagli"
+  },
+  "projectsTeaser": {
+    "eyebrow": "I nostri progetti",
+    "title": "Progetti d'eccellenza che abbiamo realizzato",
+    "description": "Una selezione delle nostre realizzazioni con la nostra firma in progetti di ville, residenziali e commerciali.",
+    "cta": "Tutti i progetti"
+  },
+  "blogTeaser": {
+    "eyebrow": "Centro conoscenze",
+    "title": "Ciò che dovresti sapere sui sistemi",
+    "description": "Guide e contenuti esperti per aiutarti a scegliere il sistema giusto.",
+    "cta": "Tutti gli articoli"
+  },
+  "servicesPage": {
+    "eyebrow": "Le nostre aree di soluzione",
+    "title": "Servizi e sistemi",
+    "description": "Uniamo tutti i sistemi di cui gli edifici moderni hanno bisogno con estetica, durata e ingegneria."
+  },
+  "serviceDetail": {
+    "toc": "Indice",
+    "overviewEyebrow": "Panoramica",
+    "overviewTitle": "Che cos'è {title}?",
+    "advantages": "Vantaggi",
+    "technical": "Specifiche tecniche",
+    "useCases": "Aree di utilizzo",
+    "gallery": "Galleria",
+    "faq": "Domande frequenti",
+    "quoteBoxTitle": "Richiedi un preventivo per {title}",
+    "quoteBoxText": "Rilievo gratuito e preventivo.",
+    "ctaTitle": "Stai pianificando un progetto simile per {title}?",
+    "otherServices": "Altri sistemi",
+    "categoryLabel": "Categoria"
+  },
+  "serviceCategories": {
+    "cam-aluminyum": "Vetro e Alluminio",
+    "cam": "Sistemi in vetro",
+    "aluminyum": "Alluminio",
+    "pvc": "PVC",
+    "golgelendirme": "Ombreggiatura",
+    "guvenlik": "Sicurezza",
+    "otomatik-kapi": "Porte automatiche",
+    "aksesuar": "Accessori"
+  },
+  "svc": {
+    "kis-bahcesi": {
+      "title": "Sistemi di giardino d'inverno",
+      "short": "Soluzioni moderne in vetro e alluminio che rendono i tuoi spazi abitativi utilizzabili in tutte le stagioni.",
+      "intro": "I sistemi di giardino d'inverno trasformano il tuo giardino, terrazzo e balcone in spazi abitativi che puoi utilizzare comodamente tutto l'anno. Con profili in alluminio ad alto isolamento termico e pacchetti vetro speciali, uniamo estetica e prestazioni.",
+      "advantages": [
+        { "title": "Isolamento termico", "description": "Risparmio energetico grazie a profili a taglio termico e vetrocamera." },
+        { "title": "Utilizzo in 4 stagioni", "description": "Fresco d'estate, caldo d'inverno; comfort ininterrotto." },
+        { "title": "Architettura moderna", "description": "Linee di profilo sottili e ampie superfici vetrate." },
+        { "title": "Produzione su misura", "description": "Progettazione e produzione su misura per ogni ambiente." }
+      ],
+      "specs": [
+        { "label": "Profilo", "value": "Alluminio a taglio termico" },
+        { "label": "Vetro", "value": "Vetrocamera doppia / tripla, Low-E" },
+        { "label": "Tetto", "value": "Inclinato / piano, opzione motorizzata" },
+        { "label": "Colore", "value": "Cartella colori RAL" }
+      ],
+      "useCases": ["Terrazze di ville", "Aree ristorante e caffè", "Spazi abitativi in mansarda", "Progetti di hotel e resort"],
+      "faq": [
+        { "q": "Un giardino d'inverno può essere riscaldato?", "a": "Sì, con riscaldamento a pavimento e integrazione del climatizzatore è possibile un utilizzo confortevole in tutte le stagioni." },
+        { "q": "Quanto dura l'installazione?", "a": "A seconda delle dimensioni, un progetto medio viene completato entro 3-7 giorni lavorativi." }
+      ]
+    },
+    "bioklimatik-pergola": {
+      "title": "Pergola bioclimatica",
+      "short": "Sistemi di ombreggiatura intelligenti che controllano sole e pioggia con lame orientabili.",
+      "intro": "I sistemi di pergola bioclimatica ti permettono di controllare la luce solare, la ventilazione e la pioggia grazie alle loro lame in alluminio motorizzate e orientabili. Trasformano i tuoi spazi esterni in spazi abitativi intelligenti e confortevoli.",
+      "advantages": [
+        { "title": "Lame orientabili", "description": "Lame che ruotano da 0 a 135° in base all'angolo del sole." },
+        { "title": "Protezione dalla pioggia", "description": "Impermeabilità totale con drenaggio in posizione chiusa." },
+        { "title": "Controllo motorizzato", "description": "Telecomando e integrazione domotica." },
+        { "title": "Struttura resistente", "description": "Costruzione in alluminio resistente al vento." }
+      ],
+      "specs": [
+        { "label": "Materiale", "value": "Alluminio estruso" },
+        { "label": "Lama", "value": "Motorizzata, orientabile" },
+        { "label": "Controllo", "value": "Telecomando / sensore / domotica" },
+        { "label": "Opzioni", "value": "Vetro laterale, tenda zip, LED" }
+      ],
+      "useCases": ["Giardini di ville", "Terrazze di ristoranti", "Bordo piscina", "Spazi esterni di hotel"],
+      "faq": [
+        { "q": "Fa passare l'acqua sotto la pioggia?", "a": "No, in posizione chiusa l'acqua viene drenata tramite il sistema di grondaia integrato." },
+        { "q": "Può essere usata in inverno?", "a": "Con vetro laterale e integrazione di un riscaldatore può essere usata in tutte le stagioni." }
+      ]
+    },
+    "ofis-bolme": {
+      "title": "Sistemi di pareti divisorie per ufficio",
+      "short": "Soluzioni di pareti divisorie in vetro a profilo sottile e isolamento acustico per spazi di lavoro moderni.",
+      "intro": "I sistemi di pareti divisorie per ufficio trasformano gli uffici open space in ambienti funzionali, luminosi e moderni. Con profili in alluminio sottili e opzioni di vetro singolo/doppio, separano gli spazi senza bloccare la luce e offrono isolamento acustico.",
+      "advantages": [
+        { "title": "Aspetto luminoso", "description": "Spazi separati ma luminosi grazie alle superfici vetrate." },
+        { "title": "Isolamento acustico", "description": "Comfort acustico nelle sale riunioni con doppio vetro." },
+        { "title": "Struttura modulare", "description": "Facile installazione, smontaggio e riposizionamento." },
+        { "title": "Design elegante", "description": "Profili sottili e opzioni di pellicola applicabili al vetro." }
+      ],
+      "specs": [
+        { "label": "Profilo", "value": "Profilo divisorio in alluminio sottile" },
+        { "label": "Vetro", "value": "Singolo / doppio, temperato" },
+        { "label": "Porta", "value": "Porta in vetro a battente / scorrevole" },
+        { "label": "Opzioni", "value": "Veneziane, pellicola, vetro acustico" }
+      ],
+      "useCases": ["Uffici e centri direzionali", "Sale riunioni", "Showroom e negozi", "Cliniche e studi"],
+      "faq": [
+        { "q": "Si può garantire la privacy sul vetro?", "a": "La privacy può essere garantita con pellicola satinata, veneziane o vetro intelligente." },
+        { "q": "Possono essere spostate?", "a": "Grazie alla struttura modulare, le pareti possono essere smontate e riposizionate." }
+      ]
+    },
+    "aluminyum-dograma": {
+      "title": "Serramenti in alluminio",
+      "short": "Sistemi di serramenti per facciate e finestre in alluminio ad alta resistenza e profilo sottile.",
+      "intro": "I sistemi di serramenti in alluminio sono indispensabili per l'architettura moderna grazie alla loro durata, all'estetica del profilo sottile e all'ampia gamma di colori. Con le serie a taglio termico, l'efficienza energetica è in primo piano.",
+      "advantages": [
+        { "title": "Lunga durata", "description": "Struttura resistente alla corrosione e senza manutenzione." },
+        { "title": "Profilo sottile", "description": "Ampia superficie vetrata e massima luminosità." },
+        { "title": "Isolamento termico", "description": "Serie termiche con barriere in poliammide." },
+        { "title": "Libertà di design", "description": "Ampia gamma di colori e opzioni effetto legno." }
+      ],
+      "specs": [
+        { "label": "Serie", "value": "Isolata / non isolata" },
+        { "label": "Apertura", "value": "Scorrevole, a battente, a libro" },
+        { "label": "Vetro", "value": "Vetrocamera doppia / tripla" },
+        { "label": "Rivestimento", "value": "Verniciatura a polvere elettrostatica" }
+      ],
+      "useCases": ["Progetti residenziali", "Uffici e centri direzionali", "Applicazioni di facciata", "Finestre di ville"],
+      "faq": [
+        { "q": "Può avere un effetto legno?", "a": "Sì, sono disponibili opzioni di rivestimento effetto legno." },
+        { "q": "Perché l'alluminio invece del PVC?", "a": "È ideale per profili più sottili, maggiore resistenza e grandi aperture." }
+      ]
+    },
+    "zip-perde": {
+      "title": "Tende zip",
+      "short": "Soluzioni moderne di protezione solare esterna resistenti al vento con struttura a guide.",
+      "intro": "Le tende zip rimangono stabili anche in caso di vento grazie al tessuto fissato nelle guide laterali. Sono una soluzione moderna che offre controllo di sole, insetti e vento all'esterno.",
+      "advantages": [
+        { "title": "Resistenza al vento", "description": "Tessuto stabile grazie al sistema di guide laterali (zip)." },
+        { "title": "Controllo solare", "description": "Tessuti tecnici che riducono calore e UV." },
+        { "title": "Protezione dagli insetti", "description": "Barriera anti-insetti grazie alla struttura ermetica." },
+        { "title": "Utilizzo motorizzato", "description": "Telecomando e integrazione del sensore solare." }
+      ],
+      "specs": [
+        { "label": "Tessuto", "value": "Screen tecnico / oscurante" },
+        { "label": "Controllo", "value": "Motorizzato / telecomando" },
+        { "label": "Cassonetto", "value": "Cassonetto in alluminio chiuso" },
+        { "label": "Larghezza", "value": "Fino a 4 metri in un unico pezzo" }
+      ],
+      "useCases": ["Chiusura laterale della pergola", "Protezione solare di facciata", "Terrazzo e balcone", "Spazi esterni di caffè"],
+      "faq": [
+        { "q": "Il tessuto sbiadisce al sole?", "a": "I tessuti tecnici resistenti ai UV mantengono il colore per molti anni." },
+        { "q": "Esiste un tessuto trasparente?", "a": "Sono disponibili opzioni di tessuto screen semitrasparente che preservano la vista." }
+      ]
+    },
+    "giyotin-cam": {
+      "title": "Sistemi di vetro a ghigliottina",
+      "short": "Soluzioni moderne di chiusura in vetro ad apertura verticale, dall'aspetto senza telaio e salvaspazio.",
+      "intro": "I sistemi di vetro a ghigliottina ti permettono di aprire e chiudere uno spazio senza sforzo spostando il vetro verticalmente su e giù. Con la loro struttura a profilo minimale, offrono una vista ininterrotta e un aspetto moderno.",
+      "advantages": [
+        { "title": "Risparmio di spazio", "description": "Non richiede spazio aggiuntivo grazie al movimento verticale." },
+        { "title": "Vista ininterrotta", "description": "Massima superficie vetrata con un profilo sottile." },
+        { "title": "Facile utilizzo", "description": "Funzionamento silenzioso, manuale o motorizzato." },
+        { "title": "Isolamento termico e acustico", "description": "Interno confortevole con vetrocamera." }
+      ],
+      "specs": [
+        { "label": "Profilo", "value": "Alluminio, sezione sottile" },
+        { "label": "Vetro", "value": "Temperato 8-10 mm / vetrocamera" },
+        { "label": "Movimento", "value": "Manuale / motorizzato" },
+        { "label": "Serratura", "value": "Sicurezza multipunto" }
+      ],
+      "useCases": ["Chiusura di balconi", "Facciate di caffè e ristoranti", "Giardino d'inverno", "Chiusura di terrazzi"],
+      "faq": [
+        { "q": "È sicuro in caso di vento?", "a": "Offre un'elevata resistenza al vento grazie alla chiusura multipunto e a un robusto sistema di guide." },
+        { "q": "Se il vetro si rompe, viene sostituito?", "a": "Grazie alla struttura modulare, un singolo pannello può essere facilmente sostituito." }
+      ]
+    },
+    "isi-camli-surme": {
+      "title": "Sistemi scorrevoli con vetrocamera",
+      "short": "Sistemi scorrevoli in vetro a grande apertura e alto isolamento termico che scorrono lateralmente.",
+      "intro": "I sistemi scorrevoli con vetrocamera collegano perfettamente gli spazi interni ed esterni facendo scorrere lateralmente ampie superfici vetrate. Con la loro struttura a doppio vetro ad alto isolamento termico, garantiscono comfort in tutte le stagioni.",
+      "advantages": [
+        { "title": "Grande apertura", "description": "Transizioni ariose con grandi pannelli vetrati." },
+        { "title": "Isolamento termico", "description": "Risparmio energetico con la vetrocamera doppia." },
+        { "title": "Facile utilizzo", "description": "Meccanismo scorrevole silenzioso e fluido." },
+        { "title": "Aspetto moderno", "description": "Vista ininterrotta con un profilo sottile." }
+      ],
+      "specs": [
+        { "label": "Sistema", "value": "Scorrevole / alzante-scorrevole" },
+        { "label": "Vetro", "value": "Vetrocamera doppia, Low-E" },
+        { "label": "Profilo", "value": "Alluminio, isolato" },
+        { "label": "Serratura", "value": "Ferramenta multipunto" }
+      ],
+      "useCases": ["Transizioni soggiorno e terrazzo", "Facciate di ville", "Caffè e ristoranti", "Giardino d'inverno"],
+      "faq": [
+        { "q": "Si può installare una zanzariera?", "a": "Sì, è possibile l'integrazione di una zanzariera plissettata o scorrevole." },
+        { "q": "La guida è incassata nel pavimento?", "a": "È possibile installare una guida a pavimento per una transizione senza soglia." }
+      ]
+    },
+    "pvc-pencere": {
+      "title": "Sistemi di finestre in PVC",
+      "short": "Soluzioni di finestre in PVC durevoli e senza manutenzione ad alto isolamento termico e acustico.",
+      "intro": "I sistemi di finestre in PVC offrono un isolamento termico e acustico superiore grazie alla loro struttura a profilo multicamera. Con la loro superficie senza manutenzione, la lunga durata e l'ampia gamma di colori, creano spazi abitativi confortevoli.",
+      "advantages": [
+        { "title": "Isolamento termico", "description": "Prestazioni energetiche superiori grazie a un profilo multicamera." },
+        { "title": "Isolamento acustico", "description": "Interno silenzioso contro il rumore della città." },
+        { "title": "Sicurezza", "description": "Chiusura multipunto e ferramenta di sicurezza." },
+        { "title": "Facile manutenzione", "description": "Una superficie senza vernice, facile da pulire." }
+      ],
+      "specs": [
+        { "label": "Profilo", "value": "70-82 mm, multicamera" },
+        { "label": "Vetro", "value": "Vetrocamera doppia / tripla" },
+        { "label": "Guarnizioni", "value": "Guarnizione doppia / centrale" },
+        { "label": "Colore", "value": "Bianco e rivestimento in pellicola" }
+      ],
+      "useCases": ["Abitazioni", "Progetti di ville", "Edilizia residenziale", "Progetti di ristrutturazione"],
+      "faq": [
+        { "q": "Quanto dura una finestra in PVC?", "a": "Con profili e ferramenta di qualità offre oltre 30 anni di utilizzo senza problemi." },
+        { "q": "Ci sono opzioni di colore?", "a": "È disponibile un'ampia gamma di colori di rivestimento in pellicola, incluso il legno." }
+      ]
+    },
+    "pvc-surme": {
+      "title": "Sistemi scorrevoli in PVC",
+      "short": "Sistemi scorrevoli in PVC isolati che scorrono lateralmente, a grande apertura e salvaspazio.",
+      "intro": "I sistemi scorrevoli in PVC fanno risparmiare spazio facendo scorrere lateralmente ampie superfici vetrate e facilitano la transizione interno-esterno. Con la loro struttura a profilo altamente isolata, sono ideali per transizioni di balconi, terrazzi e soggiorni.",
+      "advantages": [
+        { "title": "Risparmio di spazio", "description": "Non richiede spazio aggiuntivo grazie alla struttura scorrevole laterale." },
+        { "title": "Alto isolamento", "description": "Risparmio energetico con un profilo multicamera." },
+        { "title": "Facile utilizzo", "description": "Meccanismo scorrevole silenzioso e fluido." },
+        { "title": "Grande apertura", "description": "Transizioni ariose con ampie superfici vetrate." }
+      ],
+      "specs": [
+        { "label": "Profilo", "value": "PVC multicamera, scorrevole" },
+        { "label": "Vetro", "value": "Vetrocamera doppia" },
+        { "label": "Sistema", "value": "Scorrevole / alzante-scorrevole" },
+        { "label": "Colore", "value": "Bianco e rivestimento in pellicola" }
+      ],
+      "useCases": ["Transizioni di balcone", "Porte di terrazzo", "Transizioni soggiorno-giardino", "Abitazioni"],
+      "faq": [
+        { "q": "Si può installare una zanzariera?", "a": "Sì, è possibile l'integrazione di una zanzariera scorrevole o plissettata." },
+        { "q": "Offre isolamento termico?", "a": "Offre un alto isolamento con un profilo multicamera e vetrocamera." }
+      ]
+    },
+    "panjur": {
+      "title": "Sistemi di tapparelle",
+      "short": "Soluzioni di tapparelle motorizzate e manuali per il controllo di calore, luce e sicurezza.",
+      "intro": "I sistemi di tapparelle sono soluzioni versatili che offrono isolamento termico, controllo della luce e sicurezza. Con le opzioni monoblocco e a incasso esterno, sono adatti sia per nuove costruzioni che per edifici esistenti.",
+      "advantages": [
+        { "title": "Isolamento termico", "description": "Isolamento grazie a lamelle riempite di poliuretano." },
+        { "title": "Controllo della luce", "description": "Oscuramento totale e regolazione graduale della luce." },
+        { "title": "Sicurezza", "description": "Crea una barriera di sicurezza aggiuntiva." },
+        { "title": "Comfort motorizzato", "description": "Telecomando e integrazione domotica." }
+      ],
+      "specs": [
+        { "label": "Lamella", "value": "Alluminio, riempita di PU" },
+        { "label": "Tipo", "value": "Monoblocco / a incasso esterno" },
+        { "label": "Controllo", "value": "Manuale / motorizzato" },
+        { "label": "Colore", "value": "Ampia gamma RAL" }
+      ],
+      "useCases": ["Finestre di abitazioni", "Facciate di ville", "Camere d'albergo", "Edifici commerciali"],
+      "faq": [
+        { "q": "Funziona in caso di interruzione di corrente?", "a": "Un utilizzo ininterrotto è garantito da un'opzione a batteria o da uno sblocco manuale." },
+        { "q": "Può essere fornita con zanzariera?", "a": "Sì, sono disponibili cassonetti per tapparelle con zanzariera integrata." }
+      ]
+    },
+    "kepenk": {
+      "title": "Sistemi di serrande",
+      "short": "Soluzioni di serrande automatiche ad alta sicurezza per negozi e magazzini.",
+      "intro": "I sistemi di serrande offrono sicurezza e durata di alto livello a negozi e aree commerciali. Con opzioni automatiche e manuali, offrono un'apertura e una chiusura rapide e sicure.",
+      "advantages": [
+        { "title": "Alta sicurezza", "description": "Robusta struttura a lamelle in acciaio/alluminio." },
+        { "title": "Utilizzo automatico", "description": "Apertura rapida, motorizzata e telecomandata." },
+        { "title": "Durata", "description": "Un meccanismo adatto a un uso intensivo." },
+        { "title": "Controllo di emergenza", "description": "Apertura manuale in caso di interruzione di corrente." }
+      ],
+      "specs": [
+        { "label": "Lamella", "value": "Acciaio / alluminio / poliuretano" },
+        { "label": "Controllo", "value": "Motorizzato / manuale" },
+        { "label": "Dimensioni", "value": "Su misura" },
+        { "label": "Opzioni", "value": "Lamella forata, uscita di emergenza" }
+      ],
+      "useCases": ["Negozi", "Magazzini", "Parcheggi", "Impianti industriali"],
+      "faq": [
+        { "q": "Esiste una lamella forata?", "a": "Sono disponibili opzioni di lamella forata/trasparente per la visibilità della vetrina." },
+        { "q": "Quanto è resistente?", "a": "I motori industriali sono adatti a un elevato ciclo di apertura-chiusura." }
+      ]
+    },
+    "aluminyum-cit": {
+      "title": "Sistemi di recinzione in alluminio",
+      "short": "Sistemi di recinzione moderni, durevoli e senza manutenzione per confini di giardini e terreni.",
+      "intro": "I sistemi di recinzione in alluminio creano un confine estetico e sicuro per giardini e terreni grazie alla loro struttura resistente alla corrosione, ai design di lamelle moderni e all'ampia gamma di colori.",
+      "advantages": [
+        { "title": "Senza manutenzione", "description": "Struttura in alluminio inossidabile che non richiede verniciatura." },
+        { "title": "Design moderno", "description": "Lamelle orizzontali/verticali e opzioni pieno-vuoto." },
+        { "title": "Lunga durata", "description": "Elevata resistenza alle condizioni esterne." },
+        { "title": "Su misura", "description": "Altezza e larghezza adattate al terreno." }
+      ],
+      "specs": [
+        { "label": "Materiale", "value": "Alluminio estruso" },
+        { "label": "Lamella", "value": "Orizzontale / verticale" },
+        { "label": "Rivestimento", "value": "Verniciatura a polvere elettrostatica" },
+        { "label": "Opzioni", "value": "Integrazione cancello da giardino" }
+      ],
+      "useCases": ["Giardini di ville", "Confini di terreni", "Aree piscina", "Terreni commerciali"],
+      "faq": [
+        { "q": "Offre privacy?", "a": "La privacy è garantita con lamelle piene o un design a passo stretto." },
+        { "q": "Si realizzano anche i cancelli?", "a": "Cancelli pedonali e da giardino coordinati possono essere prodotti insieme." }
+      ]
+    },
+    "aluminyum-panel-kapi": {
+      "title": "Porte a pannello in alluminio",
+      "short": "Porte a pannello in alluminio con isolamento termico, sicure e prestigiose per ingressi di ville.",
+      "intro": "Le porte a pannello in alluminio conferiscono prestigio agli ingressi di ville e residenze grazie ai loro design eleganti, ai pannelli di riempimento con isolamento termico e alla ferramenta ad alta sicurezza. Offrono un'ampia gamma di modelli e colori.",
+      "advantages": [
+        { "title": "Ingresso prestigioso", "description": "Un aspetto elegante con design di pannelli moderni." },
+        { "title": "Isolamento termico", "description": "Risparmio energetico grazie a un pannello di riempimento." },
+        { "title": "Sicurezza", "description": "Ferramenta di chiusura multipunto." },
+        { "title": "Durata", "description": "Resistente alla corrosione e alla deformazione." }
+      ],
+      "specs": [
+        { "label": "Pannello", "value": "Riempimento con isolamento termico" },
+        { "label": "Serratura", "value": "Sicurezza multipunto" },
+        { "label": "Superficie", "value": "Liscia / decorata, effetto legno" },
+        { "label": "Opzioni", "value": "Dettaglio in vetro, lettore di impronte" }
+      ],
+      "useCases": ["Ingressi di ville", "Case indipendenti", "Ingressi di edifici", "Ingressi di uffici"],
+      "faq": [
+        { "q": "Si può installare una serratura intelligente?", "a": "È possibile integrare opzioni di serratura intelligente con impronta digitale e PIN." },
+        { "q": "È su misura?", "a": "Sì, tutte le porte sono prodotte su misura per lo spazio." }
+      ]
+    },
+    "aluminyum-katlanir-kapi": {
+      "title": "Porte a libro in alluminio",
+      "short": "Sistemi di porte in vetro tipo fisarmonica che si ripiegano lateralmente e si aprono completamente, a grande apertura.",
+      "intro": "Le porte a libro (fisarmonica) in alluminio aprono completamente l'apertura ripiegando i pannelli lateralmente. Sono una soluzione flessibile e moderna che collega perfettamente gli spazi interni ed esterni.",
+      "advantages": [
+        { "title": "Apertura totale", "description": "I pannelli si ripiegano e l'apertura si apre completamente." },
+        { "title": "Utilizzo versatile", "description": "Flessibilità ideale per grandi aperture." },
+        { "title": "Isolamento termico", "description": "Profilo isolato e opzione vetrocamera." },
+        { "title": "Estetica moderna", "description": "Profili sottili e ampie superfici vetrate." }
+      ],
+      "specs": [
+        { "label": "Sistema", "value": "A libro (bi-fold)" },
+        { "label": "Vetro", "value": "Vetrocamera doppia / temperato" },
+        { "label": "Profilo", "value": "Alluminio, isolato" },
+        { "label": "Pannello", "value": "Numero di pannelli secondo necessità" }
+      ],
+      "useCases": ["Transizioni soggiorno-terrazzo", "Ristorante e caffè", "Facciate di ville", "Giardino d'inverno"],
+      "faq": [
+        { "q": "Quanti pannelli ci possono essere?", "a": "Il numero di pannelli e la direzione di piegatura sono progettati in base all'apertura." },
+        { "q": "Può essere senza soglia?", "a": "Una transizione senza soglia può essere ottenuta con una guida a pavimento." }
+      ]
+    },
+    "pergola-tente": {
+      "title": "Pergola e Tenda",
+      "short": "Ombreggiatura estetica con sistemi di tende a bracci, a cassonetto e fisse.",
+      "intro": "I sistemi di pergola e tenda offrono un'ombreggiatura estetica e funzionale contro il sole nei tuoi spazi esterni. Con opzioni a bracci, a cassonetto e a cassone, offriamo soluzioni adatte a ogni spazio.",
+      "advantages": [
+        { "title": "Aspetto estetico", "description": "Design eleganti in armonia con l'architettura." },
+        { "title": "Ampia luce", "description": "Ombra ininterrotta su grandi superfici." },
+        { "title": "Tessuto resistente", "description": "Tessuto acrilico idrorepellente e protetto dai UV." },
+        { "title": "Facile utilizzo", "description": "Apertura manuale o motorizzata." }
+      ],
+      "specs": [
+        { "label": "Tipo", "value": "A bracci / a cassonetto / a cassone" },
+        { "label": "Tessuto", "value": "Acrilico, idrorepellente" },
+        { "label": "Controllo", "value": "Manuale / motorizzato" },
+        { "label": "Larghezza", "value": "Su misura" }
+      ],
+      "useCases": ["Balconi di abitazioni", "Caffè e ristoranti", "Facciate di negozi", "Giardini di ville"],
+      "faq": [
+        { "q": "Può rimanere aperta sotto la pioggia?", "a": "I tessuti idrorepellenti resistono alla pioggia leggera; in caso di pioggia forte si consiglia la chiusura." },
+        { "q": "Esiste un sensore del vento?", "a": "I modelli motorizzati offrono una chiusura automatica con un sensore del vento." }
+      ]
+    },
+    "kaldir-sur": {
+      "title": "Sistemi alzante-scorrevole",
+      "short": "Sistemi scorrevoli altamente isolati con grandi pannelli vetrati pesanti con tecnologia alzante-scorrevole.",
+      "intro": "I sistemi alzante-scorrevole consentono di far scorrere senza sforzo anche pannelli vetrati grandi e pesanti. Quando il pannello viene sollevato, le guarnizioni si innestano per offrire un isolamento termico, acustico e all'acqua superiore.",
+      "advantages": [
+        { "title": "Grandi pannelli", "description": "Movimento facile di vetri pesanti e grandi." },
+        { "title": "Isolamento superiore", "description": "Isolamento totale con guarnizioni compresse in posizione chiusa." },
+        { "title": "Utilizzo confortevole", "description": "Movimento fluido grazie al meccanismo alzante-scorrevole." },
+        { "title": "Vista ininterrotta", "description": "Transizioni ariose con un'ampia superficie vetrata." }
+      ],
+      "specs": [
+        { "label": "Sistema", "value": "Meccanismo alzante-scorrevole" },
+        { "label": "Vetro", "value": "Vetrocamera doppia / tripla" },
+        { "label": "Profilo", "value": "Alluminio / PVC, isolato" },
+        { "label": "Soglia", "value": "Opzione soglia bassa / incassata" }
+      ],
+      "useCases": ["Facciate di ville", "Transizioni soggiorno-terrazzo", "Case con vista mare", "Progetti di lusso"],
+      "faq": [
+        { "q": "Quanto può essere grande?", "a": "Il sistema può essere progettato per sostenere pannelli larghi e pesanti." },
+        { "q": "Fa entrare il freddo in inverno?", "a": "In posizione chiusa, le guarnizioni si comprimono per offrire un alto isolamento termico." }
+      ]
+    },
+    "otomatik-kapi": {
+      "title": "Porte automatiche a fotocellula",
+      "short": "Passaggio moderno e confortevole con porte automatiche a fotocellula, girevoli e scorrevoli.",
+      "intro": "I sistemi di porte automatiche offrono comfort, igiene ed efficienza energetica nelle aree ad alto traffico grazie ai loro modelli scorrevoli a fotocellula, girevoli e industriali.",
+      "advantages": [
+        { "title": "Passaggio confortevole", "description": "Apertura automatica senza contatto e igienica." },
+        { "title": "Efficienza energetica", "description": "Riduce le perdite di calore grazie alla chiusura rapida." },
+        { "title": "Sensori di sicurezza", "description": "Sistemi di sicurezza anti-schiacciamento." },
+        { "title": "Funzionamento silenzioso", "description": "Motori di qualità a basso rumore." }
+      ],
+      "specs": [
+        { "label": "Tipo", "value": "Scorrevole / girevole / industriale" },
+        { "label": "Sensore", "value": "Fotocellula / radar / pulsante" },
+        { "label": "Vetro", "value": "Vetro di sicurezza temperato" },
+        { "label": "Opzioni", "value": "UPS, controllo accessi" }
+      ],
+      "useCases": ["Ingressi di centri commerciali e negozi", "Ospedali e cliniche", "Hotel", "Edifici per uffici"],
+      "faq": [
+        { "q": "Si apre in caso di interruzione di corrente?", "a": "Un passaggio sicuro è garantito da un'opzione UPS o da un'apertura manuale." },
+        { "q": "Si può aggiungere il controllo accessi?", "a": "Può essere integrato con sistemi di accesso con tessera e di automazione." }
+      ]
+    },
+    "pvc-isi-yalitimli": {
+      "title": "Sistemi in PVC a taglio termico",
+      "short": "Sistemi di porte e finestre in PVC isolati ad alte prestazioni che privilegiano il risparmio energetico.",
+      "intro": "I sistemi in PVC a taglio termico riducono notevolmente i costi energetici grazie alla loro struttura a profilo multicamera, alle guarnizioni doppie/triple e alle opzioni di vetrocamera Low-E. Sono la soluzione ideale per spazi abitativi confortevoli ed economici.",
+      "advantages": [
+        { "title": "Risparmio energetico", "description": "Minori costi di riscaldamento e raffrescamento grazie a un isolamento superiore." },
+        { "title": "Comfort", "description": "Temperatura interna stabile e controllo della condensa." },
+        { "title": "Isolamento acustico", "description": "Ambienti silenziosi con guarnizioni doppie/triple." },
+        { "title": "Lunga durata", "description": "Superficie resistente ai UV e non sbiadente." }
+      ],
+      "specs": [
+        { "label": "Profilo", "value": "76-82 mm, 6-7 camere" },
+        { "label": "Vetro", "value": "Vetrocamera tripla, Low-E" },
+        { "label": "Guarnizioni", "value": "Guarnizione tripla / centrale" },
+        { "label": "Colore", "value": "Bianco e rivestimento in pellicola" }
+      ],
+      "useCases": ["Abitazioni a basso consumo energetico", "Progetti di ville", "Edilizia residenziale", "Progetti di ristrutturazione"],
+      "faq": [
+        { "q": "È necessario il triplo vetro?", "a": "Il doppio o triplo vetro è consigliato in base al clima e al livello di rumore della zona." },
+        { "q": "Quanto fa risparmiare?", "a": "Offre risparmi significativi sui costi di riscaldamento e raffrescamento a seconda del profilo e del vetro." }
+      ]
+    },
+    "kasetli-tente": {
+      "title": "Tenda a cassonetto",
+      "short": "Sistemi di tende eleganti e durevoli con un cassonetto chiuso che protegge completamente il tessuto.",
+      "intro": "I sistemi di tende a cassonetto offrono una lunga durata e un aspetto elegante grazie a una struttura a cassonetto che racchiude completamente il tessuto e il meccanismo in posizione chiusa. Offrono un'ombreggiatura estetica a balconi e facciate.",
+      "advantages": [
+        { "title": "Protezione del tessuto", "description": "Il cassonetto chiuso protegge il tessuto dagli agenti esterni." },
+        { "title": "Aspetto elegante", "description": "Un design elegante nascosto in posizione chiusa." },
+        { "title": "Lunga durata", "description": "Durevole perché il meccanismo è protetto." },
+        { "title": "Opzione motorizzata", "description": "Telecomando e integrazione del sensore solare." }
+      ],
+      "specs": [
+        { "label": "Tipo", "value": "Cassonetto totale / semi-cassonetto" },
+        { "label": "Tessuto", "value": "Acrilico, idrorepellente" },
+        { "label": "Controllo", "value": "Manuale / motorizzato" },
+        { "label": "Larghezza", "value": "Su misura" }
+      ],
+      "useCases": ["Balconi di abitazioni", "Facciate di caffè", "Vetrine di negozi", "Terrazze"],
+      "faq": [
+        { "q": "Il tessuto si sporca?", "a": "Grazie al cassonetto chiuso, il tessuto è protetto da polvere e pioggia e rimane pulito." },
+        { "q": "Esiste un sensore del vento?", "a": "Un sensore vento/sole può essere aggiunto ai modelli motorizzati." }
+      ]
+    },
+    "cam-balkon": {
+      "title": "Sistemi di balcone in vetro",
+      "short": "Trasforma il tuo balcone in uno spazio abitativo 4 stagioni con pannelli in vetro a libro e scorrevoli.",
+      "intro": "I sistemi di balcone in vetro a libro proteggono il tuo balcone da vento, polvere e rumore grazie alla loro struttura senza telaio o a profilo sottile, offrendo al contempo una vista ininterrotta. Una struttura flessibile che può essere aperta completamente quando lo desideri.",
+      "advantages": [
+        { "title": "Pannelli ripiegabili", "description": "Tutti i pannelli si ripiegano lateralmente per un'apertura totale." },
+        { "title": "Protezione da vento e polvere", "description": "Protegge il tuo balcone dagli agenti esterni." },
+        { "title": "Aspetto elegante", "description": "Estetica moderna con vetro senza telaio." },
+        { "title": "Facile pulizia", "description": "Pulizia pratica poiché i pannelli ruotano verso l'interno." }
+      ],
+      "specs": [
+        { "label": "Sistema", "value": "A libro / scorrevole" },
+        { "label": "Vetro", "value": "Temperato 8 mm" },
+        { "label": "Guida", "value": "Doppia guida superiore/inferiore" },
+        { "label": "Colore", "value": "Opzioni di colore RAL" }
+      ],
+      "useCases": ["Balconi di appartamenti", "Terrazze di ville", "Aree caffè", "Aree relax di uffici"],
+      "faq": [
+        { "q": "Offre isolamento termico?", "a": "Il controllo della temperatura può essere ottenuto con l'opzione vetrocamera." },
+        { "q": "Si può installare una zanzariera?", "a": "Sì, è possibile l'integrazione di una zanzariera plissettata." }
+      ]
+    },
+    "seksiyonel-garaj": {
+      "title": "Portoni da garage sezionali",
+      "short": "Sistemi di portoni da garage moderni, sicuri e con isolamento termico che si aprono parallelamente al soffitto.",
+      "intro": "I portoni da garage sezionali offrono il massimo risparmio di spazio aprendosi parallelamente al soffitto. Con i loro pannelli con isolamento termico e i motori silenziosi, sono una soluzione indispensabile per le case moderne.",
+      "advantages": [
+        { "title": "Risparmio di spazio", "description": "Si apre parallelamente al soffitto, non occupa spazio davanti." },
+        { "title": "Isolamento termico", "description": "Pannelli sandwich riempiti di PU." },
+        { "title": "Motore silenzioso", "description": "Funzionamento confortevole e a basso rumore." },
+        { "title": "Sicurezza", "description": "Sensore anti-schiacciamento e pannelli anti-intrappolamento delle dita." }
+      ],
+      "specs": [
+        { "label": "Pannello", "value": "Riempito di PU 40 mm" },
+        { "label": "Apertura", "value": "Parallela al soffitto" },
+        { "label": "Motore", "value": "Silenzioso, telecomandato" },
+        { "label": "Superficie", "value": "Liscia / a cassettoni / effetto legno" }
+      ],
+      "useCases": ["Garage di ville", "Parcheggi di residence", "Garage commerciali", "Ingressi di edifici"],
+      "faq": [
+        { "q": "Si può aggiungere una porta laterale?", "a": "È disponibile un'opzione di porta pedonale integrata per il passaggio." },
+        { "q": "Ci sono opzioni di colore?", "a": "È offerta un'ampia gamma di opzioni RAL ed effetto legno." }
+      ]
+    },
+    "plisseri-sineklik": {
+      "title": "Zanzariere plissettate",
+      "short": "Sistemi di zanzariere moderni, estetici e pratici con struttura plissettata ripiegabile.",
+      "intro": "I sistemi di zanzariere plissettate offrono un'elegante protezione dagli insetti per le tue finestre e porte grazie alla loro struttura a fisarmonica. Occupano poco spazio, sono facili da usare e durevoli.",
+      "advantages": [
+        { "title": "Struttura elegante", "description": "Un aspetto elegante con plissettature ripiegabili." },
+        { "title": "Facile utilizzo", "description": "Apertura e chiusura morbide e silenziose." },
+        { "title": "Poco ingombranti", "description": "Spazio minimo con un cassonetto sottile." },
+        { "title": "Ampia compatibilità", "description": "Applicabili a finestre e porte." }
+      ],
+      "specs": [
+        { "label": "Tipo", "value": "Plissettata (fisarmonica)" },
+        { "label": "Applicazione", "value": "Finestra / porta / scorrevole" },
+        { "label": "Rete", "value": "Fibra di vetro / tessuto speciale" },
+        { "label": "Colore", "value": "Opzioni di colore del telaio" }
+      ],
+      "useCases": ["Finestre di abitazioni", "Porte di balcone", "Sistemi scorrevoli", "Caffè e ristoranti"],
+      "faq": [
+        { "q": "Può essere senza soglia?", "a": "Un passaggio confortevole è garantito da opzioni di base a profilo basso." },
+        { "q": "Può essere a doppia anta?", "a": "Un'opzione plissettata a doppia anta è disponibile per grandi aperture." }
+      ]
+    },
+    "sundurma": {
+      "title": "Sistemi di pensiline",
+      "short": "Soluzioni di pensiline in vetro e policarbonato durevoli per ingressi, terrazze e aree di parcheggio.",
+      "intro": "I sistemi di pensiline sono soluzioni di ombreggiatura permanenti che proteggono ingressi, terrazze e aree veicolari da pioggia e sole. Offrono opzioni di copertura in vetro o policarbonato con un supporto in alluminio.",
+      "advantages": [
+        { "title": "Protezione permanente", "description": "Una copertura fissa contro pioggia e sole." },
+        { "title": "Struttura resistente", "description": "Costruzione con supporto in alluminio." },
+        { "title": "Estetica", "description": "Design moderno in armonia con l'architettura." },
+        { "title": "Su misura", "description": "Progettazione e produzione su misura per l'area." }
+      ],
+      "specs": [
+        { "label": "Supporto", "value": "Costruzione in alluminio" },
+        { "label": "Copertura", "value": "Vetro / policarbonato" },
+        { "label": "Montaggio", "value": "A parete / autoportante" },
+        { "label": "Opzioni", "value": "LED, grondaia, chiusura laterale" }
+      ],
+      "useCases": ["Ingressi di edifici", "Terrazze di ville", "Aree di parcheggio", "Ingressi di attività"],
+      "faq": [
+        { "q": "Vetro o policarbonato?", "a": "Il vetro è consigliato per l'estetica; il policarbonato per economia e resistenza agli urti." },
+        { "q": "Può sostenere il carico di neve?", "a": "La costruzione è progettata per il carico di neve e vento in base alla zona." }
+      ]
+    },
+    "havuz-kapama": {
+      "title": "Sistemi di copertura piscina",
+      "short": "Sistemi di copertura in vetro scorrevoli e telescopici che rendono la tua piscina utilizzabile in tutte le stagioni.",
+      "intro": "I sistemi di copertura per piscine, con la loro struttura telescopica e scorrevole, coprono la tua piscina per offrire utilizzo in tutte le stagioni, sicurezza e pulizia. Riducono le perdite di calore e abbassano i costi di manutenzione.",
+      "advantages": [
+        { "title": "Utilizzo in 4 stagioni", "description": "Piacere tutto l'anno coprendo la piscina." },
+        { "title": "Sicurezza", "description": "Protezione per bambini e animali domestici." },
+        { "title": "Pulizia", "description": "Manutenzione facile proteggendo da foglie e sporco." },
+        { "title": "Protezione termica", "description": "Risparmio energetico preservando la temperatura dell'acqua." }
+      ],
+      "specs": [
+        { "label": "Sistema", "value": "Telescopico / scorrevole" },
+        { "label": "Copertura", "value": "Policarbonato / vetro" },
+        { "label": "Supporto", "value": "Guida in alluminio" },
+        { "label": "Altezza", "value": "Modello basso / alto" }
+      ],
+      "useCases": ["Piscine di ville", "Hotel e resort", "Piscine di residence", "Spa e benessere"],
+      "faq": [
+        { "q": "Si può nuotare al suo interno?", "a": "Nei modelli alti, è possibile nuotare e usare l'interno della copertura." },
+        { "q": "È sicuro in caso di vento?", "a": "È resistente al vento grazie a guide robuste e sistemi di chiusura." }
+      ]
+    }
+  },
+  "about": {
+    "eyebrow": "Chi siamo",
+    "title": "Diamo valore agli edifici dal 2020",
+    "description": "Celyx Prime Global è un'azienda di sistemi per l'edilizia orientata alla fiducia, che unisce disciplina ingegneristica ed estetica architettonica moderna.",
+    "storyEyebrow": "La nostra storia",
+    "storyTitle": "Un nome sinonimo di esperienza e fiducia",
+    "storyLead": "Celyx Prime Global è un'azienda di soluzioni edilizie premium che offre sotto un unico tetto tutti i sistemi di cui gli edifici moderni hanno bisogno.",
+    "storyParagraphs": [
+      "Dal 2020 realizziamo soluzioni per progetti residenziali e commerciali nei sistemi in PVC, alluminio, vetro e ombreggiatura. Poniamo la disciplina ingegneristica, i materiali di qualità e una visione architettonica moderna al centro del nostro lavoro.",
+      "Con il nostro team con sede a Istanbul Maltepe, abbiamo realizzato progetti di diverse dimensioni — dalle ville all'edilizia residenziale, dagli uffici ai ristoranti. Grazie al nostro approccio su misura per ogni progetto, offriamo design adattati allo spazio invece di soluzioni standard.",
+      "Ti accompagniamo durante tutto il processo — dal rilievo alla progettazione, dalla produzione all'installazione e all'assistenza post-vendita. Il nostro obiettivo non è solo vendere prodotti, ma creare spazi abitativi duraturi, estetici e confortevoli."
+    ],
+    "storyCta": "Contattaci",
+    "foundedLabel": "Fondata",
+    "expertiseEyebrow": "Cosa facciamo",
+    "expertiseTitle": "Le nostre aree di competenza",
+    "expertiseDesc": "Forniamo tutti i sistemi di cui gli edifici moderni hanno bisogno, con il nostro team di esperti.",
+    "expertise": [
+      { "title": "Sistemi in PVC", "text": "Soluzioni di finestre e scorrevoli durevoli ed efficienti dal punto di vista energetico con profili multicamera altamente isolati." },
+      { "title": "Serramenti in alluminio e Facciate", "text": "Serramenti sottili e durevoli; facciate continue e sistemi a libro in alluminio." },
+      { "title": "Sistemi in vetro", "text": "Vetro a ghigliottina, balcone in vetro, giardino d'inverno e sistemi scorrevoli con vetrocamera." },
+      { "title": "Ombreggiatura", "text": "Pergola bioclimatica, tenda zip, tenda a cassonetto e sistemi di pensiline." },
+      { "title": "Porte automatiche e Garage", "text": "Porte automatiche a fotocellula e portoni da garage sezionali con isolamento termico." },
+      { "title": "Sistemi di sicurezza", "text": "Soluzioni di sicurezza per tapparelle, serrande e porte a pannello in alluminio." }
+    ],
+    "expertiseCta": "Vedi tutti i servizi",
+    "missionTitle": "Missione",
+    "mission": "Fornire i sistemi di cui gli edifici moderni hanno bisogno secondo i più alti standard di qualità, con soluzioni su misura e ingegneristiche, offrendo ai nostri clienti spazi abitativi duraturi ed estetici.",
+    "visionTitle": "Visione",
+    "vision": "Diventare un marchio di sistemi per l'edilizia premium affidabile, preferito sia a livello nazionale che nell'export, migliorando continuamente i nostri sistemi innovativi e il nostro approccio al servizio orientato al cliente.",
+    "principlesEyebrow": "Come lavoriamo",
+    "principlesTitle": "I nostri principi di lavoro",
+    "principlesDesc": "Un approccio di servizio end-to-end che procede con la stessa cura e trasparenza in ogni progetto.",
+    "principles": [
+      { "title": "Rilievo e Consulenza", "text": "Chiariamo le tue esigenze e le misure con un rilievo gratuito in loco." },
+      { "title": "Progettazione su misura", "text": "Prepariamo soluzioni su misura, di design e ingegneristiche per ogni spazio." },
+      { "title": "Produzione e Installazione accurate", "text": "Produciamo i progetti approvati con misure precise e li realizziamo con il nostro team di esperti." },
+      { "title": "Assistenza post-vendita", "text": "Forniamo manutenzione, servizio e garanzia dopo l'installazione." }
+    ],
+    "valuesEyebrow": "I nostri valori",
+    "valuesTitle": "I principi che ci rendono ciò che siamo",
+    "values": [
+      { "title": "Qualità", "description": "Qualità senza compromessi in ogni fase, dalla scelta dei materiali all'installazione." },
+      { "title": "Fiducia", "description": "Un processo trasparente, consegna puntuale e garanzia post-vendita." },
+      { "title": "Innovazione", "description": "Seguiamo i sistemi e le tecnologie più aggiornati del settore." },
+      { "title": "Estetica", "description": "Uniamo l'ingegneria all'estetica architettonica moderna." }
+    ],
+    "productionEyebrow": "Produzione e Qualità",
+    "productionTitle": "La cura che dedichiamo ai dettagli determina la qualità del lavoro",
+    "productionDesc": "Con una scelta di materiali di qualità, una produzione precisa e un'installazione accurata, otteniamo risultati duraturi in ogni progetto."
+  },
+  "projectsPage": {
+    "eyebrow": "Portfolio",
+    "title": "I nostri progetti",
+    "description": "Una selezione dei progetti più significativi che abbiamo realizzato. Ognuno progettato su misura e con ingegneria.",
+    "categories": {
+      "all": "Tutti",
+      "winter-garden": "Giardino d'inverno",
+      "pergola": "Pergola",
+      "glass": "Sistemi in vetro",
+      "aluminium": "Alluminio",
+      "pvc": "PVC",
+      "automatic-door": "Porte automatiche"
+    },
+    "detail": {
+      "location": "Località",
+      "year": "Anno",
+      "system": "Sistema",
+      "aboutEyebrow": "Informazioni sul progetto",
+      "technical": "Specifiche tecniche",
+      "ctaTitle": "Richiedi un preventivo per un progetto simile",
+      "cta": "Richiedi un preventivo gratuito",
+      "other": "Altri progetti"
+    }
+  },
+  "prj": {
+    "bahcesehir-villa-kis-bahcesi": {
+      "title": "Giardino d'inverno di villa a Bahçeşehir",
+      "system": "Giardino d'inverno isolato + Vetro a ghigliottina",
+      "description": "Progettato per una villa di lusso a Bahçeşehir, questo progetto di giardino d'inverno è stato realizzato con profili in alluminio a taglio termico e sistemi di vetro a ghigliottina per creare uno spazio abitativo utilizzabile in tutte le stagioni.",
+      "specs": [
+        { "label": "Sistema", "value": "Giardino d'inverno isolato" },
+        { "label": "Vetro", "value": "Vetrocamera tripla, Low-E" },
+        { "label": "Superficie", "value": "48 m²" },
+        { "label": "Durata", "value": "12 giorni lavorativi" }
+      ]
+    },
+    "zekeriyakoy-bioklimatik-pergola": {
+      "title": "Pergola bioclimatica a Zekeriyaköy",
+      "system": "Pergola bioclimatica + Tenda zip",
+      "description": "Progettata per uno spazio abitativo a bordo piscina, questa pergola bioclimatica ha offerto uno spazio esterno confortevole con controllo di sole e vento grazie a un sistema di lame motorizzate e tende zip integrate.",
+      "specs": [
+        { "label": "Sistema", "value": "Pergola bioclimatica" },
+        { "label": "Controllo", "value": "Motorizzato, domotica" },
+        { "label": "Superficie", "value": "36 m²" },
+        { "label": "Opzioni", "value": "Tenda zip + LED" }
+      ]
+    },
+    "kadikoy-cam-balkon": {
+      "title": "Balcone in vetro di residenza a Kadıköy",
+      "system": "Balcone in vetro a libro",
+      "description": "Applicato ai balconi di una residenza con vista mare, questo sistema di balcone in vetro a libro ha reso i balconi utilizzabili in tutte le stagioni preservando al contempo la vista ininterrotta.",
+      "specs": [
+        { "label": "Sistema", "value": "Balcone in vetro a libro" },
+        { "label": "Vetro", "value": "Temperato 8 mm" },
+        { "label": "Unità", "value": "24 appartamenti" },
+        { "label": "Durata", "value": "20 giorni lavorativi" }
+      ]
+    },
+    "levent-ofis-aluminyum-cephe": {
+      "title": "Facciata in alluminio di ufficio a Levent",
+      "system": "Facciata continua in alluminio",
+      "description": "Progettato per l'edificio per uffici a Levent, questo progetto di facciata continua ha creato una facciata moderna ed efficiente dal punto di vista energetico con sistemi in alluminio a profilo sottile e vetrocamera ad alte prestazioni.",
+      "specs": [
+        { "label": "Sistema", "value": "Facciata continua" },
+        { "label": "Vetro", "value": "Vetro a controllo solare" },
+        { "label": "Altezza", "value": "8 piani" },
+        { "label": "Superficie", "value": "1.200 m²" }
+      ]
+    },
+    "atasehir-pvc-pencere": {
+      "title": "Finestre in PVC di residenza ad Ataşehir",
+      "system": "Finestra e Porta in PVC",
+      "description": "Applicati in un progetto di edilizia residenziale, questi sistemi di finestre e porte in PVC hanno offerto ai residenti un comfort abitativo con alto isolamento termo-acustico e durata.",
+      "specs": [
+        { "label": "Sistema", "value": "Profilo in PVC 82 mm" },
+        { "label": "Vetro", "value": "Vetrocamera doppia" },
+        { "label": "Unità", "value": "60 appartamenti" },
+        { "label": "Durata", "value": "45 giorni lavorativi" }
+      ]
+    },
+    "nisantasi-magaza-otomatik-kapi": {
+      "title": "Porta automatica di negozio a Nişantaşı",
+      "system": "Porta scorrevole a fotocellula",
+      "description": "Applicata a un negozio al dettaglio ad alto traffico, questa porta scorrevole automatica a fotocellula ha offerto un passaggio confortevole ed efficienza energetica.",
+      "specs": [
+        { "label": "Sistema", "value": "Porta scorrevole a fotocellula" },
+        { "label": "Vetro", "value": "Vetro di sicurezza temperato" },
+        { "label": "Sensore", "value": "Radar + fotocellula" },
+        { "label": "Opzioni", "value": "Con UPS" }
+      ]
+    },
+    "buyukcekmece-pergola-tente": {
+      "title": "Pergola di ristorante a Büyükçekmece",
+      "system": "Tenda a cassonetto + Pergola",
+      "description": "Progettato per un ristorante sul mare, questo progetto di ombreggiatura ha offerto agli ospiti un'esperienza esterna confortevole grazie a una combinazione di pergola a grande luce e tenda a cassonetto.",
+      "specs": [
+        { "label": "Sistema", "value": "Pergola + tenda a cassonetto" },
+        { "label": "Tessuto", "value": "Acrilico, idrorepellente" },
+        { "label": "Superficie", "value": "120 m²" },
+        { "label": "Durata", "value": "15 giorni lavorativi" }
+      ]
+    },
+    "sariyer-villa-giyotin-cam": {
+      "title": "Vetro a ghigliottina di villa a Sarıyer",
+      "system": "Sistema di vetro a ghigliottina",
+      "description": "Applicato a una terrazza di villa con vista sul Bosforo, questo sistema di vetro a ghigliottina motorizzato ha offerto una vista ininterrotta ed estetica moderna grazie alla sua struttura di apertura e chiusura con un solo tocco.",
+      "specs": [
+        { "label": "Sistema", "value": "Vetro a ghigliottina motorizzato" },
+        { "label": "Vetro", "value": "Temperato 10 mm" },
+        { "label": "Superficie", "value": "30 m²" },
+        { "label": "Controllo", "value": "Telecomandato" }
+      ]
+    },
+    "cekmekoy-villa-garaj-kapisi": {
+      "title": "Portone da garage di villa a Çekmeköy",
+      "system": "Portone da garage sezionale",
+      "description": "Applicato a una villa moderna, questo portone da garage sezionale effetto legno ha creato un ingresso elegante e in armonia con l'architettura grazie ai suoi pannelli con isolamento termico e al motore silenzioso.",
+      "specs": [
+        { "label": "Sistema", "value": "Portone da garage sezionale" },
+        { "label": "Pannello", "value": "Riempito di PU 40 mm" },
+        { "label": "Superficie", "value": "Effetto legno" },
+        { "label": "Motore", "value": "Silenzioso, telecomandato" }
+      ]
+    }
+  },
+  "blogPage": {
+    "eyebrow": "Centro conoscenze",
+    "title": "Blog e Guide",
+    "description": "Contenuti esperti e guide di settore per aiutarti a scegliere il sistema giusto.",
+    "detail": {
+      "back": "Tutti gli articoli",
+      "reading": "di lettura",
+      "ctaTitle": "Determiniamo insieme il sistema giusto per il tuo progetto.",
+      "ctaText": "Contattaci per un rilievo e un preventivo gratuiti.",
+      "cta": "Richiedi un preventivo",
+      "related": "Articoli correlati"
+    }
+  },
+  "post": {
+    "pvc-aluminyum-karsilastirmasi": {
+      "title": "PVC vs Alluminio: quale è giusto per te?",
+      "category": "Guida",
+      "excerpt": "Confrontiamo i serramenti in PVC e alluminio in termini di isolamento termico, durata, estetica e costo.",
+      "readingTime": "6 min",
+      "content": [
+        "Una delle domande più comuni nella scelta di sistemi di finestre e porte è la differenza tra PVC e alluminio. Entrambi i materiali hanno i propri vantaggi e la scelta giusta dipende dalle esigenze del progetto.",
+        "I sistemi in PVC offrono un isolamento termico e acustico superiore. Grazie alla loro struttura a profilo multicamera offrono risparmio energetico e sono generalmente più economici. Con la loro superficie senza manutenzione, sono spesso preferiti nei progetti residenziali.",
+        "I sistemi in alluminio, invece, si distinguono per l'alta resistenza e l'estetica del profilo sottile. Sono ideali per progetti architettonici moderni che richiedono grandi superfici vetrate e ampie aperture. Con le serie a taglio termico, anche le prestazioni energetiche sono elevate.",
+        "In breve: se l'isolamento massimo e l'economia sono la priorità, il PVC si distingue; se i profili sottili e le grandi aperture sono la priorità, l'alluminio emerge. Nei progetti misti, sono possibili anche soluzioni che combinano entrambi i sistemi."
+      ]
+    },
+    "kis-bahcesi-secerken-dikkat": {
+      "title": "Cosa considerare nella scelta di un giardino d'inverno",
+      "category": "Guida",
+      "excerpt": "Isolamento termico, scelta del vetro e dettagli di ventilazione per un giardino d'inverno 4 stagioni.",
+      "readingTime": "5 min",
+      "content": [
+        "Un giardino d'inverno è uno spazio che collega il tuo ambiente abitativo alla natura e che puoi goderti in tutte le stagioni. Tuttavia, se non si sceglie il sistema giusto, l'aspettativa di comfort potrebbe non essere soddisfatta.",
+        "Il primo punto da considerare è l'isolamento termico. I profili in alluminio a taglio termico e il vetrocamera con rivestimento Low-E offrono un ambiente fresco d'estate e caldo d'inverno.",
+        "Anche la ventilazione è fondamentale. Le finestre da tetto motorizzate e le aperture laterali creano una circolazione d'aria ideale all'interno e prevengono la condensa.",
+        "Infine, la pendenza del tetto e il drenaggio dell'acqua devono essere progettati correttamente, e il vetro da utilizzare deve essere scelto in conformità agli standard di sicurezza (temperato/stratificato)."
+      ]
+    },
+    "pergola-sistemleri-rehberi": {
+      "title": "Guida ai sistemi di pergola: bioclimatica, a cassonetto e fissa",
+      "category": "Guida",
+      "excerpt": "In questa guida trattiamo i diversi tipi di pergola, le loro aree di utilizzo e i criteri di scelta.",
+      "readingTime": "7 min",
+      "content": [
+        "I sistemi di pergola sono una delle soluzioni più efficaci per trasformare gli spazi esterni in spazi vivibili. La scelta del tipo di pergola giusto dipende dall'uso previsto.",
+        "Le pergole bioclimatiche controllano sole, aria e pioggia grazie alle loro lame orientabili. Con l'integrazione domotica, sono l'opzione più confortevole.",
+        "I sistemi di tende a cassonetto e a bracci, invece, offrono un'ombreggiatura più economica e sono adatti a spazi stretti. Le pergole fisse offrono soluzioni decorative e permanenti.",
+        "Nella scelta, occorre considerare le dimensioni dell'area, la frequenza d'uso, le condizioni climatiche e il budget."
+      ]
+    },
+    "giyotin-cam-sistemleri": {
+      "title": "Sistemi di vetro a ghigliottina: il nuovo standard della chiusura moderna",
+      "category": "Sistemi",
+      "excerpt": "I vantaggi dei sistemi di vetro a ghigliottina, le loro aree di utilizzo e i punti da considerare.",
+      "readingTime": "5 min",
+      "content": [
+        "I sistemi di vetro a ghigliottina sono soluzioni di chiusura moderne in cui il vetro si muove verticalmente su e giù. Si distinguono per il risparmio di spazio e la vista ininterrotta.",
+        "Grazie ai loro profili in alluminio sottili, si ottiene una superficie vetrata massima e lo spazio appare più ampio. Sono disponibili opzioni manuali o motorizzate.",
+        "Sono spesso preferiti per la chiusura di balconi, le facciate di caffè e i giardini d'inverno. I sistemi di chiusura multipunto offrono sicurezza e resistenza al vento.",
+        "Lo spessore del vetro corretto e un meccanismo di guida di qualità sono fondamentali affinché il sistema funzioni in modo affidabile e duri a lungo."
+      ]
+    },
+    "aluminyum-dograma-rehberi": {
+      "title": "Guida ai serramenti in alluminio: scelta di serie, vetro e colore",
+      "category": "Guida",
+      "excerpt": "Come decidere serie di profili, pacchetto vetro e colore nella scelta dei serramenti in alluminio?",
+      "readingTime": "6 min",
+      "content": [
+        "I serramenti in alluminio sono uno dei sistemi più apprezzati dell'architettura moderna. Per fare la scelta giusta occorre considerare alcuni criteri di base.",
+        "La serie di profili è determinata in base alla necessità di isolamento. Le serie a taglio termico sono ideali per ambienti che richiedono isolamento termico.",
+        "Il pacchetto vetro viene scelto in base alle condizioni climatiche e di rumore. La vetrocamera doppia o tripla offre efficienza energetica.",
+        "Le opzioni di colore e finitura sono ampie; l'armonia con l'architettura si ottiene con la verniciatura a polvere elettrostatica e i rivestimenti effetto legno."
+      ]
+    }
+  },
+  "productsPage": {
+    "eyebrow": "Catalogo prodotti",
+    "title": "Prodotti",
+    "description": "Con la nostra ampia gamma di prodotti organizzata per categorie, offriamo soluzioni di sistema adatte a ogni progetto.",
+    "groups": [
+      {
+        "title": "Sistemi in PVC",
+        "description": "Soluzioni di finestre e porte in PVC altamente isolanti, durevoli ed economiche.",
+        "items": ["Sistemi di finestre in PVC", "Sistemi scorrevoli in PVC", "Sistemi in PVC a taglio termico", "PVC colorato / effetto legno"]
+      },
+      {
+        "title": "Sistemi in alluminio",
+        "description": "Facciate e serramenti moderni con estetica del profilo sottile e alta resistenza.",
+        "items": ["Serramenti in alluminio", "Porta in alluminio", "Finestra in alluminio", "Facciata continua in alluminio", "Sistemi a libro in alluminio"]
+      },
+      {
+        "title": "Sistemi in vetro",
+        "description": "Soluzioni in vetro moderne che offrono una vista ininterrotta e risparmio di spazio.",
+        "items": ["Vetro a ghigliottina", "Balcone in vetro", "Scorrevole con vetrocamera", "Porta automatica a fotocellula"]
+      },
+      {
+        "title": "Ombreggiatura",
+        "description": "Sistemi esterni estetici che offrono controllo di sole e pioggia.",
+        "items": ["Pergola", "Pergola bioclimatica", "Tenda zip", "Tenda", "Tenda a cassonetto"]
+      },
+      {
+        "title": "Sicurezza e Garage",
+        "description": "Sistemi di sicurezza e portoni da garage per spazi residenziali e commerciali.",
+        "items": ["Tapparella", "Serranda", "Portone da garage sezionale", "Porta a pannello in alluminio"]
+      }
+    ]
+  },
+  "quote": {
+    "sectionEyebrow": "Richiedi un preventivo",
+    "sectionTitle": "Realizziamo insieme il tuo progetto.",
+    "sectionDesc": "Lascia alcune informazioni sul tuo progetto e prepareremo la soluzione più adatta e un appuntamento di rilievo gratuito.",
+    "phone": "Telefono",
+    "whatsappLabel": "WhatsApp",
+    "whatsappValue": "Scrivi per un preventivo",
+    "email": "E-mail",
+    "workingHours": "Orari di apertura",
+    "form": {
+      "name": "Nome e cognome",
+      "namePlaceholder": "Il tuo nome completo",
+      "phone": "Telefono",
+      "phonePlaceholder": "Il tuo numero di telefono",
+      "email": "E-mail",
+      "emailPlaceholder": "esempio@email.com",
+      "city": "Città",
+      "cityPlaceholder": "Città / Quartiere",
+      "system": "Sistema di interesse",
+      "projectType": "Tipo di progetto",
+      "select": "Seleziona",
+      "size": "Dimensioni approssimative",
+      "sizePlaceholder": "es. 4 m x 3 m o 12 m²",
+      "message": "Messaggio",
+      "messagePlaceholder": "Raccontaci brevemente del tuo progetto...",
+      "upload": "Carica immagine / planimetria del progetto",
+      "removeFile": "Rimuovi file",
+      "whatsappConsent": "Desidero essere contattato tramite WhatsApp.",
+      "submit": "Richiedi un preventivo gratuito",
+      "submitting": "Invio in corso...",
+      "error": "Si è verificato un errore. Riprova o chiamaci.",
+      "privacy": "Le tue informazioni sono utilizzate solo per la preparazione del preventivo e non sono condivise con terzi.",
+      "successTitle": "La tua richiesta è stata ricevuta",
+      "successText": "La tua richiesta di preventivo è stata inviata con successo. Il nostro team ti contatterà a breve. Grazie per il tuo interesse.",
+      "newRequest": "Crea una nuova richiesta"
+    },
+    "systemOptions": ["Giardino d'inverno", "Pergola bioclimatica", "Vetro a ghigliottina", "Balcone in vetro", "Serramenti in alluminio", "Finestra e Porta in PVC", "Tenda zip", "Pergola e Tenda", "Tapparella", "Serranda", "Porta automatica", "Portone da garage sezionale", "Altro"],
+    "projectTypes": ["Residenziale", "Villa", "Commerciale", "Ufficio", "Hotel e Ristorante", "Altro"]
+  },
+  "footer": {
+    "corporate": "Azienda",
+    "servicesTitle": "Servizi",
+    "contactTitle": "Contatti",
+    "ctaTitle": "Siamo pronti per il tuo prossimo progetto.",
+    "ctaButton": "Richiedi un preventivo gratuito",
+    "whatsappCta": "Scrivi su WhatsApp →",
+    "rights": "Tutti i diritti riservati.",
+    "tagline": "Sistemi per l'edilizia premium · Istanbul, Turchia",
+    "servicesLinks": {
+      "winter-garden": "Giardino d'inverno",
+      "pergola": "Pergola",
+      "glass": "Sistemi in vetro",
+      "pvc": "PVC",
+      "aluminium": "Alluminio",
+      "automatic-door": "Porte automatiche"
+    }
+  },
+  "contact": {
+    "eyebrow": "Contattaci",
+    "title": "Contatti",
+    "description": "Richiedi un rilievo e un preventivo gratuiti per il tuo progetto. Ti risponderemo il prima possibile.",
+    "phone": "Telefono",
+    "whatsapp": "WhatsApp",
+    "whatsappValue": "Scrivi ora",
+    "email": "E-mail",
+    "address": "Indirizzo",
+    "workingHours": "Orari di apertura",
+    "formEyebrow": "Richiedi un rilievo gratuito",
+    "formTitle": "Raccontaci il tuo progetto, prepariamo la soluzione.",
+    "formDesc": "Compila il modulo e il nostro team di esperti pianificherà il sistema più adatto e un appuntamento di rilievo gratuito per il tuo progetto.",
+    "mapPlaceholder": "Area di incorporamento Google Maps"
+  },
+  "cta": {
+    "title": "Richiedi un preventivo gratuito per il tuo progetto",
+    "description": "Lascia che il nostro team di esperti prepari il sistema e la soluzione più adatti per te. Fai il primo passo oggi stesso.",
+    "primary": "Richiedi un preventivo gratuito",
+    "whatsapp": "Scrivi su WhatsApp"
+  },
+  "notFound": {
+    "title": "Pagina non trovata",
+    "description": "La pagina che stai cercando potrebbe essere stata spostata o rimossa. Puoi continuare tornando alla home page.",
+    "cta": "Torna alla home"
+  },
+  "workingHours": [
+    { "days": "Lunedì – Venerdì", "hours": "09:00 – 18:30" },
+    { "days": "Sabato", "hours": "09:00 – 15:00" },
+    { "days": "Domenica", "hours": "Chiuso" }
+  ]
+}

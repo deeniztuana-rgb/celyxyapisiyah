@@ -1,10 +1,15 @@
-import Link from 'next/link';
 import Image from 'next/image';
+import { useTranslations, useLocale } from 'next-intl';
 import { ArrowRight } from 'lucide-react';
-import type { Post } from '@/data/blog';
+import { Link } from '@/i18n/routing';
+import type { PostStruct } from '@/data/blog';
 import { formatDate } from '@/data/blog';
 
-export function BlogCard({ post, priority = false }: { post: Post; priority?: boolean }) {
+export function BlogCard({ post, priority = false }: { post: PostStruct; priority?: boolean }) {
+  const t = useTranslations('post');
+  const tCommon = useTranslations('common');
+  const locale = useLocale();
+
   return (
     <Link
       href={`/blog/${post.slug}`}
@@ -13,7 +18,7 @@ export function BlogCard({ post, priority = false }: { post: Post; priority?: bo
       <div className="relative aspect-[16/10] overflow-hidden">
         <Image
           src={post.cover}
-          alt={post.title}
+          alt={t(`${post.slug}.title`)}
           fill
           priority={priority}
           className="object-cover transition-transform duration-700 ease-premium group-hover:scale-105"
@@ -23,19 +28,19 @@ export function BlogCard({ post, priority = false }: { post: Post; priority?: bo
       <div className="flex flex-1 flex-col p-6">
         <div className="flex items-center gap-3 text-xs text-text-muted">
           <span className="font-medium uppercase tracking-[0.14em] text-ink">
-            {post.category}
+            {t(`${post.slug}.category`)}
           </span>
           <span className="h-1 w-1 rounded-full bg-accent" />
-          <span>{formatDate(post.date)}</span>
+          <span>{formatDate(post.date, locale)}</span>
         </div>
         <h3 className="mt-4 font-display text-lg font-semibold leading-snug tracking-tight text-ink">
-          {post.title}
+          {t(`${post.slug}.title`)}
         </h3>
         <p className="mt-3 line-clamp-2 flex-1 text-sm leading-relaxed text-text-muted">
-          {post.excerpt}
+          {t(`${post.slug}.excerpt`)}
         </p>
         <span className="mt-5 inline-flex items-center gap-2 text-sm font-medium text-ink">
-          Devamını Oku
+          {tCommon('readMore')}
           <ArrowRight className="h-4 w-4 transition-transform duration-300 group-hover:translate-x-1.5" />
         </span>
       </div>

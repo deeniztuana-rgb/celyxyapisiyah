@@ -1,39 +1,42 @@
-import Link from 'next/link';
+import { useTranslations } from 'next-intl';
 import { Instagram, Facebook, Linkedin, ArrowUpRight, MapPin, Phone, Mail } from 'lucide-react';
+import { Link } from '@/i18n/routing';
 import { Container } from '@/components/ui/Container';
 import { Logo } from '@/components/ui/Logo';
 import { siteConfig, whatsappLink } from '@/config/site';
 
 const corporate = [
-  { title: 'Hakkımızda', href: '/hakkimizda' },
-  { title: 'Projeler', href: '/projeler' },
-  { title: 'Ürünler', href: '/urunler' },
-  { title: 'Blog', href: '/blog' },
-  { title: 'İletişim', href: '/iletisim' },
-];
+  { key: 'about', href: '/about' },
+  { key: 'projects', href: '/projects' },
+  { key: 'products', href: '/products' },
+  { key: 'blog', href: '/blog' },
+  { key: 'contact', href: '/contact' },
+] as const;
 
-const servicesLinks = [
-  { title: 'Kış Bahçesi', href: '/hizmetler/kis-bahcesi' },
-  { title: 'Pergola', href: '/hizmetler/pergola-tente' },
-  { title: 'Cam Sistemleri', href: '/hizmetler/giyotin-cam' },
-  { title: 'PVC', href: '/hizmetler/schuco-pvc' },
-  { title: 'Alüminyum', href: '/hizmetler/aluminyum-dograma' },
-  { title: 'Otomatik Kapı', href: '/hizmetler/otomatik-kapi' },
-];
+const serviceLinks = [
+  { key: 'winter-garden', href: '/services/kis-bahcesi' },
+  { key: 'pergola', href: '/services/pergola-tente' },
+  { key: 'glass', href: '/services/giyotin-cam' },
+  { key: 'pvc', href: '/services/pvc-pencere' },
+  { key: 'aluminium', href: '/services/aluminyum-dograma' },
+  { key: 'automatic-door', href: '/services/otomatik-kapi' },
+] as const;
 
 export function Footer() {
+  const t = useTranslations('footer');
+  const tNav = useTranslations('nav');
+  const tSvcLink = useTranslations('footer.servicesLinks');
   const year = new Date().getFullYear();
 
   return (
     <footer className="bg-ink text-white">
-      {/* CTA şeridi */}
       <Container>
         <div className="flex flex-col gap-6 border-b border-white/10 py-14 md:flex-row md:items-center md:justify-between">
           <h2 className="text-display-md max-w-xl text-balance font-display font-semibold">
-            Bir sonraki projeniz için hazırız.
+            {t('ctaTitle')}
           </h2>
-          <Link href="/iletisim" className="btn-white group shrink-0 px-8 py-4">
-            Ücretsiz Teklif Al
+          <Link href="/contact" className="btn-white group shrink-0 px-8 py-4">
+            {t('ctaButton')}
             <ArrowUpRight className="h-4 w-4 transition-transform duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
           </Link>
         </div>
@@ -47,45 +50,34 @@ export function Footer() {
               {siteConfig.description}
             </p>
             <div className="mt-6 flex gap-3">
-              <a
-                href={siteConfig.socialLinks.instagram}
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Instagram"
-                className="flex h-10 w-10 items-center justify-center border border-white/15 text-white/70 transition-colors hover:border-white hover:text-white"
-              >
-                <Instagram className="h-4 w-4" />
-              </a>
-              <a
-                href={siteConfig.socialLinks.facebook}
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Facebook"
-                className="flex h-10 w-10 items-center justify-center border border-white/15 text-white/70 transition-colors hover:border-white hover:text-white"
-              >
-                <Facebook className="h-4 w-4" />
-              </a>
-              <a
-                href={siteConfig.socialLinks.linkedin}
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="LinkedIn"
-                className="flex h-10 w-10 items-center justify-center border border-white/15 text-white/70 transition-colors hover:border-white hover:text-white"
-              >
-                <Linkedin className="h-4 w-4" />
-              </a>
+              {[
+                { href: siteConfig.socialLinks.instagram, Icon: Instagram, label: 'Instagram' },
+                { href: siteConfig.socialLinks.facebook, Icon: Facebook, label: 'Facebook' },
+                { href: siteConfig.socialLinks.linkedin, Icon: Linkedin, label: 'LinkedIn' },
+              ].map(({ href, Icon, label }) => (
+                <a
+                  key={label}
+                  href={href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label={label}
+                  className="flex h-10 w-10 items-center justify-center border border-white/15 text-white/70 transition-colors hover:border-white hover:text-white"
+                >
+                  <Icon className="h-4 w-4" />
+                </a>
+              ))}
             </div>
           </div>
 
           <div>
             <h3 className="text-xs font-medium uppercase tracking-[0.18em] text-white/40">
-              Kurumsal
+              {t('corporate')}
             </h3>
             <ul className="mt-5 flex flex-col gap-3">
               {corporate.map((l) => (
                 <li key={l.href}>
                   <Link href={l.href} className="text-sm text-white/70 transition-colors hover:text-white">
-                    {l.title}
+                    {tNav(l.key)}
                   </Link>
                 </li>
               ))}
@@ -94,13 +86,13 @@ export function Footer() {
 
           <div>
             <h3 className="text-xs font-medium uppercase tracking-[0.18em] text-white/40">
-              Hizmetler
+              {t('servicesTitle')}
             </h3>
             <ul className="mt-5 flex flex-col gap-3">
-              {servicesLinks.map((l) => (
+              {serviceLinks.map((l) => (
                 <li key={l.href}>
                   <Link href={l.href} className="text-sm text-white/70 transition-colors hover:text-white">
-                    {l.title}
+                    {tSvcLink(l.key)}
                   </Link>
                 </li>
               ))}
@@ -109,7 +101,7 @@ export function Footer() {
 
           <div>
             <h3 className="text-xs font-medium uppercase tracking-[0.18em] text-white/40">
-              İletişim
+              {t('contactTitle')}
             </h3>
             <ul className="mt-5 flex flex-col gap-4">
               <li className="flex gap-3 text-sm text-white/70">
@@ -130,7 +122,7 @@ export function Footer() {
               </li>
               <li>
                 <a href={whatsappLink()} target="_blank" rel="noopener noreferrer" className="mt-1 inline-flex text-sm font-medium text-white underline-offset-4 hover:underline">
-                  WhatsApp’tan Yazın →
+                  {t('whatsappCta')}
                 </a>
               </li>
             </ul>
@@ -141,8 +133,8 @@ export function Footer() {
       <div className="border-t border-white/10">
         <Container>
           <div className="flex flex-col items-center justify-between gap-2 py-6 text-xs text-white/40 sm:flex-row">
-            <p>© {year} {siteConfig.legalName}. Tüm hakları saklıdır.</p>
-            <p>Premium yapı sistemleri · İstanbul, Türkiye</p>
+            <p>© {year} {siteConfig.legalName}. {t('rights')}</p>
+            <p>{t('tagline')}</p>
           </div>
         </Container>
       </div>

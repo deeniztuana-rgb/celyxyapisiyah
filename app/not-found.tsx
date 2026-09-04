@@ -1,26 +1,41 @@
-import Link from 'next/link';
-import { ArrowLeft } from 'lucide-react';
-import { Container } from '@/components/ui/Container';
+import { Inter } from 'next/font/google';
+import './globals.css';
 
-export default function NotFound() {
+const inter = Inter({ subsets: ['latin'], variable: '--font-inter', display: 'swap' });
+
+// Locale dışı (eşleşmeyen) yollar için global 404 — kendi html/body'sini render eder.
+export default function GlobalNotFound() {
   return (
-    <section className="flex min-h-[70vh] items-center bg-paper">
-      <Container className="flex flex-col items-center py-32 text-center">
-        <span className="font-display text-[clamp(5rem,18vw,12rem)] font-semibold leading-none text-ink">
-          404
-        </span>
-        <h1 className="mt-4 font-display text-2xl font-semibold text-ink">
-          Sayfa bulunamadı
-        </h1>
-        <p className="mt-4 max-w-md text-text-muted">
-          Aradığınız sayfa taşınmış veya kaldırılmış olabilir. Ana sayfaya
-          dönerek devam edebilirsiniz.
-        </p>
-        <Link href="/" className="btn-dark group mt-8 px-8 py-4">
-          <ArrowLeft className="h-4 w-4 transition-transform duration-300 group-hover:-translate-x-1" />
-          Ana Sayfaya Dön
-        </Link>
-      </Container>
-    </section>
+    <html lang="en" className={inter.variable}>
+      <body>
+        <div
+          style={{
+            minHeight: '100vh',
+            display: 'flex',
+            flexDirection: 'column',
+            alignItems: 'center',
+            justifyContent: 'center',
+            gap: '1rem',
+            textAlign: 'center',
+            padding: '2rem',
+          }}
+        >
+          <h1 style={{ fontSize: '4rem', fontWeight: 700, margin: 0 }}>404</h1>
+          <p style={{ color: '#666' }}>This page could not be found.</p>
+          <a
+            href="/"
+            style={{
+              background: '#0B0B0B',
+              color: '#fff',
+              padding: '0.75rem 1.75rem',
+              textDecoration: 'none',
+              fontSize: '0.875rem',
+            }}
+          >
+            Back to Home
+          </a>
+        </div>
+      </body>
+    </html>
   );
 }
